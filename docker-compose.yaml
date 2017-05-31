@@ -19,6 +19,8 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - /mnt/public/Movies:/data/movies
       - /mnt/public/Shows:/data/tvshows
+      - /mnt/public/Photos:/data/photos
+      - /mnt/public/Music:/data/music
       - ./config/plex-config/:/config
       - /tmp/transcode/:/transcode
     labels:
