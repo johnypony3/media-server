@@ -19,7 +19,7 @@ services:
       - /etc/localtime:/etc/localtime:ro
       - /mnt/public/Movies:/data/movies
       - /mnt/public/Shows:/data/tvshows
-      - ./media/plex/config/:/config
+      - ./config/plex-config/:/config
       - /tmp/transcode/:/transcode
     labels:
       - "traefik.enable=true"
