@@ -5,11 +5,11 @@ services:
     image:         plexinc/pms-docker:latest
 
     restart:       on-failure
-    cpu_shares:    1024
+    cpu_shares:    1280
     cpuset:        0,1,2
 
-    mem_limit:     1g
-    memswap_limit: 2g
+    mem_limit:     1280m
+    memswap_limit: 3g
     privileged:    true
 
     network_mode:  host
