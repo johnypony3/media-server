@@ -11,7 +11,6 @@ services:
 
     mem_limit:       1024
     memswap_limit:   2048
-    mem_reservation: 512m
     privileged:      true
 
 
