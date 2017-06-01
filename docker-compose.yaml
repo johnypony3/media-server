@@ -1,17 +1,17 @@
-version:             '2'
+version:                '2'
 
 services:
   plex:
-    image:           plexinc/pms-docker:latest
+    image:              plexinc/pms-docker:latest
 
-    restart:         on-failure
-    cpu_shares:      73
-    cpu_quota:       50000
-    cpuset:          0,1
+    restart:            on-failure
+    cpu_shares:         1024
+    cpuset:             0,1
 
-    mem_limit:       1048576
-    memswap_limit:   2097152
-    privileged:      true
+    mem_limit:          1g
+    memswap_limit:      2g
+    memory_reservation: 512m
+    privileged:         true
 
 
     networks:
@@ -43,4 +43,4 @@ services:
 networks:
   web:
     external:
-      name:          reverseproxy_default
+      name:             reverseproxy_default
