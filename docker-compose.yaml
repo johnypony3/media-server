@@ -9,8 +9,8 @@ services:
     cpu_quota:       50000
     cpuset:          0,1
 
-    mem_limit:       1024
-    memswap_limit:   2048
+    mem_limit:       1048576
+    memswap_limit:   2097152
     privileged:      true
 
 
