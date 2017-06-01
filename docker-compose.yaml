@@ -1,16 +1,16 @@
-version:                '2'
+version:           '2'
 
 services:
   plex:
-    image:              plexinc/pms-docker:latest
+    image:         plexinc/pms-docker:latest
 
-    restart:            on-failure
-    cpu_shares:         1024
-    cpuset:             0,1,2
+    restart:       on-failure
+    cpu_shares:    1024
+    cpuset:        0,1,2
 
-    mem_limit:          1g
-    memswap_limit:      2g
-    privileged:         true
+    mem_limit:     1g
+    memswap_limit: 2g
+    privileged:    true
 
 
     networks:
@@ -32,14 +32,8 @@ services:
       - /mnt/public/Music:/data/music
       - ./config/plex-config/:/config
       - /tmp/transcode/:/transcode
-    labels:
-      - "traefik.enable=true"
-      - "traefik.backend=plex"
-      - "traefik.frontend.rule=Host:plex.${DOMAIN_NAME}"
-      - "traefik.port=32400"
-      - "traefik.docker.network=web"
 
 networks:
   web:
     external:
-      name:             reverseproxy_default
+      name:        host
