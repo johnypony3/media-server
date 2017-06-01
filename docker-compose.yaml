@@ -12,6 +12,7 @@ services:
     memswap_limit: 2g
     privileged:    true
 
+    network_mode:  host
 
     networks:
       - web
@@ -32,8 +33,3 @@ services:
       - /mnt/public/Music:/data/music
       - ./config/plex-config/:/config
       - /tmp/transcode/:/transcode
-
-networks:
-  web:
-    external:
-      name:        host
