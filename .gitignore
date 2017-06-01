@@ -104,3 +104,7 @@ tags
 # Media (oooops...)
 media/
 backup/
+Cache/
+Codecs/
+Metadata/
+

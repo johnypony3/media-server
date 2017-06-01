@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5479688,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 14,
+    "episodeName": "The Meemaw Materialization",
+    "firstAired": "2016-02-04",
+    "guestStars": [
+      "June Squibb",
+      "Alessandra Torresani"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Jim Reynolds",
+      "Maria Ferrari",
+      "Steven Molaro",
+      "Steve Holland",
+      "Tara Hernandez"
+    ],
+    "overview": "Sheldon is thrilled when his Meemaw comes to visit, but his excitement quickly fades when she butts heads with Amy.  Also, Raj meets a new girl at the comic book store who makes him question his relationship with Emily.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7214",
+    "showUrl": "",
+    "lastUpdated": 1493594669,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 14,
+    "dvdChapter": null,
+    "absoluteNumber": 197,
+    "filename": "episodes/80379/5479688.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 447818,
+    "thumbAdded": "2016-02-02 05:07:29",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5295650",
+    "siteRating": 7.8,
+    "siteRatingCount": 32
+  }
+}

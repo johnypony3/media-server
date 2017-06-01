@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0589A3F31009809D?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/1532/47BA/3AB4/5603_xlarge_front.jpg?cid=4563968" parentTitle="Alt-J" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/148B/00B9/D3FA/77E3_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Infectious" type="album" title="An Awesome Wave" summary="" index="1" ratingCount="0" year="2012" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Pop" />
+<Genre tag="General Indie Pop" />
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058206-E2C1545BE95B0BDD913102965D7F8C47?lang=en" type="track" title="Intro" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058207-B1E0751B0E87873CAB43C1E8CAE48237?lang=en" type="track" title="(The Ripe &amp; Ruin)" summary="" index="2" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058208-9318C1E9A022FFF05A4C16A8C9843574?lang=en" type="track" title="Tessellate" summary="" index="3" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="150" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058209-5376391493BE21918092A4F17F792C6D?lang=en" type="track" title="Breezeblocks" summary="" index="4" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058210-084FC14DDCB60660F79D24AA512CE97D?lang=en" type="track" title="(Guitar)" summary="" index="5" ratingCount="0">
+<Mood tag="Creepy" />
+<Mood tag="Ominous" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058211-E758B40EDC3B6DD5BC9574498322705F?lang=en" type="track" title="Something Good" summary="" index="6" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058212-36B93EE478FBCA1538CA1225C6944D4E?lang=en" type="track" title="Dissolve Me" summary="" index="7" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058213-0D5169A0D4D44D1ADAFAD3C7BDF9A8F1?lang=en" type="track" title="Matilda" summary="" index="8" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/280482573-2D20639EDB62E1A16C50F6EA0A65BA9D?lang=en" type="track" title="Ms" summary="" index="9" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058215-504D4AF084E0D0B274DC827748014C9E?lang=en" type="track" title="Fitzpleasure" summary="" index="10" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/280482575-472203C82D2661F8BB8B8296B5049296?lang=en" type="track" title="(Piano)" summary="" index="11" ratingCount="0">
+<Mood tag="Wistful" />
+<Mood tag="Forlorn" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058217-301B527815289A88E700E6BC90F76750?lang=en" type="track" title="Bloodflood" summary="" index="12" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058218-06E841F3D5FDD9FD493D869B2FBF4E00?lang=en" type="track" title="Taro" summary="" index="13" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/269058205-89A3F3E7692A94F1C76C7BCACF4FDEF6/269058219-6F6479D30CE3CA533AEC5D88F51F3C38?lang=en" type="track" title="Hand-made ((Hidden track))" summary="" index="14" ratingCount="0">
+<Mood tag="Tender" />
+<Mood tag="Sincere" />
+</Track>
+</Directory>
+</MediaContainer>

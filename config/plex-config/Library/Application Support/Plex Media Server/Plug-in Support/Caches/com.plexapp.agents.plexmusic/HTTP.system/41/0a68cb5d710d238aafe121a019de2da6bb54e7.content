@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/054EF1EC11D545E4?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/A1E5/83BC/E1D1/0377_xlarge_front.jpg?cid=4563968" parentTitle="Lana Del Rey" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/86C3/B339/0A7C/8A85_xlarge_front.jpg?cid=4563968" totalInSet="2" studio="Interscope / Polydor" type="album" title="Born To Die: The Paradise Edition [Disc 2]" summary="" index="2" ratingCount="0" year="2012" leafCount="0" viewedLeafCount="0">
+<Genre tag="Electronica" />
+<Genre tag="Electronica Mainstream" />
+<Genre tag="Pop Electronica" />
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189738-6ECFA49DC58BCA6BF09AB20FE53B18C7?lang=en" type="track" title="Ride" summary="" index="1" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189733-E866156753509B1DF5E726B9564778E4?lang=en" type="track" title="American" summary="" index="2" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189735-F4E3965D2F6047D77E4E31D997CE6C7C?lang=en" type="track" title="Cola" summary="" index="3" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189737-F4DB43C21881EC2FE4E56771D9E25A88?lang=en" type="track" title="Body Electric" summary="" index="4" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189739-7C7A9E2E20458380A902FEA35FB118C3?lang=en" type="track" title="Blue Velvet" summary="" index="5" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189740-95ED05507BC72C81893167DBF269E3CB?lang=en" type="track" title="Gods &amp; Monsters" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189736-7B6C045A4793D3E7BA9AEDC2D25EB9F8?lang=en" type="track" title="Yayo" summary="" index="7" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/299189732-4EF1EC1F5C4473A9F62E8379A4DF2F4C/299189734-C064752B4535EC3451363AA0C2525482?lang=en" type="track" title="Bel Air" summary="" index="8" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+</Directory>
+</MediaContainer>

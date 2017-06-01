@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 356711,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 10,
+    "episodeName": "The Loobenfeld Decay",
+    "firstAired": "2008-03-24",
+    "guestStars": [
+      "DJ Qualls"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre"
+    ],
+    "overview": "Leonard and Sheldon each lie to avoid seeing Penny's concert, but Sheldon's is a bit too complicated for his own good.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "3T6609",
+    "showUrl": "",
+    "lastUpdated": 1474195597,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 10,
+    "dvdChapter": null,
+    "absoluteNumber": 10,
+    "filename": "episodes/80379/356711.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 390660,
+    "thumbAdded": "2013-09-21 08:36:38",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt1127384",
+    "siteRating": 7.6,
+    "siteRatingCount": 337
+  }
+}

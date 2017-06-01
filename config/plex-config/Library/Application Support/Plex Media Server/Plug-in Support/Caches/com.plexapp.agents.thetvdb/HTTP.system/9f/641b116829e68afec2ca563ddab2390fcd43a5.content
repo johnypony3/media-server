@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 5528127,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 11,
+    "episodeName": "Dinner for Seven",
+    "firstAired": "2016-05-25",
+    "guestStars": [
+      "Suzy Jane Hunt",
+      "Frank Langella",
+      "Kasey Lee"
+    ],
+    "director": "|Nicole Kassell|",
+    "directors": [
+      "Nicole Kassell"
+    ],
+    "writers": [
+      "Joshua Brand"
+    ],
+    "overview": "Elizabeth completes the last steps of a very personal operation… but at what cost? ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1488323699,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 11,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5528127.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 457963,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 390213,
+    "thumbAdded": "2016-05-26 02:09:23",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5478564",
+    "siteRating": 7.9,
+    "siteRatingCount": 7
+  }
+}

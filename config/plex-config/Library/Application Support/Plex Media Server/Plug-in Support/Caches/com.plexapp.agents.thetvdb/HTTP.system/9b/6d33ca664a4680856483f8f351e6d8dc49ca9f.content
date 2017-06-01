@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 5464839,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Chloramphenicol",
+    "firstAired": "2016-04-06",
+    "guestStars": [
+      "Polly Lee",
+      "Alice Litvak"
+    ],
+    "director": "|Stephen Schwartz|",
+    "directors": [
+      "Stephen Schwartz"
+    ],
+    "writers": [
+      "Tracey Scott Wilson"
+    ],
+    "overview": "A devastating flaw during a mission forces Philip, Elizabeth, William and Gabriel to confront the depths of their patriotism… and their mortality. In Russia, in striving to be a better person, has Nina put her life on the line?",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1482062015,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 4,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5464839.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 382038,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 422261,
+    "thumbAdded": "2016-04-06 13:39:54",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5255258",
+    "siteRating": 7.5,
+    "siteRatingCount": 6
+  }
+}

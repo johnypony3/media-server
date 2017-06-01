@@ -1,0 +1,407 @@
+{
+    "name": "Jay-Z",
+    "mbid_id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+    "albums": {
+        "a96597aa-93b4-4e14-9e6e-03892ab24979": {
+            "albumcover": [
+                {
+                    "id": "15793",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/watch-the-throne-4ee5481d1f4b7.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "14513",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/watch-the-throne-4ed02893345d3.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "16725",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/watch-the-throne-4efb45fe8897a.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "8f046e37-21ef-46de-9aa6-4f89e3d48bbb": {
+            "cdart": [
+                {
+                    "id": "7083",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/the-blueprint-3-4e14ccbc43cb1.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "15792",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-blueprint-3-4ee547b2d41c3.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "11ae8c9c-27c1-3308-9761-edb87c8f54ea": {
+            "cdart": [
+                {
+                    "id": "11340",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/the-blueprint-4e78a9021ba89.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "15821",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-blueprint-4ee6280b488a1.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "167256",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-blueprint-55889abdd069e.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "77befaa0-662e-3d84-ba45-c862e16dc109": {
+            "cdart": [
+                {
+                    "id": "52004",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/the-black-album-5054a85230d98.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "175102",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-black-album-55d2594f7d3bf.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "ec8d1e4a-2413-407a-8192-f3cdcf1d5dad": {
+            "albumcover": [
+                {
+                    "id": "88958",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/magna-carta-holy-grail-51dcaebbd6476.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "96482",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/magna-carta-holy-grail-5223c7b18064b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "92801",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/magna-carta-holy-grail-5200003a9bd65.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "c0cdbbdd-006d-3f4a-90bb-31e259d839e4": {
+            "cdart": [
+                {
+                    "id": "11342",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/the-blueprint-the-gift--the-curse-4e78a90226672.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "15983",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-blueprint-the-gift--the-curse-4ee8e80d0119b.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "61f5a814-bac4-39a9-87e4-afe9af3349d0": {
+            "cdart": [
+                {
+                    "id": "11344",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/vol-2-hard-knock-life-4e78a936e4b69.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "15819",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/vol-2-hard-knock-life-4ee626fa215b7.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "75d65362-a9b4-3e9c-82c6-5392e6615c0a": {
+            "albumcover": [
+                {
+                    "id": "15820",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/vol-3-life-and-times-of-s-carter-4ee6276661e8d.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "11345",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/vol-3-life-and-times-of-s-carter-4e78a936e5b09.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "d8f91a57-9c02-3a83-81c5-b99c572c7a10": {
+            "albumcover": [
+                {
+                    "id": "15823",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/kingdom-come-4ee6297b9c852.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "128602",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/kingdom-come-53b5436acfdf8.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "52003",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/kingdom-come-5054a8522ff63.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "d158286d-5ed7-4974-a140-0b019349b781": {
+            "cdart": [
+                {
+                    "id": "31894",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/the-hits-collection-volume-1-4fbadd2e40d34.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "24488",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-hits-collection-volume-1-4f6779e9c1b53.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "5ef2cff8-9f22-41a0-acd1-d21603d0a172": {
+            "albumcover": [
+                {
+                    "id": "134025",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/blueprint-21-53fee71c9bba4.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "134026",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/blueprint-21-53fee766a38fb.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "4632d7ca-8813-303b-b85d-c1125cb05671": {
+            "cdart": [
+                {
+                    "id": "316",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/american-gangster-4dcf2f9d3a1bb.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "175103",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/american-gangster-55d2596620a5b.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "a7f852ba-08bc-36f1-92f3-4dc127f4b70a": {
+            "cdart": [
+                {
+                    "id": "11341",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/reasonable-doubt-4e78a902256cd.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "167255",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/reasonable-doubt-55889a95e621d.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "4ebb9809-5436-3c8c-8736-ae8a4b61f793": {
+            "albumcover": [
+                {
+                    "id": "24483",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/chapter-one-4f6779e986d25.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "3a7cb4ec-575e-3614-b71d-1248c2e470cf": {
+            "albumcover": [
+                {
+                    "id": "24485",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/in-my-lifetime-vol-1-4f6779e9b6b86.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "48687",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/cdart/in-my-lifetime-vol-1-5036b87c862c7.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "34316efd-0c39-392c-aae1-a1151eccdfa4": {
+            "albumcover": [
+                {
+                    "id": "50480",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/unplugged-50476fbea2145.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "a9ffe73c-c44a-3223-a5c2-4094733283af": {
+            "albumcover": [
+                {
+                    "id": "52850",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/greatest-hits-505dda297b757.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "b14d2ac1-0452-31f7-9a7f-55bac71a98e7": {
+            "albumcover": [
+                {
+                    "id": "154744",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/bring-it-on-the-best-of-54fad7bc43858.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "775bc732-a8ad-3298-ab66-fd1549a96a3f": {
+            "albumcover": [
+                {
+                    "id": "168356",
+                    "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/albumcover/the-dynasty-roc-la-familia-559318d2ec4a7.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "143",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4dcda6f7a3967.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "2766",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4ddc3db62f049.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "15824",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4ee629ed706c5.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "15818",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4ee625e5252da.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "142",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4dcda6be48d1e.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "329",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4dcfcd2057cee.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "14054",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4ec3de73dae0c.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "16217",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-4eeba03fc63a0.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "44595",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistbackground/jay-z-500fd9d06b4a5.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "56285",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/hdmusiclogo/jay-z-50784af856e00.png",
+            "likes": "2"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "42600",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/artistthumb/jay-z-5001e55ea4f27.jpg",
+            "likes": "1"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "56287",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/musicbanner/jay-z-50784bab12b07.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "51639",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/musicbanner/jay-z-505073f68c566.jpg",
+            "likes": "0"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "6408",
+            "url": "http://assets.fanart.tv/fanart/music/f82bcf78-5b69-4622-a5ef-73800768d9ac/musiclogo/jay-z-4e04614966c68.png",
+            "likes": "0"
+        }
+    ]
+}

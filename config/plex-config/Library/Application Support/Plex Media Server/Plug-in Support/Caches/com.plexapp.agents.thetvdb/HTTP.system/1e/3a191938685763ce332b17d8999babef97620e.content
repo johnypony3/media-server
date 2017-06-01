@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "id": 1178422,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/321239-2.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 5.3,
+        "count": 8
+      },
+      "thumbnail": "_cache/fanart/original/321239-2.jpg"
+    },
+    {
+      "id": 1179262,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/321239-3.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 9.1,
+        "count": 14
+      },
+      "thumbnail": "_cache/fanart/original/321239-3.jpg"
+    },
+    {
+      "id": 1179285,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/321239-4.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 1,
+        "count": 1
+      },
+      "thumbnail": "_cache/fanart/original/321239-4.jpg"
+    },
+    {
+      "id": 1187330,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/321239-1.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 3,
+        "count": 11
+      },
+      "thumbnail": "_cache/fanart/original/321239-1.jpg"
+    },
+    {
+      "id": 1201303,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/321239-6.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/fanart/original/321239-6.jpg"
+    }
+  ],
+  "errors": {
+    "invalidQueryParams": [
+      "lang"
+    ]
+  }
+}

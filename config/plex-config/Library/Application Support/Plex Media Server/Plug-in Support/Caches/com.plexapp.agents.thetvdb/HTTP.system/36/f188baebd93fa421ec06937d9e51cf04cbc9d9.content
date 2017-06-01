@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 6027684,
+    "airedSeason": 4,
+    "airedSeasonID": 699740,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Teambuilding Exercise",
+    "firstAired": "2017-05-14",
+    "guestStars": [
+      "Vanessa Marano"
+    ],
+    "director": "",
+    "directors": [],
+    "writers": [],
+    "overview": "When Richard reaches out to an unlikely ally, Jared worries about the company he's keeping. Gilfoyle gets tough on security in the wake of Dinesh's latest dalliance; later, he considers whether to put his pride aside for a job. Concerned about Jian-Yang's commitment to his app, Erlich takes matters into his own hands.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1496215286,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/277165/6027684.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 266431,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-05-11 07:59:41",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6267504",
+    "siteRating": 8.1,
+    "siteRatingCount": 8
+  }
+}

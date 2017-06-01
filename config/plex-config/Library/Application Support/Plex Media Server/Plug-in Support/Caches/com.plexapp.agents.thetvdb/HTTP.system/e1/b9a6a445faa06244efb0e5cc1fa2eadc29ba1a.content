@@ -1,0 +1,57 @@
+{
+  "data": {
+    "id": 5106956,
+    "airedSeason": 10,
+    "airedSeasonID": 604055,
+    "airedEpisodeNumber": 7,
+    "episodeName": "Mac Kills His Dad",
+    "firstAired": "2015-02-25",
+    "guestStars": [
+      "Lance Barber",
+      "Gregory Scott Cummins",
+      "Sandy Martin",
+      "Catherine Reitman",
+      "Lynne Marie Stewart",
+      "Cheryl Texiera",
+      "Jason Manuel Olazabal",
+      "Jessica Brown",
+      "Dakota Buchanan",
+      "Bob Wiltfong"
+    ],
+    "director": "Heath Cullens",
+    "directors": [
+      "Heath Cullens"
+    ],
+    "writers": [
+      "Dave Chernin",
+      "John Chernin",
+      "David Hornsby"
+    ],
+    "overview": "News surfaces about Mac's Dad, Luther, being a murder suspect. Mac goes into full \"P.I.\" mode to clear his father of any wrong doing.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491644081,
+    "dvdDiscid": "",
+    "dvdSeason": 10,
+    "dvdEpisodeNumber": 7,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75805/5106956.jpg",
+    "seriesId": 75805,
+    "lastUpdatedBy": 390213,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2015-02-27 06:11:17",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3878584",
+    "siteRating": 8.1,
+    "siteRatingCount": 13
+  }
+}

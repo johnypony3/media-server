@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5837961,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 3,
+    "episodeName": "The Midges",
+    "firstAired": "2017-03-21",
+    "guestStars": [],
+    "director": "Stefan Schwartz",
+    "directors": [
+      "Stefan Schwartz"
+    ],
+    "writers": [
+      "Tracey Scott Wilson"
+    ],
+    "overview": "Philip and Elizabeth tell Paige more about the family business, but pressing new questions arise when an operation takes a ghastly and unexpected turn. A sensitive package jeopardizes Oleg’s life back in Russia.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU503",
+    "showUrl": "",
+    "lastUpdated": 1494727644,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5837961.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 390926,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-03-21 11:44:25",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6261580",
+    "siteRating": 8.6,
+    "siteRatingCount": 5
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": 1178574,
+      "keyType": "poster",
+      "subKey": "",
+      "fileName": "posters/321239-2.jpg",
+      "resolution": "680x1000",
+      "ratingsInfo": {
+        "average": 7.1,
+        "count": 18
+      },
+      "thumbnail": "_cache/posters/321239-2.jpg"
+    },
+    {
+      "id": 1195972,
+      "keyType": "poster",
+      "subKey": "",
+      "fileName": "posters/321239-1.jpg",
+      "resolution": "680x1000",
+      "ratingsInfo": {
+        "average": 1.8,
+        "count": 14
+      },
+      "thumbnail": "_cache/posters/321239-1.jpg"
+    },
+    {
+      "id": 1200824,
+      "keyType": "poster",
+      "subKey": "",
+      "fileName": "posters/321239-3.jpg",
+      "resolution": "680x1000",
+      "ratingsInfo": {
+        "average": 7.5,
+        "count": 24
+      },
+      "thumbnail": "_cache/posters/321239-3.jpg"
+    }
+  ],
+  "errors": {
+    "invalidQueryParams": [
+      "lang"
+    ]
+  }
+}

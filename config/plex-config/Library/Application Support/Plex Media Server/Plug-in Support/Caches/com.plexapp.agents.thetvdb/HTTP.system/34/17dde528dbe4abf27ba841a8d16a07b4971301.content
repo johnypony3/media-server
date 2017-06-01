@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": 5545864,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 13,
+    "episodeName": "Persona Non Grata",
+    "firstAired": "2016-06-08",
+    "guestStars": [
+      "Suzy Jane Hunt",
+      "Frank Langella",
+      "Amy Tribbey"
+    ],
+    "director": "|Chris Long|",
+    "directors": [
+      "Chris Long"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Philip and Elizabeth are in a high-stakes race against the FBI to recover a hazardous package. Will they get there in time? And will Paige follow her parents into the family business? ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1483186526,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 13,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5545864.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 403468,
+    "thumbAdded": "2016-06-09 02:13:24",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4759442",
+    "siteRating": 7.7,
+    "siteRatingCount": 7
+  }
+}

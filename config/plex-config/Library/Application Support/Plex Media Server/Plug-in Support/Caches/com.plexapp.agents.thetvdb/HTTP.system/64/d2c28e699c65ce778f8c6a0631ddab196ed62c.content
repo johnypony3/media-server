@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 5545863,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 12,
+    "episodeName": "A Roy Rogers in Franconia",
+    "firstAired": "2016-06-01",
+    "guestStars": [
+      "Vera Cherny",
+      "Danny Flaherty",
+      "Frank Langella",
+      "Ozzie Stewart",
+      "Amy Tribbey"
+    ],
+    "director": "|Chris Long|",
+    "directors": [
+      "Chris Long"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "As Paige deals with last episode’s trauma, she sees her mother in a new light… and finds she has inherited some of her parents’ skills. Plus, has Oleg reached his breaking point with Stan?",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1488327337,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 12,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5545863.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 457963,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 407166,
+    "thumbAdded": "2016-06-03 05:45:43",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5339034",
+    "siteRating": 8.3,
+    "siteRatingCount": 7
+  }
+}

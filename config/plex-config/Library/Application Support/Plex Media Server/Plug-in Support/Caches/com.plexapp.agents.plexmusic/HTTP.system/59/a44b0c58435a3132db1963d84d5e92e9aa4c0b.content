@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/058DD17506359C55?lang=en" parentThumb="" parentTitle="Tool" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/C409/CC21/413D/61E6_xlarge_front.jpg?cid=4563968" totalInSet="0" type="album" title="10,000 Days" summary="" index="1" ratingCount="0" leafCount="0" viewedLeafCount="0">
+<Genre tag="Metal" />
+<Genre tag="Alt Metal" />
+<Genre tag="Nu-Metal" />
+<Track artist="" bpm="220" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176726-BAD331151A3215275032C011E304FA6C?lang=en" type="track" title="Vicarious" summary="" index="1" ratingCount="0">
+<Mood tag="Heavy Triumphant" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176727-A62D6C500B1305BFB0B0356C8AAEBCB1?lang=en" type="track" title="Jambi" summary="" index="2" ratingCount="0">
+<Mood tag="Aggressive Power" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176728-31D039ACB2AC3AC82E811BEFD2708008?lang=en" type="track" title="Wings For Marie (Pt. 1)" summary="" index="3" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176729-28FAE9844A6AF5CECDDF902D0EC1396D?lang=en" type="track" title="10,000 Days (Wings Pt. 2)" summary="" index="4" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="210" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176730-741CA2F2723630BCEF211DF2919F28E8?lang=en" type="track" title="The Pot" summary="" index="5" ratingCount="0">
+<Mood tag="Heavy Triumphant" />
+</Track>
+<Track artist="" bpm="20" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176731-EB12B5405FD0D89326E0418CA2F08995?lang=en" type="track" title="Lipan Conjuring" summary="" index="6" ratingCount="0">
+<Mood tag="Quiet" />
+<Mood tag="Introspective" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176732-8BE45567FA0E92451E5F337A5079F722?lang=en" type="track" title="Lost Keys" summary="" index="7" ratingCount="0">
+<Mood tag="Creepy" />
+<Mood tag="Ominous" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176733-BA6A3277135B18D0EC011A54593C6380?lang=en" type="track" title="Rosetta Stoned" summary="" index="8" ratingCount="0">
+<Mood tag="Aggressive Power" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176734-9FBCEC1FDFC6AC435F838A5599BF90F1?lang=en" type="track" title="Intension" summary="" index="9" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176735-6AC8AF078D65AF97DFAD9F2AEFFD296F?lang=en" type="track" title="Right In Two" summary="" index="10" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/104176725-8DD175098BDA47DB8F44F71C2183DF2B/104176736-8C99D6DDCEEA9FAB4F913BDF17097FC8?lang=en" type="track" title="Viginti Tres" summary="" index="11" ratingCount="0">
+</Track>
+</Directory>
+</MediaContainer>

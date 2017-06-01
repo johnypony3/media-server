@@ -1,0 +1,388 @@
+{
+    "name": "Mogwai",
+    "mbid_id": "d700b3f5-45af-4d02-95ed-57d301bda93e",
+    "artistthumb": [
+        {
+            "id": "30291",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistthumb/-4fac31ed547bc.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "30290",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistthumb/-4fac31d219d37.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "30292",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistthumb/-4fac3222a3569.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "30293",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistthumb/-4fac323e36ef7.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "66509",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/hdmusiclogo/mogwai-50ed9fa6b98f8.png",
+            "likes": "1"
+        },
+        {
+            "id": "106999",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/hdmusiclogo/mogwai-52a9edf6e309a.png",
+            "likes": "0"
+        },
+        {
+            "id": "131464",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/hdmusiclogo/mogwai-53dc738f064b5.png",
+            "likes": "0"
+        },
+        {
+            "id": "131465",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/hdmusiclogo/mogwai-53dc739ccf07b.png",
+            "likes": "0"
+        }
+    ],
+    "albums": {
+        "3d886141-2b06-3ea7-b901-04a3acbc7d5d": {
+            "albumcover": [
+                {
+                    "id": "86763",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/the-hawk-is-howling-51c35de6ed147.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "19732",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/the-hawk-is-howling-4f23c448f27a3.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "29d4bd45-d99e-4f38-bf87-971f102b04ed": {
+            "cdart": [
+                {
+                    "id": "110092",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/rave-tapes-52da4a195b1ed.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "107004",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/rave-tapes-52a9f58701970.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "a0417e53-4eaa-454d-a744-50f640a348dc": {
+            "cdart": [
+                {
+                    "id": "131467",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/earth-division-ep-53dc77b167dfe.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "177914",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/earth-division-ep-55eed37fae85d.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "abf559f9-8c52-4295-9b8c-79b72f8d9837": {
+            "albumcover": [
+                {
+                    "id": "190498",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/atomic-56d2d092ceb2c.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "eba4fb34-495c-4773-ad47-9c4a34fc3902": {
+            "albumcover": [
+                {
+                    "id": "190500",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/les-revenants-ep-56d2d26f261be.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "92c46e22-00d7-38c8-b7c2-8f7d20a92168": {
+            "albumcover": [
+                {
+                    "id": "190502",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/government-commissions-bbc-sessions-1996-2003-56d2d8f7173ba.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "6e628e6b-7609-38fb-8e0b-f8b7535a572b": {
+            "cdart": [
+                {
+                    "id": "17310",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/mr-beast-4f09b812d7b30.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "52115",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/mr-beast-505652c6bf567.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "adbafb98-0484-4845-b5a6-99b630f0aa03": {
+            "cdart": [
+                {
+                    "id": "17360",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/hardcore-will-never-die-but-you-will-4f0ad75ca6e0c.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "173746",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/hardcore-will-never-die-but-you-will-55c4c59078271.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "cb5d08d3-e7bd-31a4-87c4-2bae64572faa": {
+            "cdart": [
+                {
+                    "id": "23986",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/rock-action-4f5a6cbe3ee66.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "173747",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/rock-action-55c4c5da9132c.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "8cc9da13-a1b3-3865-9587-a46f7599982f": {
+            "cdart": [
+                {
+                    "id": "48150",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/young-team-5031205ae0e4d.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "131466",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/young-team-53dc73c355c6d.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "218852",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/young-team-59179cf782f90.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "d05437df-e0b4-36a9-8188-f6b4388bb8a2": {
+            "albumcover": [
+                {
+                    "id": "48153",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/ep6-50312607e88df.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "48154",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/ep6-5031279a07290.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "86620508-bec2-34c7-a1a4-1935decb5b5f": {
+            "albumcover": [
+                {
+                    "id": "48157",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/friend-of-the-night-50312c6f1fa6a.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "48158",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/friend-of-the-night-50312d0dc1ef6.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "7ba6b6a5-13d7-4de6-9ca6-06ba31230ad0": {
+            "albumcover": [
+                {
+                    "id": "48159",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/special-moves-503132e7d7ddd.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "48161",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/special-moves-50313554d558e.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "8a26df58-c36a-3c4b-a507-2a526f57cbd2": {
+            "cdart": [
+                {
+                    "id": "48160",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/happy-songs-for-happy-people-503133e411d43.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "173748",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/happy-songs-for-happy-people-55c4c5ef2baa6.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "68b9f75b-34b5-3228-9972-82efea767eca": {
+            "cdart": [
+                {
+                    "id": "48162",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/come-on-die-young-50313896e1db8.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "130221",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/come-on-die-young-53c5b0ccddfe9.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "218853",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/come-on-die-young-59179e6ff0edc.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "f008e1b0-35fb-4724-b6f3-11dd6acb0bf5": {
+            "albumcover": [
+                {
+                    "id": "73055",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/les-revenants-51305f81c46f9.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "74533",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/les-revenants-513ede000b997.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "5349a640-32a9-4032-be60-ed68d971b10c": {
+            "albumcover": [
+                {
+                    "id": "107003",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/a-wrenched-virile-lore-52a9f587008d6.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "b5adfd1e-2d6a-415a-82f7-c28dfa6ff9f6": {
+            "albumcover": [
+                {
+                    "id": "144517",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/music-industry-3-fitness-industry-1-54960f32ebeb0.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "185300",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/cdart/music-industry-3-fitness-industry-1-567ec2d1b86e1.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "cb356728-f578-4175-bc78-dc05091abcee": {
+            "albumcover": [
+                {
+                    "id": "182069",
+                    "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/albumcover/central-belters-562e7dc4b909c.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "musiclogo": [
+        {
+            "id": "29585",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/musiclogo/-4fa555a7f02e8.png",
+            "likes": "0"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "46851",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistbackground/mogwai-5020f8cbcd990.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "46852",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/artistbackground/mogwai-5020f8db9c329.jpg",
+            "likes": "0"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "49003",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/musicbanner/mogwai-503bb34382ab0.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "49004",
+            "url": "http://assets.fanart.tv/fanart/music/d700b3f5-45af-4d02-95ed-57d301bda93e/musicbanner/mogwai-503bb35132d28.jpg",
+            "likes": "0"
+        }
+    ]
+}

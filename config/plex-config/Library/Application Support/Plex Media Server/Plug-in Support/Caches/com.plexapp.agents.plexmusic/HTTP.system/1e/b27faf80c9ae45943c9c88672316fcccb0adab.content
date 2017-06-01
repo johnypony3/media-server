@@ -1,0 +1,183 @@
+{
+    "name": "The National",
+    "mbid_id": "664c3e0e-42d8-48c1-b209-1efca19c0325",
+    "albums": {
+        "a5a2875f-41cb-4c48-9a72-e845d224db96": {
+            "albumcover": [
+                {
+                    "id": "88584",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/trouble-will-find-me-51d6a7631d9a6.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "92787",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/cdart/trouble-will-find-me-51fffcfc7f0b3.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "9facb475-4c5f-369b-9b93-1280e6669090": {
+            "albumcover": [
+                {
+                    "id": "177353",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/boxer-55e8c1a6dff37.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "18089",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/cdart/boxer-4f19d0b2d44de.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "8bebb379-ac9e-3283-b230-a2d3deae7346": {
+            "albumcover": [
+                {
+                    "id": "177441",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/alligator-55ea0c2ae7bac.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "fda3d952-5090-3ae7-a5c2-6dd0a241752f": {
+            "albumcover": [
+                {
+                    "id": "195893",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/abel-5741b0fe518cc.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "135209",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/abel-540dbdd75a623.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "8e150311-6285-3858-b50a-c3d08bac3c2e": {
+            "albumcover": [
+                {
+                    "id": "196098",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/sad-songs-for-dirty-lovers-5746ca595b4c0.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7038eed0-159b-342c-8b52-a58304e6a3d8": {
+            "albumcover": [
+                {
+                    "id": "196099",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/fake-empire-5746cad2a5098.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "1ce57f6a-62c8-4017-ad38-3339f542faae": {
+            "cdart": [
+                {
+                    "id": "18088",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/cdart/high-violet-4f19d0b2b7fbe.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "177442",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/high-violet-55ea0c3b0761d.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "539a3a80-df2d-3efa-93cf-909d42803ac4": {
+            "albumcover": [
+                {
+                    "id": "24131",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/cherry-tree-4f5e3877504d2.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "7210413e-dcba-33ad-b23f-0751782463f2": {
+            "albumcover": [
+                {
+                    "id": "92923",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/the-national-5201e31a3a379.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "7d20ab6d-f420-3d13-a9c4-5ab99fd848b6": {
+            "albumcover": [
+                {
+                    "id": "135211",
+                    "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/albumcover/mistaken-for-strangers-540dbedb2d013.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "musiclogo": [
+        {
+            "id": "9133",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/musiclogo/the-national-4e4ea79781a82.png",
+            "likes": "0"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "9134",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistbackground/the-national-4e4ea8e388b11.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "9135",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistbackground/the-national-4e4ea8ff4b7d6.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "9136",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistbackground/the-national-4e4ea96c8df22.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "9137",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistbackground/the-national-4e4ea99d38d14.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "9138",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistbackground/the-national-4e4ea9c42a222.jpg",
+            "likes": "0"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "60174",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/artistthumb/national-the-5096e2c7293a9.jpg",
+            "likes": "0"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "60193",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/musicbanner/national-the-5096e7eddcb17.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "157991",
+            "url": "http://assets.fanart.tv/fanart/music/664c3e0e-42d8-48c1-b209-1efca19c0325/hdmusiclogo/national-the-5523dbfc531d8.png",
+            "likes": "0"
+        }
+    ]
+}

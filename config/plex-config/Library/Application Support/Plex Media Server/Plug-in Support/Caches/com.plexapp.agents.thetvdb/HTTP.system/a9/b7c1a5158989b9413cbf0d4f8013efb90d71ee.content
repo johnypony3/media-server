@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5052407,
+    "airedSeason": 6,
+    "airedSeasonID": 604054,
+    "airedEpisodeNumber": 1,
+    "episodeName": "The Holdout",
+    "firstAired": "2015-01-08",
+    "guestStars": [],
+    "director": "Adam Reed",
+    "directors": [
+      "Adam Reed"
+    ],
+    "writers": [
+      "Adam Reed"
+    ],
+    "overview": "Archer must salvage a crashed plane in a jungle filled with relics from World War II.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1492385420,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/5052407.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 469668,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-01-05 16:55:05",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4256314",
+    "siteRating": 7.6,
+    "siteRatingCount": 18
+  }
+}

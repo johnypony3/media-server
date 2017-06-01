@@ -1,0 +1,1710 @@
+{
+  "links": {
+    "first": 1,
+    "last": 3,
+    "next": 3,
+    "prev": 1
+  },
+  "data": [
+    {
+      "absoluteNumber": 97,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Flaming Spittoon Acquisition",
+      "firstAired": "2011-11-17",
+      "id": 4198860,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1447384389,
+      "overview": "Sheldon considers taking his relationship with Amy to the next level when Stuart from the comic book store asks her out on a date."
+    },
+    {
+      "absoluteNumber": 121,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 6,
+      "episodeName": "The Fish Guts Displacement",
+      "firstAired": "2012-12-06",
+      "id": 4437045,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699665,
+      "overview": "When Amy gets sick, Sheldon tries to nurse her back to health; Wolowitz and his father-in-law plan a fishing trip."
+    },
+    {
+      "absoluteNumber": 145,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 7,
+      "episodeName": "The Discovery Dissipation",
+      "firstAired": "2013-12-05",
+      "id": 4714074,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593527,
+      "overview": "Sheldon faces a crisis after Leonard disproves his accidental scientific discovery. Meanwhile, Raj must stay with Howard \u0026 Bernadette for a week."
+    },
+    {
+      "absoluteNumber": 169,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 8,
+      "episodeName": "The Champagne Reflection",
+      "firstAired": "2014-11-20",
+      "id": 5039499,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594172,
+      "overview": "While Sheldon says a tearful goodbye to the final instalment of \"Fun with Flags\", Leonard, Howard and Raj search for something significant in a dead professor's research. And Bernadette is shocked to learn of her co-workers’ true feelings from Penny."
+    },
+    {
+      "absoluteNumber": 193,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 9,
+      "episodeName": "The Earworm Reverberation",
+      "firstAired": "2015-12-10",
+      "id": 5398852,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594601,
+      "overview": "Sheldon has a revelation when he realizes why a song was stuck in his head. Also, Amy invites Dave over for dinner despite their previously awkward date, and Wolowitz and Koothrappali become obsessed with a fan of their band, \"Footprints on the Moon\"."
+    },
+    {
+      "absoluteNumber": 217,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Property Division Collision",
+      "firstAired": "2016-12-01",
+      "id": 5821331,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788845,
+      "overview": "Sheldon and Leonard must divide up their possessions and remove Penny's things from 4B."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 3,
+      "episodeName": "The Maternal Congruence",
+      "firstAired": "2009-12-14",
+      "id": 1309961,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444992932,
+      "overview": "A Christmas visit from his mother has Leonard discovering she's kept a lot of news from him that she shares with Sheldon and worrying if she'll approve of his romance with Penny."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 2,
+      "episodeName": "The Bath Item Gift Hypothesis",
+      "firstAired": "2008-12-15",
+      "id": 413490,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195696,
+      "overview": "Penny starts dating Leonard's handsome colleague; Leonard and his friends are tortured by Sheldon's obsession with gift-giving etiquette."
+    },
+    {
+      "absoluteNumber": 11,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 1,
+      "episodeName": "The Pancake Batter Anomaly",
+      "firstAired": "2008-03-31",
+      "id": 358455,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195602,
+      "overview": "With his friends knowing how sour he acts when sick—and avoiding him as a result—Sheldon is nursed by Penny, who hasn't a clue what she's in for."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Justice League Recombination",
+      "firstAired": "2010-12-16",
+      "id": 3198011,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051239,
+      "overview": "The guys find a \"super\" use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League. "
+    },
+    {
+      "absoluteNumber": 98,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Speckerman Recurrence",
+      "firstAired": "2011-12-08",
+      "id": 4209982,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1445210966,
+      "overview": "Leonard must face his fears after being contacted by his high school tormentor."
+    },
+    {
+      "absoluteNumber": 122,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 6,
+      "episodeName": "The Santa Simulation",
+      "firstAired": "2012-12-13",
+      "id": 4439082,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1460047242,
+      "overview": "During a game, Sheldon revisits Christmas memories; Amy, Penny and Bernadette look for a date for Koothrappali."
+    },
+    {
+      "absoluteNumber": 170,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 8,
+      "episodeName": "The Clean Room Infiltration",
+      "firstAired": "2014-12-11",
+      "id": 5049225,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594192,
+      "overview": "Leonard and Howard turn to Raj for help in dealing with a work emergency when they nearly come to blows after blaming each other for a potential disaster at the university. Amy throws an authentic Victorian Christmas party, while Sheldon seeks revenge on her for making him celebrate the holidays."
+    },
+    {
+      "absoluteNumber": 146,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 7,
+      "episodeName": "The Cooper Extraction",
+      "firstAired": "2013-12-12",
+      "id": 4720503,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593549,
+      "overview": "While Sheldon is in Texas, the rest of the gang realize how much he has changed their lives as they decorate the apartment Christmas tree."
+    },
+    {
+      "absoluteNumber": 194,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 11,
+      "dvdSeason": 9,
+      "episodeName": "The Opening Night Excitation",
+      "firstAired": "2015-12-17",
+      "id": 5406713,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594615,
+      "overview": "As the guys prepare to go to the premiere of the new Star Wars movie, Sheldon plans a special event for Amy's birthday."
+    },
+    {
+      "absoluteNumber": 218,
+      "airedEpisodeNumber": 11,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Birthday Synchronicity",
+      "firstAired": "2016-12-15",
+      "id": 5852363,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788836,
+      "overview": "Amy's desire to have an intimate night with Sheldon on her birthday is interrupted by Bernadette going into labor."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 3,
+      "episodeName": "The Psychic Vortex",
+      "firstAired": "2010-01-11",
+      "id": 1313511,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444992950,
+      "overview": "Leonard is aghast to find out a secret of Penny's: she believes in psychics. Meanwhile, Sheldon tries to assist Koothrappali in picking up a girl at a university mixer."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 2,
+      "episodeName": "The Killer Robot Instability",
+      "firstAired": "2009-01-12",
+      "id": 420058,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195701,
+      "overview": "Penny's criticism of Wolowitz's romantic life pushes him into depression and AWOL for a fighting robot battle the rest of guys are depending on him for."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 1,
+      "episodeName": "The Jerusalem Duality",
+      "firstAired": "2008-04-14",
+      "id": 360371,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195607,
+      "overview": "With Sheldon rattled over meeting Dennis, a 15-year-old physicist who's smarter than he, Leonard helps him look for a way to debunk Dennis's research."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Bus Pants Utilization",
+      "firstAired": "2011-01-06",
+      "id": 3270941,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051247,
+      "overview": "Leonard's idea for a smartphone app derails his friendship with Sheldon."
+    },
+    {
+      "absoluteNumber": 99,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Shiny Trinket Maneuver",
+      "firstAired": "2012-01-12",
+      "id": 4219025,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1445210978,
+      "overview": "Sheldon gets in trouble with Amy when he isn't impressed by her recent accomplishment, and Howard must come to grips with Bernadette's dislike of children."
+    },
+    {
+      "absoluteNumber": 123,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 6,
+      "episodeName": "The Egg Salad Equivalency",
+      "firstAired": "2013-01-03",
+      "id": 4449180,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699693,
+      "overview": "When Sheldon is accused of sexual harassment, he ends up getting Raj, Leonard and Wolowitz in trouble."
+    },
+    {
+      "absoluteNumber": 147,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 7,
+      "episodeName": "The Hesitation Ramification",
+      "firstAired": "2014-01-02",
+      "id": 4720502,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593577,
+      "overview": "As Leonard tries to help Penny with a disappointment, Penny asks him a bold question about their relationship; Sheldon wants to learn how to be funny."
+    },
+    {
+      "absoluteNumber": 171,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 8,
+      "episodeName": "The Space Probe Disintegration",
+      "firstAired": "2014-12-18",
+      "id": 5066301,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594207,
+      "overview": "Wolowitz tries to distract Raj, who is anxiously awaiting data from a space probe he helped launch. Meanwhile, Sheldon and Leonard go dress shopping with Penny and Amy."
+    },
+    {
+      "absoluteNumber": 195,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 12,
+      "dvdSeason": 9,
+      "episodeName": "The Sales Call Sublimation",
+      "firstAired": "2016-01-07",
+      "id": 5436033,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594631,
+      "overview": "Leonard visits a psychiatrist so Penny can make a sales call. Stuart moves out of the Wolowitz house. Sheldon works with Raj looking for extra-solar planets."
+    },
+    {
+      "absoluteNumber": 219,
+      "airedEpisodeNumber": 12,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Holiday Summation",
+      "firstAired": "2017-01-05",
+      "id": 5864719,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788827,
+      "overview": "Sheldon and Amy visit Leonard and Penny for the first time since the holidays and share details about their terrible trip to Texas."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 3,
+      "episodeName": "The Bozeman Reaction",
+      "firstAired": "2010-01-18",
+      "id": 1418721,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444992966,
+      "overview": "When their apartment is robbed, Leonard and Sheldon turn to their friends to create a state-of-the-art security system."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 2,
+      "episodeName": "The Friendship Algorithm",
+      "firstAired": "2009-01-19",
+      "id": 426681,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195706,
+      "overview": "Sheldon creates a scientific procedure for making friends."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 1,
+      "episodeName": "The Bat Jar Conjecture",
+      "firstAired": "2008-04-21",
+      "id": 363199,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195612,
+      "overview": "Sheldon finds himself booted from the gang's Physics Bowl team and replaced with Leslie, so he forms his own team, hoping to prove he's superior."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Love Car Displacement",
+      "firstAired": "2011-01-20",
+      "id": 3392921,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051253,
+      "overview": "Bernadette runs into her ex-boyfriend while attending a science event with Wolowitz."
+    },
+    {
+      "absoluteNumber": 100,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Recombination Hypothesis",
+      "firstAired": "2012-01-19",
+      "id": 4225828,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051372,
+      "overview": "Leonard, who broke up with Priya, asks Penny out to a spur-of the-moment romantic dinner for two, and the duo contemplates on their relationship. "
+    },
+    {
+      "absoluteNumber": 124,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 6,
+      "episodeName": "The Bakersfield Expedition",
+      "firstAired": "2013-01-10",
+      "id": 4453065,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699704,
+      "overview": "As the guys don costumes and go on a road trip to a comic book convention, the ladies decide to stay home and try to interpret a comic book."
+    },
+    {
+      "absoluteNumber": 148,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 7,
+      "episodeName": "The Occupation Recalibration",
+      "firstAired": "2014-01-09",
+      "id": 4749334,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593605,
+      "overview": "Sheldon must learn how to relax when he is forced to take a vacation; Leonard tries to support Penny when she quits her job; Bernadette needs to replace one of Stuart's comic books."
+    },
+    {
+      "absoluteNumber": 172,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 8,
+      "episodeName": "The Anxiety Optimization",
+      "firstAired": "2015-01-29",
+      "id": 5077937,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594221,
+      "overview": "The gang tries to help Sheldon when he becomes stuck in a rut at work by increasing his anxiety level. Howard teases Raj with a new game called \"Cinnamon or Emily?\""
+    },
+    {
+      "absoluteNumber": 196,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 13,
+      "dvdSeason": 9,
+      "episodeName": "The Empathy Optimization",
+      "firstAired": "2016-01-14",
+      "id": 5442484,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594647,
+      "overview": "The gang decides to head to Vegas for the week on a party bus. Sheldon learns about the importance of empathy and saying sorry."
+    },
+    {
+      "absoluteNumber": 220,
+      "airedEpisodeNumber": 13,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Romance Recalibration",
+      "firstAired": "2017-01-19",
+      "id": 5880148,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788820,
+      "overview": "Leonard and Penny may need a Relationship Agreement, and Sheldon volunteers to prepare one."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Thespian Catalyst",
+      "firstAired": "2011-02-03",
+      "id": 3473151,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051265,
+      "overview": "Hoping it will make him a better teacher, Sheldon has Penny give him acting lessons. Raj has fantasies about a friend's girlfriend."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 3,
+      "episodeName": "The Einstein Approximation",
+      "firstAired": "2010-02-01",
+      "id": 1585301,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444992985,
+      "overview": "Sheldon's search for the answer to a physics problem leads him to work at the Cheesecake Factory with Penny."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 2,
+      "episodeName": "The Financial Permeability",
+      "firstAired": "2009-02-02",
+      "id": 428394,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195711,
+      "overview": "Sheldon's solution to Penny's financial difficulty leads to a confrontation between Leonard and Penny's ex-boyfriend."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 1,
+      "episodeName": "The Nerdvana Annihilation",
+      "firstAired": "2008-04-28",
+      "id": 364198,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195616,
+      "overview": "When delivery of another collectible leads to Penny's lashing out at Leonard, he decides it's time to give up his habit, much to his friends' protestation."
+    },
+    {
+      "absoluteNumber": 101,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Beta Test Initiation",
+      "firstAired": "2012-01-26",
+      "id": 4240138,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051382,
+      "overview": "Leonard and Penny deal with the idea of starting a relationship again and Raj finally finds a \"woman\" he can talk to without being drunk, in the form of Siri on his new phone. Meanwhile, Sheldon decides to start a YouTube series entitled \"Sheldon Cooper presents Fun with Flags\" with the help of Amy. "
+    },
+    {
+      "absoluteNumber": 125,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 6,
+      "episodeName": "The Cooper/Kripke Inversion",
+      "firstAired": "2013-01-31",
+      "id": 4453066,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1485885601,
+      "overview": "Sheldon faces a crisis of confidence when he is forced to work with his nemesis, Barry Kripke; Raj and Howard buy expensive action figures of themselves."
+    },
+    {
+      "absoluteNumber": 173,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 8,
+      "episodeName": "The Troll Manifestation",
+      "firstAired": "2015-02-05",
+      "id": 5108937,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594236,
+      "overview": "Leonard and Sheldon publish a paper which is widely accepted except for comments from an internet troll. Meanwhile, the girls reminisce about embarassing incidents from their past."
+    },
+    {
+      "absoluteNumber": 149,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 7,
+      "episodeName": "The Convention Conundrum",
+      "firstAired": "2014-01-30",
+      "id": 4764530,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593635,
+      "overview": "Unable to get Comic-Con tickets, Sheldon tries to hold his own convention and ends up spending a wild evening with James Earl Jones; the ladies try to act maturely."
+    },
+    {
+      "absoluteNumber": 197,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 14,
+      "dvdSeason": 9,
+      "episodeName": "The Meemaw Materialization",
+      "firstAired": "2016-02-04",
+      "id": 5479688,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594669,
+      "overview": "Sheldon is thrilled when his Meemaw comes to visit, but his excitement quickly fades when she butts heads with Amy.  Also, Raj meets a new girl at the comic book store who makes him question his relationship with Emily."
+    },
+    {
+      "absoluteNumber": 221,
+      "airedEpisodeNumber": 14,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Emotion Detection Automation",
+      "firstAired": "2017-02-02",
+      "id": 5911146,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788811,
+      "overview": "Sheldon uses a machine to help him identify other people's emotions, and Raj tries to understand his difficulties with women."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 3,
+      "episodeName": "The Large Hadron Collision",
+      "firstAired": "2010-02-08",
+      "id": 1611971,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993010,
+      "overview": "Leonard can only bring one guest on a trip to see CERN's Large Hadron Collider (the world's largest and highest energy particle accelerator) in Switzerland on Valentine's Day."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 2,
+      "episodeName": "The Maternal Capacitance",
+      "firstAired": "2009-02-09",
+      "id": 431000,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195716,
+      "overview": "Leonard and Penny are drawn together after a disastrous visit from Leonard's mother."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 1,
+      "episodeName": "The Pork Chop Indeterminacy",
+      "firstAired": "2008-05-05",
+      "id": 365914,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195621,
+      "overview": "The rest of the gang fall for Sheldon's twin sister, and Leonard's plan to win her heart is derailed when Sheldon declares he'll be the one to decide who can date her."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Benefactor Factor",
+      "firstAired": "2011-02-10",
+      "id": 3509831,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051270,
+      "overview": "A wealthy donor to the university makes Leonard consider how far he's willing to go for the sake of science."
+    },
+    {
+      "absoluteNumber": 102,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Friendship Contraction",
+      "firstAired": "2012-02-02",
+      "id": 4245901,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051392,
+      "overview": "Sheldon's selfish demands force Leonard to reconsider their friendship. Meanwhile, Wolowitz tries to pick his astronaut nickname."
+    },
+    {
+      "absoluteNumber": 126,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 6,
+      "episodeName": "The Spoiler Alert Segmentation",
+      "firstAired": "2013-02-07",
+      "id": 4453067,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699739,
+      "overview": "A fight between Sheldon and Leonard impacts Amy and Penny's living arrangements; while Howard is away, Raj helps Mrs. Wolowitz out."
+    },
+    {
+      "absoluteNumber": 150,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 7,
+      "episodeName": "The Locomotive Manipulation",
+      "firstAired": "2014-02-06",
+      "id": 4773931,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593707,
+      "overview": "Sheldon and Amy go on a trip to wine country with Howard and Bernadette; Penny and Leonard rush Raj's dog to the vet"
+    },
+    {
+      "absoluteNumber": 174,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 8,
+      "episodeName": "The Comic Book Store Regeneration",
+      "firstAired": "2015-02-19",
+      "id": 5110662,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594252,
+      "overview": "Wolowitz receives some shocking news as everyone prepares for the reopening of Stuart’s comic book store. Penny teaches Sheldon how to “let it go,” but can’t follow her own advice after she learns something infuriating about Amy. Also, Leonard and Raj think they spot Nathan Fillion at a restaurant."
+    },
+    {
+      "absoluteNumber": 198,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 15,
+      "dvdSeason": 9,
+      "episodeName": "The Valentino Submergence",
+      "firstAired": "2016-02-11",
+      "id": 5487474,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594693,
+      "overview": "Sheldon and Amy host a live Valentine's Day episode of Fun with Flags, Leonard and Penny grapple with getting older, Howard and Bernadette find a surprise in their hot tub and Raj is torn between Emily and the cute girl he met at the Comic Bookstore."
+    },
+    {
+      "absoluteNumber": 222,
+      "airedEpisodeNumber": 15,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Locomotion Reverberation",
+      "firstAired": "2017-02-09",
+      "id": 5933590,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788801,
+      "overview": "Leonard and Wolowitz try to distract Sheldon when he slows the progress of their guidance system. Also, Penny and Amy take Bernadette out for the night, leaving Raj and Stuart to care for baby Halley."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 3,
+      "episodeName": "The Excelsior Acquisition",
+      "firstAired": "2010-03-01",
+      "id": 1670231,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993024,
+      "overview": "Sheldon winds up in traffic court when he gets a ticket because of Penny."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 2,
+      "episodeName": "The Cushion Saturation",
+      "firstAired": "2009-03-02",
+      "id": 439079,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195720,
+      "overview": "A paintball game leads to a fight between Sheldon and Penny, and romance for Leslie and Wolowitz."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 1,
+      "episodeName": "The Peanut Reaction",
+      "firstAired": "2008-05-12",
+      "id": 365967,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195625,
+      "overview": "Penny wants to throw a surprise party for Leonard, but Sheldon's indulgence at an electronics store throws her off-track.\r\n"
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Cohabitation Formulation",
+      "firstAired": "2011-02-17",
+      "id": 3616341,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051274,
+      "overview": "As Wolowitz contemplates taking things with Bernadette to the next level, Leonard rekindles his relationship with Raj's sister."
+    },
+    {
+      "absoluteNumber": 127,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 6,
+      "episodeName": "The Tangible Affection Proof",
+      "firstAired": "2013-02-14",
+      "id": 4485780,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699781,
+      "overview": "The guys search for a perfect Valentine's Day gift for their significant others; Stuart and Raj host a \"lonely people\" party at the comic book store."
+    },
+    {
+      "absoluteNumber": 103,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Vacation Solution",
+      "firstAired": "2012-02-09",
+      "id": 4251630,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051398,
+      "overview": "When Sheldon is forced to take his vacation, he goes to work with Amy in her neurobiology lab."
+    },
+    {
+      "absoluteNumber": 151,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 7,
+      "episodeName": "The Table Polarization",
+      "firstAired": "2014-02-27",
+      "id": 4783271,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593737,
+      "overview": "When Leonard buys a dining room table, Sheldon re-evaluates the changes in his life; Bernadette is torn when Wolowitz gets the chance to go back to space."
+    },
+    {
+      "absoluteNumber": 175,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 8,
+      "episodeName": "The Intimacy Acceleration",
+      "firstAired": "2015-02-26",
+      "id": 5110663,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594269,
+      "overview": "As a joke, Sheldon and Penny try an experiment designed to make participants fall in love.  Also, Leonard, Amy, Raj and Emily spend the evening trying to escape a room with a “zombie.” And, after returning from Mrs. Wolowitz’ funeral, Bernadette and Howard run into trouble at the airport."
+    },
+    {
+      "absoluteNumber": 199,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 9,
+      "episodeName": "The Positive Negative Reaction",
+      "firstAired": "2016-02-18",
+      "id": 5499997,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594708,
+      "overview": "When the gang finds out about Bernadette's pregnancy, they celebrate by singing karaoke.  Also, Bernadette is concerned when Wolowitz freaks out over her pregnancy announcement, and Wolowitz is convinced he must make more money to provide for a baby."
+    },
+    {
+      "absoluteNumber": 223,
+      "airedEpisodeNumber": 16,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": 16,
+      "dvdSeason": 10,
+      "episodeName": "The Allowance Evaporation",
+      "firstAired": "2017-02-16",
+      "id": 5939843,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495788793,
+      "overview": "Sheldon and Amy have their first fight since moving in together and Koothrappali is shocked at the realities of financial independence when he stops receiving support from his father."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 3,
+      "episodeName": "The Precious Fragmentation",
+      "firstAired": "2010-03-08",
+      "id": 1765801,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993040,
+      "overview": "When the guys find a ring from \"The Lord of the Rings\" at a garage sale, it threatens to tear them apart."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 2,
+      "episodeName": "The Terminator Decoupling",
+      "firstAired": "2009-03-09",
+      "id": 439587,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195725,
+      "overview": "Leonard, Sheldon and Wolowitz are ecstatic to learn that a famous science-fiction actress (Summer Glau) is on board the train they are taking to San Francisco."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 1,
+      "airedSeasonID": 28047,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 1,
+      "episodeName": "The Tangerine Factor",
+      "firstAired": "2008-05-19",
+      "id": 367404,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195632,
+      "overview": "Penny's break-up spurs Leonard to summon the courage to ask her out, and each goes to Sheldon for advice on their upcoming date."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Toast Derivation",
+      "firstAired": "2011-02-24",
+      "id": 3682891,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051286,
+      "overview": "Sheldon becomes concerned when everybody begins to hang out at Raj's apartment and discovers Leonard is the center of the group."
+    },
+    {
+      "absoluteNumber": 104,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Rothman Disintegration",
+      "firstAired": "2012-02-16",
+      "id": 4255863,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051402,
+      "overview": "Penny is horrified when Amy gives her a gift: a huge, quite horrible painting of the two of them. With no good way to avoid displaying it, she only hangs it up when Amy is over. When Amy catches her taking the painting down, she's embarrassed and angry until Penny lies and says the gift made Bernadette jealous.\r\nWhen the deranged Professor Rothman is forced to retire, both Sheldon and Kripke vie for his office. President Siebert refuses to resolve the dispute, so Leonard arranges a one-on-one basketball game to decide (since they're both equally bad at sports). Neither one can even make a single basket, so they end up deciding by seeing who can bounce the ball the highest. Sheldon wins; unfortunately, the office is not what he'd hoped for: the thermostat is located in the office of a professor going through the hot flashes of menopause (thus Sheldon is too cold), the mockingbird outside his window is off-key with the annoying windchimes, the perpetually naked Professor Rothman refuses to vacate, and the Geology Department upstairs makes too much noise. Finally, Sheldon gets his head stuck in the wall in an existing hole, after which Leonard takes his picture before he goes for help."
+    },
+    {
+      "absoluteNumber": 128,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 6,
+      "episodeName": "The Monster Isolation",
+      "firstAired": "2013-02-21",
+      "id": 4496358,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699809,
+      "overview": "After a bad date, Koothrappali decides to never leave his apartment; Penny's acting skills impress Sheldon."
+    },
+    {
+      "absoluteNumber": 152,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 7,
+      "episodeName": "The Friendship Turbulence",
+      "firstAired": "2014-03-06",
+      "id": 4792591,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593778,
+      "overview": "Bernadette tries to negotiate peace between Sheldon and Wolowitz; Penny receives an embarrassing offer; Raj wants Amy to write to a woman on his behalf."
+    },
+    {
+      "absoluteNumber": 176,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 8,
+      "episodeName": "The Colonization Application",
+      "firstAired": "2015-03-05",
+      "id": 5127444,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594284,
+      "overview": "Trouble arises when Amy learns Sheldon has applied for a one-way mission to colonize Mars. Also, a trip to the pet store ends in a fight for Sheldon and Amy, Leonard surprises Penny with a very “adult” purchase, and Raj is caught snooping in Emily’s apartment."
+    },
+    {
+      "absoluteNumber": 200,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 17,
+      "dvdSeason": 9,
+      "episodeName": "The Celebration Experimentation",
+      "firstAired": "2016-02-25",
+      "id": 5507659,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594721,
+      "overview": "After more than nine years together, the gang finally celebrates Sheldon’s birthday, surprising him with a special guest (Adam West)."
+    },
+    {
+      "absoluteNumber": 224,
+      "airedEpisodeNumber": 17,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Comic-Con Conundrum",
+      "firstAired": "2017-02-23",
+      "id": 5952327,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496086119,
+      "overview": "The guys' annual trip to Comic Con is in doubt when Raj can't afford to go."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 3,
+      "episodeName": "The Pants Alternative",
+      "firstAired": "2010-03-22",
+      "id": 1801741,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993053,
+      "overview": "Sheldon's friends come to his aid when his fear of public speaking stands between him and a coveted award."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 2,
+      "episodeName": "The Work Song Nanocluster",
+      "firstAired": "2009-03-16",
+      "id": 443622,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195730,
+      "overview": "Penny's home business turns into a complete nightmare when Sheldon takes over."
+    },
+    {
+      "absoluteNumber": 177,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 8,
+      "episodeName": "The Leftover Thermalization",
+      "firstAired": "2015-03-12",
+      "id": 5135832,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594299,
+      "overview": "Friction ensues when a magazine fails to mention Leonard in an article about the paper he co-wrote with Sheldon. Also, a blackout at Mrs. Wolowitz’s home leads to a final family dinner in her honor."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Prestidigitation Approximation",
+      "firstAired": "2011-03-10",
+      "id": 3770211,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051295,
+      "overview": "Sheldon is baffled by Wolowitz's magic trick. Meanwhile, Leonard realizes dating Priya may make it impossible to continue being friends with Penny."
+    },
+    {
+      "absoluteNumber": 105,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Werewolf Transformation",
+      "firstAired": "2012-02-23",
+      "id": 4261649,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051408,
+      "overview": "Sheldon becomes agitated when his regular barber is out sick. Astronaut training causes Howard to reconsider wanting to go into space. Penny beats Leonard in chess, the first time she plays."
+    },
+    {
+      "absoluteNumber": 129,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 6,
+      "episodeName": "The Contractual Obligation Implementation",
+      "firstAired": "2013-03-07",
+      "id": 4498291,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699823,
+      "overview": "Leonard, Sheldon and Wolowitz talk to junior high girls about science-related careers; Raj plans a date with Lucy."
+    },
+    {
+      "absoluteNumber": 153,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 7,
+      "episodeName": "The Mommy Observation",
+      "firstAired": "2014-03-13",
+      "id": 4792592,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593811,
+      "overview": "Sheldon is faced with a new reality when he visits his mom in Houston; a murder mystery party starts arguments."
+    },
+    {
+      "absoluteNumber": 201,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": 9,
+      "episodeName": "The Application Deterioration",
+      "firstAired": "2016-03-10",
+      "id": 5529050,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594734,
+      "overview": "Sheldon works up a contract to split their portion of their guidance system invention royalties, but Bernadette does not like how it's done. Raj must again decide between Emily and Claire when they both contact him."
+    },
+    {
+      "absoluteNumber": 225,
+      "airedEpisodeNumber": 18,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": 18,
+      "dvdSeason": null,
+      "episodeName": "The Escape Hatch Identification",
+      "firstAired": "2017-03-09",
+      "id": 5963134,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496086151,
+      "overview": "Raj searches for a cheaper living arrangement."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 3,
+      "episodeName": "The Wheaton Recurrence",
+      "firstAired": "2010-04-12",
+      "id": 1766111,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993066,
+      "overview": "A fight between Leonard and Penny threatens their relationship, while Sheldon battles Wil Wheaton in bowling."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 2,
+      "episodeName": "The Dead Hooker Juxtaposition",
+      "firstAired": "2009-03-30",
+      "id": 461831,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195735,
+      "overview": "Penny squares off with a new beautiful female neighbor who may become the building's \"new Penny.\" "
+    },
+    {
+      "absoluteNumber": 130,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 6,
+      "episodeName": "The Closet Reconfiguration",
+      "firstAired": "2013-03-14",
+      "id": 4513651,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699836,
+      "overview": "Howard considers whether or not he should open a letter from his father; Penny and Leonard host a \"grown-up\" cocktail party."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Zarnecki Incursion",
+      "firstAired": "2011-03-31",
+      "id": 3892111,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051303,
+      "overview": "Sheldon's World of Warcraft online game account is hacked and he is determined to find out who did it. Also Penny shares some girl talk with her friends about Leonard and his new girlfriend. When Howard discovers who hacked the account, the guys depart for a quest to Carlsbad, California where the hacker, Todd Zarnecki, lives in order to retrieve the stolen account, along with \"enchanted weapons, gladiator armor, gold, and a battle ostrich, Glenn\". Despite Sheldon carrying his Bat'leth with him they fail miserably. On the way back their car engine breaks down, and they're saved by Penny, who came to drive them home and upon hearing about their failure promises to show them \"How we finish quests in Nebraska\" and forces Zarnecki to give up kicking him below waist."
+    },
+    {
+      "absoluteNumber": 106,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Weekend Vortex",
+      "firstAired": "2012-03-08",
+      "id": 4272451,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051419,
+      "overview": "Sheldon must choose between joining Amy at her aunt's birthday party or playing videogames all weekend with the guys."
+    },
+    {
+      "absoluteNumber": 154,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 7,
+      "episodeName": "The Indecision Amalgamation",
+      "firstAired": "2014-04-03",
+      "id": 4792593,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593842,
+      "overview": "Raj struggles with guilt when he dates two women at once; Penny has a chance to play a part in a cheesy movie; Sheldon is torn between two gaming systems."
+    },
+    {
+      "absoluteNumber": 178,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 8,
+      "airedSeasonID": 589268,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 8,
+      "episodeName": "The Skywalker Incursion",
+      "firstAired": "2015-04-02",
+      "id": 5149888,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594320,
+      "overview": "When Leonard and Sheldon are invited to speak at UC Berkeley, they take a detour to try to meet an idol. Also, when Bernadette and Howard battle over the fate of his Doctor Who TARDIS, Raj and Amy offer to settle the dispute with a game of ping pong."
+    },
+    {
+      "absoluteNumber": 202,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 9,
+      "airedSeasonID": 625567,
+      "dvdEpisodeNumber": 19,
+      "dvdSeason": 9,
+      "episodeName": "The Solder Excursion Diversion",
+      "firstAired": "2016-03-31",
+      "id": 5537607,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493594746,
+      "overview": "Amy is shocked at a revelation from Sheldon after she buys him a new laptop.  Koothrappali sells out Leonard and Wolowitz after they lie to their wives in order to attend an early screening of a movie."
+    },
+    {
+      "absoluteNumber": 226,
+      "airedEpisodeNumber": 19,
+      "airedSeason": 10,
+      "airedSeasonID": 671558,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Collaboration Fluctuation",
+      "firstAired": "2017-03-30",
+      "id": 5975781,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496086183,
+      "overview": "Leonard, Penny and Raj adjust to their new living arrangement and Sheldon takes an interest in Amy's work."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 3,
+      "airedSeasonID": 82831,
+      "dvdEpisodeNumber": 20,
+      "dvdSeason": 3,
+      "episodeName": "The Spaghetti Catalyst",
+      "firstAired": "2010-05-03",
+      "id": 1975621,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1444993078,
+      "overview": "When Leonard and Penny aren't speaking, Sheldon goes to extremes to keep them both happy."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 2,
+      "airedSeasonID": 35155,
+      "dvdEpisodeNumber": 20,
+      "dvdSeason": 2,
+      "episodeName": "The Hofstadter Isotope",
+      "firstAired": "2009-04-13",
+      "id": 461841,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1474195744,
+      "overview": "A fellow comic book enthusiast's hitting on Penny leads to Leonard and Howard going to a bar's Ladies' Night."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 4,
+      "airedSeasonID": 261421,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Herb Garden Germination",
+      "firstAired": "2011-04-07",
+      "id": 3911231,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051312,
+      "overview": "Sheldon and Amy decide to start several rumors about the others as a test. Meanwhile, Howard takes his relationship with Bernadette to even higher level."
+    },
+    {
+      "absoluteNumber": 107,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 5,
+      "airedSeasonID": 468774,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Transporter Malfunction",
+      "firstAired": "2012-03-29",
+      "id": 4278486,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1458051428,
+      "overview": "Penny buys Leonard and Sheldon “Star Trek” collectibles as a thank-you, leading Sheldon to be haunted by Mr. Spock. Meanwhile, Raj decides he has met the “Future Mrs. Koothrappali” after his parents set him up on a date."
+    },
+    {
+      "absoluteNumber": 131,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 6,
+      "airedSeasonID": 494401,
+      "dvdEpisodeNumber": 20,
+      "dvdSeason": 6,
+      "episodeName": "The Tenure Turbulence",
+      "firstAired": "2013-04-04",
+      "id": 4513973,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1459699862,
+      "overview": "The girls get involved when Leonard, Sheldon and Raj compete for tenure at the University."
+    },
+    {
+      "absoluteNumber": 155,
+      "airedEpisodeNumber": 20,
+      "airedSeason": 7,
+      "airedSeasonID": 522809,
+      "dvdEpisodeNumber": 20,
+      "dvdSeason": 7,
+      "episodeName": "The Relationship Diremption",
+      "firstAired": "2014-04-10",
+      "id": 4840057,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1493593865,
+      "overview": "Sheldon has a personal crisis when he decides string theory is a waste of his time; a double date ends in embarrassment for Howard."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 5474592,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 7,
+    "episodeName": "Travel Agents",
+    "firstAired": "2016-04-27",
+    "guestStars": [
+      "Vera Cherny",
+      "Polly Lee",
+      "Frank Langella"
+    ],
+    "director": "Daniel Attias",
+    "directors": [
+      "Daniel Attias"
+    ],
+    "writers": [
+      "Tanya Barfield"
+    ],
+    "overview": "The KGB and the FBI both race to track down a vital agent… everything is at stake.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1487884029,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 7,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5474592.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 457963,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 443094,
+    "thumbAdded": "2016-04-28 10:12:18",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5374770",
+    "siteRating": 7.8,
+    "siteRatingCount": 9
+  }
+}

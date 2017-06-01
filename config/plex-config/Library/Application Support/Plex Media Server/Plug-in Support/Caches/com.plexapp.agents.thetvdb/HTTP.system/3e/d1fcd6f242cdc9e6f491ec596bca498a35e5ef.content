@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5831006,
+    "airedSeason": 12,
+    "airedSeasonID": 671550,
+    "airedEpisodeNumber": 12,
+    "episodeName": "A Good Husband",
+    "firstAired": "2017-02-08",
+    "guestStars": [],
+    "director": "Laura Belsey",
+    "directors": [
+      "Laura Belsey"
+    ],
+    "writers": [
+      "Jim Clemente"
+    ],
+    "overview": "The BAU team is called in to investigate when male victims are found with no way to identify them.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494172863,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 267,
+    "filename": "episodes/75710/5831006.jpg",
+    "seriesId": 75710,
+    "lastUpdatedBy": 479590,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 439540,
+    "thumbAdded": "2017-01-27 08:55:29",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6241336",
+    "siteRating": 0,
+    "siteRatingCount": 0
+  }
+}

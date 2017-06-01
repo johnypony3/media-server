@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5101345,
+    "airedSeason": 6,
+    "airedSeasonID": 604054,
+    "airedEpisodeNumber": 6,
+    "episodeName": "Sitting",
+    "firstAired": "2015-02-12",
+    "guestStars": [],
+    "director": "Adam Reed",
+    "directors": [
+      "Adam Reed"
+    ],
+    "writers": [
+      "Adam Reed"
+    ],
+    "overview": "Archer’s first weekend alone with baby AJ is soiled by a Pakistani intelligence officer.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1492385618,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/5101345.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 469668,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-02-13 23:36:24",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4389450",
+    "siteRating": 7.7,
+    "siteRatingCount": 18
+  }
+}

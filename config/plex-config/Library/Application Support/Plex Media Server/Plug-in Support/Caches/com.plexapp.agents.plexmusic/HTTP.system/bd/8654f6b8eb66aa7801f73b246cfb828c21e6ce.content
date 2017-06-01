@@ -1,0 +1,778 @@
+{
+    "name": "U2",
+    "mbid_id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+    "hdmusiclogo": [
+        {
+            "id": "125681",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/hdmusiclogo/u2-538b320283c98.png",
+            "likes": "8"
+        },
+        {
+            "id": "125684",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/hdmusiclogo/u2-538b3268cc581.png",
+            "likes": "2"
+        },
+        {
+            "id": "125686",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/hdmusiclogo/u2-538b39954caf1.png",
+            "likes": "1"
+        },
+        {
+            "id": "171379",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/hdmusiclogo/u2-55b02a97170c7.png",
+            "likes": "1"
+        }
+    ],
+    "albums": {
+        "3ab33753-c16f-3e44-ae67-2fba4fd0e823": {
+            "albumcover": [
+                {
+                    "id": "196979",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/how-to-dismantle-an-atomic-bomb-5759a0a088d7a.jpg",
+                    "likes": "6"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "25063",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/how-to-dismantle-an-atomic-bomb-4f70930e8c3bf.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "bf965ead-7c91-3a9b-93c8-cf941242ee65": {
+            "albumcover": [
+                {
+                    "id": "199765",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/rattle-and-hum-57a207da10c42.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "199734",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/rattle-and-hum-57a1578613a2a.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "134731",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/rattle-and-hum-5405ed27edbb6.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6c301dbd-6ccb-3403-a6c4-6a22240a0297": {
+            "albumcover": [
+                {
+                    "id": "8372",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-best-of-1980-1990-4e43a22cab023.jpg",
+                    "likes": "4"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "178654",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1980-1990-55f9f7771062c.png",
+                    "likes": "4",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "178655",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1980-1990-55f9f7fc1a699.png",
+                    "likes": "4",
+                    "disc": "2",
+                    "size": "1000"
+                },
+                {
+                    "id": "25123",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1980-1990-4f735bcbb36a2.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "25150",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1980-1990-4f741b0debd46.png",
+                    "likes": "3",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ]
+        },
+        "744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8": {
+            "cdart": [
+                {
+                    "id": "25329",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/achtung-baby-4f75ab5de630c.png",
+                    "likes": "4",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "68818",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/achtung-baby-5103cb8765c91.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4921",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/achtung-baby-4df2f36c4fd23.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "177187",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/achtung-baby-55e76f917ce0e.jpg",
+                    "likes": "3"
+                }
+            ]
+        },
+        "5eca5ea6-841b-3835-b368-94fb71d8f932": {
+            "cdart": [
+                {
+                    "id": "178648",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/pop-55f9d128893b7.png",
+                    "likes": "4",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "68816",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/pop-5103c01d7f86c.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "214616",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/pop-58c8a06be2def.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "b61193ac-8f31-3b07-847a-fc8b4d495218": {
+            "albumcover": [
+                {
+                    "id": "8373",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-best-of-1990-2000-4e43a22cb216c.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "25124",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1990-2000-4f735bcbb3ed7.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "25151",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-best-of-1990-2000-4f741b70dbbc3.png",
+                    "likes": "2",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ]
+        },
+        "a9981376-d6f7-3fa5-ac76-766e8ba814bd": {
+            "albumcover": [
+                {
+                    "id": "37154",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/u218-singles-4fdd3ae2c49bd.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "37625",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/u218-singles-4fdf791bd078b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "87febb2c-e117-3a0d-a7f6-8fd9a6421af1": {
+            "albumcover": [
+                {
+                    "id": "8330",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/october-4e42552f41c0c.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "163428",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/october-55519f56812fd.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "207078",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/october-583152bc8779c.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "134395",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/october-540339eb69cc3.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "acaa5e04-685c-3e47-af62-1cd3012008b6": {
+            "albumcover": [
+                {
+                    "id": "8371",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/no-line-on-the-horizon-4e439ec0ce48f.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "91448",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/no-line-on-the-horizon-51f6437d455a1.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "163427",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/no-line-on-the-horizon-55519f5680d8c.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "173297",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/no-line-on-the-horizon-55c00c39cf253.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "25104",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/no-line-on-the-horizon-4f71c93581b1c.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "7c705df7-46e7-3c27-9693-72b3ea559c48": {
+            "cdart": [
+                {
+                    "id": "65194",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/zooropa-50d67cad7d119.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "89146",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/zooropa-51df164559eea.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "c84d00f4-afd3-3184-be62-6ae5f135aa38": {
+            "cdart": [
+                {
+                    "id": "68813",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-unforgettable-fire-5103bd9e71e02.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "135902",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-unforgettable-fire-5416384d5dc97.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "177189",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-unforgettable-fire-55e771c28c3d4.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d": {
+            "cdart": [
+                {
+                    "id": "134474",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-joshua-tree-5403b11c5fa26.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "69693",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-joshua-tree-510c0b3c51042.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210876",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-joshua-tree-587c6ef1efcd9.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210877",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-joshua-tree-587c6f272b451.png",
+                    "likes": "0",
+                    "disc": "2",
+                    "size": "1000"
+                },
+                {
+                    "id": "210878",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/the-joshua-tree-587c6f59deefe.png",
+                    "likes": "0",
+                    "disc": "3",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "8318",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-joshua-tree-4e424fba428d5.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "118080",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-joshua-tree-5348fa767262d.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "163429",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-joshua-tree-55519f5681ea8.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "214618",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-joshua-tree-58c8a09104fc6.jpg",
+                    "likes": "0"
+                },
+                {
+                    "id": "219176",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-joshua-tree-591dc8c2f14be.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "53b0d89e-f856-3015-a3a6-a70e1e935fd6": {
+            "cdart": [
+                {
+                    "id": "134478",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/boy-5403c1b44971a.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "67259",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/boy-50f6ee397076b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "67260",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/boy-50f6ee54e68cd.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "91447",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/boy-51f641873d9bf.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "163426",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/boy-55519f5680397.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "e3f3f2c0-6fa8-4098-8aad-d82209c34973": {
+            "albumcover": [
+                {
+                    "id": "137460",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/songs-of-innocence-5428d397e85d9.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "135396",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/songs-of-innocence-5410125d4b186.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "178642",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/songs-of-innocence-55f9c30aeb93c.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "178643",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/songs-of-innocence-55f9c36d19c4c.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "178644",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/songs-of-innocence-55f9c3b4efb80.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ]
+        },
+        "88c59b55-200d-3ac1-beff-8eb99830807e": {
+            "cdart": [
+                {
+                    "id": "486",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/all-that-you-cant-leave-behind-4dd34354160ee.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "176604",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/all-that-you-cant-leave-behind-55e100481349b.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "02f2feaa-aba1-4e31-9a7f-c0fe889fc988": {
+            "cdart": [
+                {
+                    "id": "4922",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/artificial-horizon-4df2f424d420b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "65083",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/artificial-horizon-50d3ce5476898.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "c6b36664-7e60-3b3e-a24d-d096c67a11e9": {
+            "cdart": [
+                {
+                    "id": "10086",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/war-4e612e7e1e9c1.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "185552",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/war-56847b72c3fed.png",
+                    "likes": "0",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "91445",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/war-51f63e20d1d22.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "774d2b53-18d9-39ae-8d86-bbb0800d4df3": {
+            "albumcover": [
+                {
+                    "id": "22809",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-fly-4f46ebed4256d.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "22db75d1-7eba-32a0-a101-e2436243ad03": {
+            "albumcover": [
+                {
+                    "id": "64205",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-saints-are-coming-50c76f3028dc1.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "6a48ab02-a10e-428e-9e26-7f6ce8a85c80": {
+            "cdart": [
+                {
+                    "id": "173299",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/duals-55c024a944108.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "173298",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/duals-55c01684b71cd.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "a83637bf-01e9-32b8-8b3d-12dd39ec5cf6": {
+            "albumcover": [
+                {
+                    "id": "176089",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/i-still-havent-found-what-im-looking-for-55dbd74ab41a9.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "4d6c253b-d2ee-32c2-a8c8-299ac349856f": {
+            "albumcover": [
+                {
+                    "id": "176090",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/where-the-streets-have-no-name-55dbd74ab573e.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "94ba5536-9076-3b35-9a8a-d5806c0393a8": {
+            "albumcover": [
+                {
+                    "id": "198620",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/11-oclock-tick-tock-578396f7dbf15.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "e6441bb6-a026-4a36-9d94-a6de453b7a2e": {
+            "albumcover": [
+                {
+                    "id": "198621",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/the-miracle-of-joey-ramone-578396f7ddf7e.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "e0b6fb0e-f7c3-45e7-bc06-836e4ba38ae3": {
+            "albumcover": [
+                {
+                    "id": "199606",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/song-for-someone-579f85147d7bb.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "10492d46-2b4f-3b8d-b331-b9971603fbcb": {
+            "albumcover": [
+                {
+                    "id": "44315",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/7-500d6130c2295.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "deb26b57-62bf-3952-a5b0-e5a3c927c573": {
+            "albumcover": [
+                {
+                    "id": "91165",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/live-from-paris-51f3ee978f36b.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "880334fc-8365-36b9-b212-6cafa92879e5": {
+            "albumcover": [
+                {
+                    "id": "91446",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/under-a-blood-red-sky-51f63f72a4395.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "134394",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/cdart/under-a-blood-red-sky-540339c0aeade.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "9109c118-6bc1-4a9e-ac1a-bcabfc9f81b5": {
+            "albumcover": [
+                {
+                    "id": "177836",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/wide-awake-in-europe-55edf85633869.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "a40f53ce-a99f-3adf-9e33-8d387e5d58df": {
+            "albumcover": [
+                {
+                    "id": "183114",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/wide-awake-in-america-564504822db9b.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "fdb0e02d-d12a-38d5-9970-10a7f0fc9f5c": {
+            "albumcover": [
+                {
+                    "id": "202203",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/with-or-without-you-57db76632b1cd.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "9ace1888-92c2-386b-96bd-9389766ddf56": {
+            "albumcover": [
+                {
+                    "id": "204446",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/hold-me-thrill-me-kiss-me-kill-me-57fc0037c1e43.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "c001531e-df4a-3632-aaf3-c5fbb8512285": {
+            "albumcover": [
+                {
+                    "id": "204517",
+                    "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/albumcover/stuck-in-a-moment-you-cant-get-out-of-57fde19c9a88a.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "26332",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-4f805e377b181.jpg",
+            "likes": "5"
+        },
+        {
+            "id": "26333",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-4f805e377b5a0.jpg",
+            "likes": "4"
+        },
+        {
+            "id": "52259",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-5058bffb80200.jpg",
+            "likes": "3"
+        },
+        {
+            "id": "5497",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-4df96804ad0f3.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "143263",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-5487022bd1524.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "25152",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-4f7439c0d8434.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "44740",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-50104bf699b84.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "95007",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-521642f8a4e69.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "95009",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-5216431152ef3.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "143262",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-5487022bd0f47.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "26331",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistbackground/u2-4f805e377acdb.jpg",
+            "likes": "0"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "8964",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musiclogo/u2-4e4bc360a4683.png",
+            "likes": "4"
+        },
+        {
+            "id": "10037",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musiclogo/u2-4e60321cc6ecb.png",
+            "likes": "1"
+        },
+        {
+            "id": "21018",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musiclogo/u2-4f2c3c8da1779.png",
+            "likes": "1"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "44741",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistthumb/u2-50104c356fd2b.jpg",
+            "likes": "4"
+        },
+        {
+            "id": "37627",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/artistthumb/u2-4fdf7ab5bfa99.jpg",
+            "likes": "3"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "49573",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musicbanner/u2-503f9e062c802.JPG",
+            "likes": "1"
+        },
+        {
+            "id": "134776",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musicbanner/u2-54063da8ca135.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "219130",
+            "url": "http://assets.fanart.tv/fanart/music/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432/musicbanner/u2-591ce819c91a5.jpg",
+            "likes": "1"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "name": "Phantogram",
+    "mbid_id": "dfe78af2-779e-4137-826a-3073a16e3278",
+    "hdmusiclogo": [
+        {
+            "id": "111651",
+            "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/hdmusiclogo/phantogram-52f50749cca38.png",
+            "likes": "1"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "111652",
+            "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/artistbackground/phantogram-52f50762a1e0c.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "111653",
+            "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/artistbackground/phantogram-52f50776ad191.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "123961",
+            "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/artistbackground/phantogram-537b9d6e3ce22.jpg",
+            "likes": "1"
+        }
+    ],
+    "albums": {
+        "900eb40b-1435-4da4-b559-e9bd5f521325": {
+            "albumcover": [
+                {
+                    "id": "112179",
+                    "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/albumcover/voices-52fd98584dd15.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "d5d115f4-57ad-4f17-89b3-b11e81e97c42": {
+            "albumcover": [
+                {
+                    "id": "139100",
+                    "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/albumcover/eyelid-movies-5444ed4ea614e.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "0422cd9f-3981-4c04-9f14-e1e7248007a9": {
+            "albumcover": [
+                {
+                    "id": "158751",
+                    "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/albumcover/nightlife-5528cbd92308e.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7b278ec9-b4e2-4a6b-9721-ec55afc65997": {
+            "albumcover": [
+                {
+                    "id": "202178",
+                    "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/albumcover/three-57db054c94b20.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistthumb": [
+        {
+            "id": "123960",
+            "url": "http://assets.fanart.tv/fanart/music/dfe78af2-779e-4137-826a-3073a16e3278/artistthumb/phantogram-537b9d3d27e53.jpg",
+            "likes": "1"
+        }
+    ]
+}

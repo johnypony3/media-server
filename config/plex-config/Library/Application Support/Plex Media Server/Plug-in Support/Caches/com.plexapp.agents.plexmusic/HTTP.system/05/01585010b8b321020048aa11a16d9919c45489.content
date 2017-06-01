@@ -1,0 +1,85 @@
+{
+    "name": "Hozier",
+    "mbid_id": "b4691384-50c3-4afd-9988-51d3ec5db65d",
+    "artistthumb": [
+        {
+            "id": "145922",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/artistthumb/hozier-54a6a0f4106de.jpg",
+            "likes": "1"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "153694",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/hdmusiclogo/hozier-54f0c669810cc.png",
+            "likes": "1"
+        },
+        {
+            "id": "153993",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/hdmusiclogo/hozier-54f3e1179b27a.png",
+            "likes": "0"
+        },
+        {
+            "id": "183327",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/hdmusiclogo/hozier-564dcc112838c.png",
+            "likes": "0"
+        }
+    ],
+    "albums": {
+        "06af18b0-1f97-4282-8a4d-af53ae8d9377": {
+            "albumcover": [
+                {
+                    "id": "144439",
+                    "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/albumcover/hozier-54957f1cd20da.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "145925",
+                    "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/cdart/hozier-54a6a2a4b87ab.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "884dc2f6-49b0-4c81-9b06-364a5ad4cb6b": {
+            "albumcover": [
+                {
+                    "id": "202010",
+                    "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/albumcover/better-love-from-the-legend-of-tarzan-57d7ea547f573.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "5d75b06e-120a-4ad2-a16a-dcdd1754c329": {
+            "albumcover": [
+                {
+                    "id": "202011",
+                    "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/albumcover/sedated-57d7ea662bc14.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "145923",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/artistbackground/hozier-54a6a0fe7d171.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "161985",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/artistbackground/hozier-55451e77918ce.jpg",
+            "likes": "0"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "172069",
+            "url": "http://assets.fanart.tv/fanart/music/b4691384-50c3-4afd-9988-51d3ec5db65d/musicbanner/hozier-55b74ba49fcc8.jpg",
+            "likes": "0"
+        }
+    ]
+}

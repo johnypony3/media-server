@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5066960,
+    "airedSeason": 6,
+    "airedSeasonID": 604054,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Edie's Wedding",
+    "firstAired": "2015-01-29",
+    "guestStars": [],
+    "director": "Adam Reed",
+    "directors": [
+      "Adam Reed"
+    ],
+    "writers": [
+      "Adam Reed"
+    ],
+    "overview": "Pam takes Archer to her sister's wedding but gets side-tracked with technical difficulties. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1492385566,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/5066960.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 469668,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-01-27 14:59:14",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4327042",
+    "siteRating": 7.3,
+    "siteRatingCount": 16
+  }
+}

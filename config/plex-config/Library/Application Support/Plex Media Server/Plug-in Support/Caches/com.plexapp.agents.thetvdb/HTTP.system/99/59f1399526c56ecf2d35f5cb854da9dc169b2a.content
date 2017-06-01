@@ -1,0 +1,690 @@
+{
+  "links": {
+    "first": 1,
+    "last": 1,
+    "next": null,
+    "prev": null
+  },
+  "data": [
+    {
+      "absoluteNumber": 9,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 2,
+      "episodeName": "Sand Hill Shuffle",
+      "firstAired": "2015-04-12",
+      "id": 5091616,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1490567526,
+      "overview": "Following their success at TechCrunch Disrupt, the guys of Pied Piper find themselves aggressively courted by every VC in Silicon Valley. With Peter Gregory’s company facing major changes, Monica tries to do what’s best while dealing with new managing partner Laurie, a competitive bigwig who will do anything to hold onto Pied Piper. Later, Richard makes a decision about the company’s future and faces big news from Hooli."
+    },
+    {
+      "absoluteNumber": 1,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 1,
+      "episodeName": "Minimum Viable Product",
+      "firstAired": "2014-04-06",
+      "id": 4765079,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996866,
+      "overview": "Attending an elaborate launch party, Richard and his computer programmer friends - Big Head, Dinesh and Gilfoyle - dream of making it big. Instead, they're living in the communal Hacker Hostel owned by former programmer Erlich, who gets to claim ten percent of anything they invent there. When it becomes clear that Richard has developed a powerful compression algorithm for his website, Pied Piper, he finds himself courted by Gavin Belson, his egomaniacal corporate boss, who offers a $10 million buyout by his firm, Hooli. But Richard holds back when well-known investor Peter Gregory makes a counteroffer. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 0,
+      "airedSeasonID": 572783,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Making of Silicon Valley",
+      "firstAired": "2014-04-06",
+      "id": 4851215,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1398183503,
+      "overview": "An inside look at this new HBO comedy series from Mike Judge of “Office Space” fame."
+    },
+    {
+      "absoluteNumber": 19,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 3,
+      "episodeName": "Founder Friendly",
+      "firstAired": "2016-04-24",
+      "id": 5444157,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620135,
+      "overview": "After being unceremoniously fired, an angry Richard faces a tough decision: accept the diminished role of CTO, or leave Pied Piper for good. Erlich takes a shine to Jack Barker, Laurie’s new choice of CEO, while Dinesh and Gilfoyle weigh their options in Richard’s absence. At Hooli, Gavin tries to improve his image by admitting failure, and Big Head gets wind of major changes."
+    },
+    {
+      "absoluteNumber": 29,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Success Failure",
+      "firstAired": "2017-04-23",
+      "id": 5964673,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496230669,
+      "overview": "In the wake of Pied Piper’s clickfarm scandal, the guys struggle to find funding for Pied Piper’s video-chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Head’s dad. Gavin balks after Jack steps on his toes at Hooli. Having a hard time adjusting to his company’s pivot, Richard gets sage advice from an unexpected source, leading him to a big idea that could change his future."
+    },
+    {
+      "absoluteNumber": 2,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 1,
+      "episodeName": "The Cap Table",
+      "firstAired": "2014-04-13",
+      "id": 4794504,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996896,
+      "overview": "After a celebratory party at the Hacker Hostel, Richard and Erlich learn that Peter Gregory won't pay up until they deliver a viable business plan that includes a slimmed-down staff. A desperate Richard hires former Belson underling Jared, and they set about trying to trim the fat. While Gilfoyle and Dinesh prove essential, Big Head's place in the company is less certain."
+    },
+    {
+      "absoluteNumber": 10,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 2,
+      "episodeName": "Runaway Devaluation",
+      "firstAired": "2015-04-19",
+      "id": 5148405,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1484317102,
+      "overview": "In the wake of Hooli’s bombshell, Richard and the guys struggle to find a backer as they face legal and financial woes. Monica attempts to balance her interest in Pied Piper with her job. A cash-strapped Dinesh tries to put an end to the Kickstarter campaign for his cousin’s new app, Bro. Richard gets a surprising offer."
+    },
+    {
+      "absoluteNumber": 20,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 3,
+      "episodeName": "Two in the Box",
+      "firstAired": "2016-05-01",
+      "id": 5493954,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620143,
+      "overview": "The new and improved Pied Piper impresses Dinesh and Gilfoyle, but worries Richard; Jared and Erlich both face housing issues; Gavin suggests a controversial move."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Terms of Service",
+      "firstAired": "2017-04-30",
+      "id": 5999993,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496233563,
+      "overview": "Richard butts heads with Dinesh, whose new position goes to his head. Later, Richard discovers interesting data about PiperChat’s users. Erlich makes a play to be involved in Jian-Yang’s new app; Jared sets ground rules in his friendship with Richard; Gavin’s paranoia over Jack’s enthusiasm causes him to make a rash decision."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 0,
+      "airedSeasonID": 572783,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Techcrunch: Disrupt!",
+      "firstAired": "",
+      "id": 6039569,
+      "language": {
+        "episodeName": "en",
+        "overview": ""
+      },
+      "lastUpdated": 1491760510,
+      "overview": null
+    },
+    {
+      "absoluteNumber": 3,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 1,
+      "episodeName": "Articles of Incorporation",
+      "firstAired": "2014-04-20",
+      "id": 4794505,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996916,
+      "overview": "While Gavin Belson begins to hype Nucleus, a competing compression platform, Richard learns that the name Pied Piper is already registered to a sprinkler company, forcing him to negotiate. Meanwhile, Erlich goes on a vision quest for a new company name, and Peter Gregory proves elusive when one of his companies asks for money."
+    },
+    {
+      "absoluteNumber": 11,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 2,
+      "episodeName": "Bad Money",
+      "firstAired": "2015-04-26",
+      "id": 5148406,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1484317272,
+      "overview": "While considering Gavin’s proposal, Richard is approached by Russ Hanneman, an image-conscious billionaire who wants to back Pied Piper, but may not be as “hands-off” as he claims. Gilfoyle and Dinesh play hardball to get what they want; Gavin finds a new strategy in dealing with the enemy."
+    },
+    {
+      "absoluteNumber": 21,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 3,
+      "episodeName": "Meinertzhagen's Haversack",
+      "firstAired": "2016-05-08",
+      "id": 5493955,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620152,
+      "overview": "Richard searches for a way around Jack. Gilfoyle opens himself up to recruiters. Dinesh draws unwanted attention from a recent purchase. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Intellectual Property",
+      "firstAired": "2017-05-07",
+      "id": 6027683,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495745717,
+      "overview": "An overtired Richard pushes himself to the brink of sanity while trying to move ahead with his next big idea. Eyeing a comeback, Erlich pressures an uncooperative Jian-Yang. Monica sets a trap at Raviga to improve her standing with Laurie. Dinesh goes on a date; Big Head enters the world of academia; Gavin faces an unknown future."
+    },
+    {
+      "absoluteNumber": 4,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 1,
+      "episodeName": "Fiduciary Duties",
+      "firstAired": "2014-04-27",
+      "id": 4794506,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996940,
+      "overview": "At Peter's toga party, Richard drunkenly promises to make Erlich a board member, which he regrets the next morning. After being unassigned at Hooli, Big Head finds others like him who have made careers out of doing nothing. Richard struggles to put Pied Piper's vision into words for a presentation without Erlich; later, he discovers an interesting connection between Peter and Gavin Belson."
+    },
+    {
+      "absoluteNumber": 12,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 2,
+      "episodeName": "The Lady",
+      "firstAired": "2015-05-03",
+      "id": 5148407,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1466122307,
+      "overview": "Richard butts heads with Erlich over a prospective hire, while Dinesh and Gilfoyle become suspicious that a new employee they recommended is commanding a higher salary. Big Head gets a surprising promotion at Hooli. At a board meeting, Monica and Richard find themselves outvoted; Jared institutes a workplace harassment policy."
+    },
+    {
+      "absoluteNumber": 22,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 3,
+      "episodeName": "Maleant Data Systems Solutions",
+      "firstAired": "2016-05-15",
+      "id": 5493956,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620160,
+      "overview": "The Pied Piper guys struggle to phone it in. Erlich faces competition. Monica takes a stand. Gavin makes a decision about Nucleus."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Teambuilding Exercise",
+      "firstAired": "2017-05-14",
+      "id": 6027684,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496215286,
+      "overview": "When Richard reaches out to an unlikely ally, Jared worries about the company he's keeping. Gilfoyle gets tough on security in the wake of Dinesh's latest dalliance; later, he considers whether to put his pride aside for a job. Concerned about Jian-Yang's commitment to his app, Erlich takes matters into his own hands."
+    },
+    {
+      "absoluteNumber": 5,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 1,
+      "episodeName": "Signaling Risk",
+      "firstAired": "2014-05-04",
+      "id": 4794507,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996958,
+      "overview": "Erlich taps a graffiti artist to design Pied Piper's logo, with predictably controversial results. Meanwhile, Richard learns he doesn't have much time to prepare for a live demonstration at TechCrunch Disrupt; Gavin Belson and Peter Gregory have an unexpected encounter; and Jared works on the company's efficiency. "
+    },
+    {
+      "absoluteNumber": 13,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 2,
+      "episodeName": "Server Space",
+      "firstAired": "2015-05-10",
+      "id": 5195798,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1484317171,
+      "overview": "Gavin’s interference causes Pied Piper to struggle with securing their expansion, while a nosy neighbor puts the guys at risk. Gilfoyle takes on the task of building servers, and an overstressed Richard reluctantly takes in Jared as a roommate. Big Head’s management skills are questioned, and Nucleus’ debut zeroes in on a big event."
+    },
+    {
+      "absoluteNumber": 23,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 3,
+      "episodeName": "The Empty Chair",
+      "firstAired": "2016-05-22",
+      "id": 5493957,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620167,
+      "overview": "Richard lets his ego get in the way at an interview. Dinesh, Gilfoyle and Jared misplace hardware. Erlich pitches his plans to Big Head."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Blood Boy",
+      "firstAired": "2017-05-21",
+      "id": 6056602,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496149829,
+      "overview": "Cracks in Richard's latest partnership become more apparent when he's forced to deal with an unexpected interloper. As things get more serious, Dinesh scrambles to find a way out of his new relationship. After learning of surprising developments afoot at Raviga, Monica has trouble deciding which horse to back."
+    },
+    {
+      "absoluteNumber": 6,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 1,
+      "episodeName": "Third Party Insourcing",
+      "firstAired": "2014-05-11",
+      "id": 4794508,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1454740675,
+      "overview": "Richard feels threatened when the team hires The Carver a hacker with a notorious reputation, to help with Pied Piper’s cloud. Jared finds himself taken for a ride when he seeks out Peter Gregory’s signature. Erlich and Dinesh compete for the attention of Tara, Gilfoyles visiting girlfriend. Later, Dinesh faces a sexual dilemma."
+    },
+    {
+      "absoluteNumber": 14,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 2,
+      "episodeName": "Homicide",
+      "firstAired": "2015-05-17",
+      "id": 5195799,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1484317213,
+      "overview": "When Monica encourages the guys to pounce on a livestream opportunity, Erlich reconnects with his old mentee, Double-A, an energy drink billionaire, but Richard finds out their friendship isn’t quite what Erlich thinks. After learning that the livestream might hit a snag, Gilfoyle and Dinesh brainstorm their options. Jared encourages a friendship between Carla and Monica."
+    },
+    {
+      "absoluteNumber": 24,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 3,
+      "episodeName": "Bachmanity Insanity",
+      "firstAired": "2016-05-29",
+      "id": 5493958,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620175,
+      "overview": "Richard’s new relationship is threatened by neuroses. Big Head and Erlich’s launch party has snags. Dinesh falls for a foreign coworker. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Customer Service",
+      "firstAired": "2017-05-28",
+      "id": 6056603,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496041534,
+      "overview": "On the hunt for financial support, Richard looks outside the tech bubble, and crosses paths with a contentious figure from Pied Piper's past. Erlich reaches out to Monica and Laurie in search of a new endeavor. A launch gone wrong finds Dinesh and Gilfoyle at war as Jared tries to keep the peace."
+    },
+    {
+      "absoluteNumber": 7,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 1,
+      "episodeName": "Proof of Concept",
+      "firstAired": "2014-05-18",
+      "id": 4794509,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996986,
+      "overview": "At TechCrunch Disrupt, Richard feels the pressure to finish his demo, but finds himself distracted by a girl he dated briefly, who’s now spreading rumors about him. Jared worries that Monica is taking his place in the company. Dinesh develops a crush on a girl at a neighboring booth. Erlich’s scandalous past connection to one of the judges threatens Pied Piper’s chances."
+    },
+    {
+      "absoluteNumber": 15,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 2,
+      "episodeName": "Adult Content",
+      "firstAired": "2015-05-24",
+      "id": 5195800,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1484317233,
+      "overview": "With the Pied Piper team fielding job offers and Russ distracted by financial news, Richard faces the prospect of either merging with a nemesis or folding. Gavin attempts to turn Nucleus’ failure into a success. Dinesh tries his hand at wooing a woman online. After Gilfoyle suggests a risky move, Richard reaches out to an unconventional client."
+    },
+    {
+      "absoluteNumber": 25,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 3,
+      "episodeName": "To Build a Better Beta",
+      "firstAired": "2016-06-05",
+      "id": 5598486,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620183,
+      "overview": "A beta version of Pied Piper gets an unexpected reception as Dinesh's lack of friends worries him, but Gilfoyle thinks he's stretching the truth. Amanda isn't sure she can dole out criticism. A strapped Erlich mulls a big decision. The Nucleus team tackles a difficult challenge from Gavin."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Patent Troll",
+      "firstAired": "2017-06-04",
+      "id": 6056604,
+      "language": {
+        "episodeName": "en",
+        "overview": ""
+      },
+      "lastUpdated": 1496151675,
+      "overview": null
+    },
+    {
+      "absoluteNumber": 8,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 1,
+      "airedSeasonID": 572784,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 1,
+      "episodeName": "Optimal Tip-to-Tip Efficiency",
+      "firstAired": "2014-06-01",
+      "id": 4822932,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1450996998,
+      "overview": "Poised to compete at TechCrunch Disrupt, the guys of Pied Piper become worried after an impressive presentation by Gavin Belson. As Jared tries to pivot the company, Richard is inspired to make big changes at the last minute. "
+    },
+    {
+      "absoluteNumber": 16,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 2,
+      "episodeName": "White Hat/Black Hat",
+      "firstAired": "2015-05-31",
+      "id": 5195801,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1466123073,
+      "overview": "When Richard takes pity on a competitor, he accidentally sparks a feud that finds him paranoid about security. Jared exaggerates Pied Piper’s size to get results. Facing pressure from board members, Gavin looks to place responsibility elsewhere."
+    },
+    {
+      "absoluteNumber": 26,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 3,
+      "episodeName": "Bachman's Earning's Over-Ride",
+      "firstAired": "2016-06-12",
+      "id": 5598487,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620191,
+      "overview": "Erlich tries to be honest with Richard, who has mixed emotions about their friendship and the future of Pied Piper. Jared's new company apparel turns heads but fuels yet another clash between Dinesh and Gilfoyle."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Keenan Vortex",
+      "firstAired": "2017-06-11",
+      "id": 6056605,
+      "language": {
+        "episodeName": "en",
+        "overview": ""
+      },
+      "lastUpdated": 1492842765,
+      "overview": null
+    },
+    {
+      "absoluteNumber": 17,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 9,
+      "dvdSeason": 2,
+      "episodeName": "Binding Arbitration",
+      "firstAired": "2015-06-07",
+      "id": 5196851,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1466123184,
+      "overview": "When Pied Piper and Hooli enter binding arbitration, Erlich demands to be put on the stand. Big Head finds himself propped up. Richard worries Hooli’s claim could have legs."
+    },
+    {
+      "absoluteNumber": 27,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 9,
+      "dvdSeason": 3,
+      "episodeName": "Daily Active Users",
+      "firstAired": "2016-06-19",
+      "id": 5598488,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495620200,
+      "overview": "Shocking stats are revealed and prompt Richard to bridge the gap between Pied Piper and its users, but Jared must go to extremes to keep everything intact. Gavin tries to recapture his former glory by bringing in new talent after discovering secrets about the competition."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Hooli-Con",
+      "firstAired": "2017-06-18",
+      "id": 6066834,
+      "language": {
+        "episodeName": "en",
+        "overview": ""
+      },
+      "lastUpdated": 1494265586,
+      "overview": null
+    },
+    {
+      "absoluteNumber": 18,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 2,
+      "airedSeasonID": 608408,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 2,
+      "episodeName": "Two Days of the Condor",
+      "firstAired": "2015-06-14",
+      "id": 5196852,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1466123297,
+      "overview": "As the guys await the verdict on Pied Piper’s fate, an unexpected real-life drama draws a spike in traffic to their livestream and leaves them fighting to hold things together – literally. While Erlich considers his future, Richard scrambles to save Pied Piper’s."
+    },
+    {
+      "absoluteNumber": 28,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 3,
+      "airedSeasonID": 648622,
+      "dvdEpisodeNumber": 10,
+      "dvdSeason": 3,
+      "episodeName": "The Uptick",
+      "firstAired": "2016-06-26",
+      "id": 5598489,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1496214076,
+      "overview": "Pied Piper’s future is hazy, but Erlich’s industry profile begins to rise, creating a moral dilemma for Richard as Dinesh’s new app starts to catch on. Meanwhile, Laurie makes plans for her exit; and Gavin’s pompous personality haunts his comeback at Hooli."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 10,
+      "airedSeason": 4,
+      "airedSeasonID": 699740,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Server Error",
+      "firstAired": "2017-06-25",
+      "id": 6081570,
+      "language": {
+        "episodeName": "en",
+        "overview": ""
+      },
+      "lastUpdated": 1495135284,
+      "overview": null
+    }
+  ]
+}

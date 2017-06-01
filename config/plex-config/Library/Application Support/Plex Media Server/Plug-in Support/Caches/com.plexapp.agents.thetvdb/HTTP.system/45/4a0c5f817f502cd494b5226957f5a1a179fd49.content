@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 5924316,
+    "airedSeason": 8,
+    "airedSeasonID": 695974,
+    "airedEpisodeNumber": 1,
+    "episodeName": "Archer Dreamland: No Good Deed",
+    "firstAired": "2017-04-05",
+    "guestStars": [],
+    "director": "",
+    "directors": [],
+    "writers": [
+      "Adam Reed"
+    ],
+    "overview": "Archer tries to find out who killed his partner, but accidentally gets in bed with Mother, a notorious L.A. crime boss.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1493672075,
+    "dvdDiscid": "",
+    "dvdSeason": 8,
+    "dvdEpisodeNumber": 1,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/5924316.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 435638,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 402083,
+    "thumbAdded": "2017-04-22 00:12:14",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5825432",
+    "siteRating": 6.3,
+    "siteRatingCount": 4
+  }
+}

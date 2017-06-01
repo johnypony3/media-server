@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05DA4ADC03A9F974?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/A8F2/21E0/695E/E46F_xlarge_front.jpg?cid=4563968" parentTitle="The Animals" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CBA8/F8E7/23A5/3BE9_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="UMG" type="album" title="Retrospective" summary="" index="1" ratingCount="0" year="2004" leafCount="0" viewedLeafCount="0">
+<Genre tag="Oldies" />
+<Genre tag="British Invasion" />
+<Genre tag="British Invasion Rock" />
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471093-F7EF2FBFFA8F4EBEAC79085E328B4A7E?lang=en" type="track" title="The House Of The Rising Sun" summary="" index="1" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471094-AA7534B066C4D23F56F2297BBE3176BC?lang=en" type="track" title="I&#39;m Crying" summary="" index="2" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471095-4C14C6D304208774B828763E8D5EBEBF?lang=en" type="track" title="Baby Let Me Take You Home" summary="" index="3" ratingCount="0">
+<Mood tag="Party" />
+<Mood tag="Fun" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471096-80E3930ED1E3BA5B262EE60262A28454?lang=en" type="track" title="Gonna Send You Back To Walker" summary="" index="4" ratingCount="0">
+<Mood tag="Lusty" />
+<Mood tag="Jaunty" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471097-E217BEE22596394D33A0F7A6DF82A16B?lang=en" type="track" title="Boom Boom" summary="" index="5" ratingCount="0">
+<Mood tag="Lusty" />
+<Mood tag="Jaunty" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471098-C4E30277F344F646BE8573F68344847B?lang=en" type="track" title="Don&#39;t Let Me Be Misunderstood" summary="" index="6" ratingCount="0">
+<Mood tag="Dark Urgent" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471099-B5075EF4CB0E88A06D800D351E65906F?lang=en" type="track" title="Bring It On Home To Me" summary="" index="7" ratingCount="0">
+<Mood tag="Bittersweet Pop" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471100-1D278D036838C2CF5C292CCCD5AEEBEE?lang=en" type="track" title="We Gotta Get Out Of This Place" summary="" index="8" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471101-029ACCA63160BF4952A5CC044E683C33?lang=en" type="track" title="It&#39;s My Life" summary="" index="9" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471102-EDC9644FAB4B7C55E68B68EAC414A2F9?lang=en" type="track" title="Don&#39;t Bring Me Down" summary="" index="10" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471103-41C76B5BC5E3F1B1533610FCC25536F4?lang=en" type="track" title="See See Rider" summary="" index="11" ratingCount="0">
+<Mood tag="Bittersweet Pop" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471104-F342778F8F3A144865A84431794F939E?lang=en" type="track" title="Inside-Looking Out" summary="" index="12" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471105-563DA91D90CA1C45EEA90217FEF0CA8A?lang=en" type="track" title="Hey Gyp" summary="" index="13" ratingCount="0">
+<Mood tag="Dark Groovy" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471106-F641F024D4DE06375A86C1AE62E45AAA?lang=en" type="track" title="Help Me Girl" summary="" index="14" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471107-557164E426FC019B7D47658A0F7C231A?lang=en" type="track" title="When I Was Young" summary="" index="15" ratingCount="0">
+<Mood tag="Dark Urgent" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471108-F8B48A50958F87DC2F073CD5146810B1?lang=en" type="track" title="A Girl Named Sandoz" summary="" index="16" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471109-527980AC05B32479524A97E827D8DE80?lang=en" type="track" title="San Franciscan Nights" summary="" index="17" ratingCount="0">
+<Mood tag="Dark Playful" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471110-F0CB0E023F52A7017797EDDFFCC40F8A?lang=en" type="track" title="Monterey" summary="" index="18" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471111-D05F8032301A4116942406D3924E6455?lang=en" type="track" title="Anything" summary="" index="19" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471112-D012E732759B732B6BBA61559C3F1498?lang=en" type="track" title="Sky Pilot" summary="" index="20" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471113-BBB57C08E9D10108E37F5B259C0E9AB2?lang=en" type="track" title="White Houses" summary="" index="21" ratingCount="0">
+<Mood tag="Heartfelt Passion" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/61471092-DA4ADC15AD62DAA00C64C3D5BC82BD68/61471114-B11733C5AAF89D1C6A755BE5A521CD7F?lang=en" type="track" title="Spill The Wine" summary="" index="22" ratingCount="0">
+<Mood tag="Carefree Pop" />
+</Track>
+</Directory>
+</MediaContainer>

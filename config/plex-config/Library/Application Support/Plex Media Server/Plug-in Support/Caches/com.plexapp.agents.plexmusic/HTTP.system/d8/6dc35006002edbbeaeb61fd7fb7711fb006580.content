@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/057E2BC4006F966A?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/4558/594C/EBA2/A3E7_xlarge_front.jpg?cid=4563968" parentTitle="Ritchie Blackmore&#39;s Rainbow" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/2507/A5C2/31A9/B579_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Polydor" type="album" title="Ritchie Blackmore&#39;s Rainbow" summary="" index="1" ratingCount="0" year="1975" leafCount="0" viewedLeafCount="0">
+<Genre tag="Metal" />
+<Genre tag="Heavy Metal" />
+<Genre tag="Classic British Metal" />
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313003-681BDFE939A0FF4F6E32396DD30D3D36?lang=en" type="track" title="Man On The Silver Mountain" summary="" index="1" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313004-04DEADDA9918191325624041B9B0CE0C?lang=en" type="track" title="Self Portrait" summary="" index="2" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313005-33B3E7DD047ED85AA4D197751D2C3E0B?lang=en" type="track" title="Black Sheep Of The Family" summary="" index="3" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313006-C5C52DECCB426DBAC0E01BE3E05F16EF?lang=en" type="track" title="Catch The Rainbow" summary="" index="4" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313007-FDC10286B0FF284E8DBB79980EAFD1FE?lang=en" type="track" title="Snake Charmer" summary="" index="5" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313008-27BFB354BC93997F2864362B7D736572?lang=en" type="track" title="The Temple Of The King" summary="" index="6" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+<Track artist="" bpm="160" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313009-8EA779FD03AD3C9A13F2A1DCE3DD9963?lang=en" type="track" title="If You Don&#39;t Like Rock &#39;n&#39; Roll" summary="" index="7" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313010-AB216373BBA80D11A0ACC2C9B49312A0?lang=en" type="track" title="Sixteenth Century Greensleeves" summary="" index="8" ratingCount="0">
+<Mood tag="Evocative" />
+<Mood tag="Intriguing" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/7313002-7E2BC4C3120A48AEC5A8A34F1CA7E62A/7313011-1E427DA8FF71AD0C08FED8E293382289?lang=en" type="track" title="Still I&#39;m Sad" summary="" index="9" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+</Directory>
+</MediaContainer>

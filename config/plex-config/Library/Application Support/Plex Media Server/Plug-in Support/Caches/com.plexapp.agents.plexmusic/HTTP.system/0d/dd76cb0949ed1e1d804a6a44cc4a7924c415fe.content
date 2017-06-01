@@ -1,0 +1,49 @@
+{
+    "name": "Local Natives",
+    "mbid_id": "1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1",
+    "albums": {
+        "851a8aa2-d1ae-4d9b-bd41-a455b7e18fc8": {
+            "cdart": [
+                {
+                    "id": "24302",
+                    "url": "http://assets.fanart.tv/fanart/music/1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1/cdart/gorilla-manor-4f63c3458a3c1.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "135766",
+                    "url": "http://assets.fanart.tv/fanart/music/1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1/albumcover/gorilla-manor-5414d28716143.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "bd38ca79-efb2-4f96-b68a-ef0fa09eaffd": {
+            "albumcover": [
+                {
+                    "id": "79902",
+                    "url": "http://assets.fanart.tv/fanart/music/1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1/albumcover/hummingbird-517281d62b24f.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "891c1dd7-3fbf-4a59-8c83-358748aa2c40": {
+            "albumcover": [
+                {
+                    "id": "201329",
+                    "url": "http://assets.fanart.tv/fanart/music/1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1/albumcover/sunlit-youth-57ca5846ebd41.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "79344",
+            "url": "http://assets.fanart.tv/fanart/music/1bbf31dc-dbc0-4a7a-bf3f-48bc665878e1/artistbackground/local-natives-516b4b83e8b16.jpg",
+            "likes": "0"
+        }
+    ]
+}

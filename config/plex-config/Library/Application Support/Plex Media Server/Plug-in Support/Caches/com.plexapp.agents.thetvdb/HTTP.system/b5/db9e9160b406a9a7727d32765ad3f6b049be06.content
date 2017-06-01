@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 5106954,
+    "airedSeason": 10,
+    "airedSeasonID": 604055,
+    "airedEpisodeNumber": 5,
+    "episodeName": "The Gang Spies Like U.S.",
+    "firstAired": "2015-02-11",
+    "guestStars": [
+      "Michael Naughton",
+      "Jim Lau",
+      "Elizabeth Sung"
+    ],
+    "director": "Matt Shakman",
+    "directors": [
+      "Matt Shakman"
+    ],
+    "writers": [
+      "David Hornsby"
+    ],
+    "overview": "Mac, Dennis and Dee spy on the fish factory. Frank and Charlie become suspicious.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491644072,
+    "dvdDiscid": "",
+    "dvdSeason": 10,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75805/5106954.jpg",
+    "seriesId": 75805,
+    "lastUpdatedBy": 390213,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2015-02-27 06:27:00",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3878546",
+    "siteRating": 7.7,
+    "siteRatingCount": 11
+  }
+}

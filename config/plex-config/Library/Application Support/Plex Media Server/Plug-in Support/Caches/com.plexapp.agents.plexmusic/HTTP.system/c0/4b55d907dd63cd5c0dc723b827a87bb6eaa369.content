@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="Ireland" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/052AD1C51B122E92?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/8FDE/36D2/5F0B/F960_xlarge_front.jpg?cid=4563968" parentTitle="U2" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6589/C4EC/825D/DEA4_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Island Records / Universal Music" type="album" title="Songs Of Innocence" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rock" />
+<Genre tag="Adult Alternative Rock" />
+<Genre tag="Adult Alternative Rock" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176403-558E33B5D208494353DE8845B3E6FD14?lang=en" type="track" title="The Miracle (Of Joey Ramone)" summary="" index="1" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176404-AC0146820C4B4DCC81294F6F26A4E75B?lang=en" type="track" title="Every Breaking Wave" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176405-EC31B781B6880D4BC8E956B4E3775BB5?lang=en" type="track" title="California (There Is No End To Love)" summary="" index="3" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176406-F8372617715278F9E755DD962C69C4AE?lang=en" type="track" title="Song For Someone" summary="" index="4" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176407-6BB767A9EDD28DD695C6FEC35EF6FBA9?lang=en" type="track" title="Iris (Hold Me Close)" summary="" index="5" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176408-09A446FD5B48E5E304EFE6C8D0B2FD37?lang=en" type="track" title="Volcano" summary="" index="6" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176409-EE4BACE85A5C8DD59C0898440AE19F82?lang=en" type="track" title="Raised By Wolves" summary="" index="7" ratingCount="0">
+<Mood tag="Evocative" />
+<Mood tag="Intriguing" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176413-CF1679AA280480F87ADFDCD4F77F5132?lang=en" type="track" title="Cedarwood Road" summary="" index="8" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176410-0D9B1D678EE0B56F23C1001CC5382729?lang=en" type="track" title="Sleep Like A Baby Tonight" summary="" index="9" ratingCount="0">
+<Mood tag="Sweet" />
+<Mood tag="Sincere" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176411-BFCCFF2417F5A6939D2E522BCF6B1B05?lang=en" type="track" title="This Is Where You Can Reach Me Now" summary="" index="10" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/454176402-2AD1C5138816A5CFB344FAE8A7BA21F8/454176412-21D13E80B58A86B7D866529076E3E0DB?lang=en" type="track" title="The Troubles" summary="" index="11" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+</Directory>
+</MediaContainer>

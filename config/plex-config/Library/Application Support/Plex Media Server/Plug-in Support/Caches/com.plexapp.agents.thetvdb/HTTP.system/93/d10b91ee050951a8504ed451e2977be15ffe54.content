@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "id": 8761,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/33928-1.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 3.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/33928-1.jpg"
+    },
+    {
+      "id": 10407,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 2.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-1.jpg"
+    },
+    {
+      "id": 10408,
+      "keyType": "season",
+      "subKey": "2",
+      "fileName": "seasons/75805-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.8,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-2.jpg"
+    },
+    {
+      "id": 17436,
+      "keyType": "season",
+      "subKey": "3",
+      "fileName": "seasons/75805-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 2.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-3.jpg"
+    },
+    {
+      "id": 24160,
+      "keyType": "season",
+      "subKey": "3",
+      "fileName": "seasons/75805-3-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.4,
+        "count": 5
+      },
+      "thumbnail": "_cache/seasons/75805-3-2.jpg"
+    },
+    {
+      "id": 218171,
+      "keyType": "season",
+      "subKey": "4",
+      "fileName": "seasons/75805-4-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.4,
+        "count": 5
+      },
+      "thumbnail": "_cache/seasons/75805-4-2.jpg"
+    },
+    {
+      "id": 223191,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.2,
+        "count": 6
+      },
+      "thumbnail": "_cache/seasons/75805-1-2.jpg"
+    },
+    {
+      "id": 234391,
+      "keyType": "season",
+      "subKey": "5",
+      "fileName": "seasons/75805-5.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 2.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-5.jpg"
+    },
+    {
+      "id": 317771,
+      "keyType": "season",
+      "subKey": "5",
+      "fileName": "seasons/75805-5-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.8,
+        "count": 5
+      },
+      "thumbnail": "_cache/seasons/75805-5-2.jpg"
+    },
+    {
+      "id": 317791,
+      "keyType": "season",
+      "subKey": "0",
+      "fileName": "seasons/75805-0.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 4,
+        "count": 1
+      },
+      "thumbnail": "_cache/seasons/75805-0.jpg"
+    },
+    {
+      "id": 621071,
+      "keyType": "season",
+      "subKey": "6",
+      "fileName": "seasons/75805-6.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 4,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-6.jpg"
+    },
+    {
+      "id": 871993,
+      "keyType": "season",
+      "subKey": "6",
+      "fileName": "seasons/75805-6-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 8
+      },
+      "thumbnail": "_cache/seasons/75805-6-2.jpg"
+    },
+    {
+      "id": 896464,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.5,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-1-4.jpg"
+    },
+    {
+      "id": 886651,
+      "keyType": "season",
+      "subKey": "5",
+      "fileName": "seasons/75805-5-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8,
+        "count": 6
+      },
+      "thumbnail": "_cache/seasons/75805-5-3.jpg"
+    },
+    {
+      "id": 915156,
+      "keyType": "season",
+      "subKey": "2",
+      "fileName": "seasons/75805-2-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-2-2.jpg"
+    },
+    {
+      "id": 915157,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-5.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 7,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-1-5.jpg"
+    },
+    {
+      "id": 915158,
+      "keyType": "season",
+      "subKey": "3",
+      "fileName": "seasons/75805-3-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.7,
+        "count": 3
+      },
+      "thumbnail": "_cache/seasons/75805-3-4.jpg"
+    },
+    {
+      "id": 915159,
+      "keyType": "season",
+      "subKey": "4",
+      "fileName": "seasons/75805-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9.8,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-4.jpg"
+    },
+    {
+      "id": 969731,
+      "keyType": "season",
+      "subKey": "2",
+      "fileName": "seasons/75805-2-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-2-3.jpg"
+    },
+    {
+      "id": 917591,
+      "keyType": "season",
+      "subKey": "7",
+      "fileName": "seasons/75805-7-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9.5,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-7-2.jpg"
+    },
+    {
+      "id": 927641,
+      "keyType": "season",
+      "subKey": "8",
+      "fileName": "seasons/75805-8.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-8.jpg"
+    },
+    {
+      "id": 929369,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-6.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-1-6.jpg"
+    },
+    {
+      "id": 967418,
+      "keyType": "season",
+      "subKey": "8",
+      "fileName": "seasons/75805-8-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.8,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-8-2.jpg"
+    },
+    {
+      "id": 969706,
+      "keyType": "season",
+      "subKey": "9",
+      "fileName": "seasons/75805-9.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-9.jpg"
+    },
+    {
+      "id": 969894,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-7.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 10,
+        "count": 1
+      },
+      "thumbnail": "_cache/seasons/75805-1-7.jpg"
+    },
+    {
+      "id": 969895,
+      "keyType": "season",
+      "subKey": "3",
+      "fileName": "seasons/75805-3-5.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 10,
+        "count": 1
+      },
+      "thumbnail": "_cache/seasons/75805-3-5.jpg"
+    },
+    {
+      "id": 1055912,
+      "keyType": "season",
+      "subKey": "4",
+      "fileName": "seasons/75805-4-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-4-3.jpg"
+    },
+    {
+      "id": 1120999,
+      "keyType": "season",
+      "subKey": "11",
+      "fileName": "seasons/75805-11-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 7.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-11-4.jpg"
+    },
+    {
+      "id": 1055908,
+      "keyType": "season",
+      "subKey": "8",
+      "fileName": "seasons/75805-8-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-8-3.jpg"
+    },
+    {
+      "id": 1055905,
+      "keyType": "season",
+      "subKey": "10",
+      "fileName": "seasons/75805-10-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-10-3.jpg"
+    },
+    {
+      "id": 1055906,
+      "keyType": "season",
+      "subKey": "9",
+      "fileName": "seasons/75805-9-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-9-2.jpg"
+    },
+    {
+      "id": 1055909,
+      "keyType": "season",
+      "subKey": "7",
+      "fileName": "seasons/75805-7.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 9,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-7.jpg"
+    },
+    {
+      "id": 1055913,
+      "keyType": "season",
+      "subKey": "3",
+      "fileName": "seasons/75805-3-6.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-3-6.jpg"
+    },
+    {
+      "id": 1055911,
+      "keyType": "season",
+      "subKey": "5",
+      "fileName": "seasons/75805-5-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-5-4.jpg"
+    },
+    {
+      "id": 1055914,
+      "keyType": "season",
+      "subKey": "2",
+      "fileName": "seasons/75805-2-4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-2-4.jpg"
+    },
+    {
+      "id": 1055915,
+      "keyType": "season",
+      "subKey": "1",
+      "fileName": "seasons/75805-1-8.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-1-8.jpg"
+    },
+    {
+      "id": 1055910,
+      "keyType": "season",
+      "subKey": "6",
+      "fileName": "seasons/75805-6-3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 8.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/seasons/75805-6-3.jpg"
+    },
+    {
+      "id": 1058743,
+      "keyType": "season",
+      "subKey": "10",
+      "fileName": "seasons/75805-10-2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 7,
+        "count": 4
+      },
+      "thumbnail": "_cache/seasons/75805-10-2.jpg"
+    },
+    {
+      "id": 1112785,
+      "keyType": "season",
+      "subKey": "10",
+      "fileName": "seasons/75805-10.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/seasons/75805-10.jpg"
+    },
+    {
+      "id": 1114296,
+      "keyType": "season",
+      "subKey": "11",
+      "fileName": "seasons/75805-11.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 3,
+        "count": 1
+      },
+      "thumbnail": "_cache/seasons/75805-11.jpg"
+    },
+    {
+      "id": 1156498,
+      "keyType": "season",
+      "subKey": "11",
+      "fileName": "seasons/75805-11-6.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 10,
+        "count": 1
+      },
+      "thumbnail": "_cache/seasons/75805-11-6.jpg"
+    },
+    {
+      "id": 1173378,
+      "keyType": "season",
+      "subKey": "12",
+      "fileName": "seasons/75805-12.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/seasons/75805-12.jpg"
+    }
+  ],
+  "errors": {
+    "invalidQueryParams": [
+      "lang"
+    ]
+  }
+}

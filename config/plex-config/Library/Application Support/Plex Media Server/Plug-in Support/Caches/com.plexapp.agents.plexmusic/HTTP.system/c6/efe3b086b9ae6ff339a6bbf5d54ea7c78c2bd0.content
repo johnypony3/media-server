@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05E55A9E28D65A3C?lang=en" parentThumb="" parentTitle="Kanye West" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/7F61/448B/51F5/DC1E_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Rock The World/IDJ/Kanye LP7" type="album" title="The Life Of Pablo" summary="" index="1" ratingCount="0" year="2016" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rap/Hip-Hop" />
+<Genre tag="Other Rap/Hip-Hop" />
+<Genre tag="General Rap/Hip-Hop" />
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136446-E75870CD72395C455D1B5E50C9CCCE03?lang=en" type="track" title="Ultralight Beam" summary="" index="1" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136447-49CB42044292718D94D8D4BDFF1D87D0?lang=en" type="track" title="Father Stretch My Hands Pt. 1" summary="" index="2" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136448-ADB1A0D328AEC5FE529198063AC803B3?lang=en" type="track" title="Pt. 2" summary="" index="3" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136449-0C9CF5D5F6C4E3B0CC3991831C61AF87?lang=en" type="track" title="Famous" summary="" index="4" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136450-79388032E575188CC38D7894BB81CD9D?lang=en" type="track" title="Feedback" summary="" index="5" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136451-91DDA4C98473F5198113718F7F9D7ABB?lang=en" type="track" title="Low Lights" summary="" index="6" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136452-8CE2AE171D0509BC23FE04E264BAE990?lang=en" type="track" title="Highlights" summary="" index="7" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136453-A412CA230760583DC64A8AAD278DA684?lang=en" type="track" title="Freestyle 4" summary="" index="8" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136454-D280C0D6A02F8FAAF147B66AC9FDA765?lang=en" type="track" title="I Love Kanye" summary="" index="9" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136455-1681E330E3F2BB407E79BF0E9344D0B0?lang=en" type="track" title="Waves" summary="" index="10" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136456-385D20A909D29D487014E3CDD5538403?lang=en" type="track" title="FML" summary="" index="11" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136457-9E8FDAA2B0981E5DF2FB43B22EFA772E?lang=en" type="track" title="Real Friends" summary="" index="12" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136458-D143B8F8CBE786D825A39E80FD23F5B5?lang=en" type="track" title="Wolves" summary="" index="13" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136459-1DC6AADC450FC9D3AB7D7928EDD19A51?lang=en" type="track" title="Frank&#39;s Track" summary="" index="14" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136460-BEC37D22F75A34210720391CAC42A34E?lang=en" type="track" title="Siiiiiiiiilver Surffffeeeeer Intermission" summary="" index="15" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136445-24086A64E2BB493CBF1CF0D94CF192D3?lang=en" type="track" title="30 Hours" summary="" index="16" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136461-ADCCA3F055ECEE571758A6B10A486AA8?lang=en" type="track" title="No More Parties In LA" summary="" index="17" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136462-0032D7D47905DCD29B922451C264BFDD?lang=en" type="track" title="Facts (Charlie Heat Version)" summary="" index="18" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136463-B44664783E8BFA7E2D7A355C6CBC6087?lang=en" type="track" title="Fade" summary="" index="19" ratingCount="0">
+</Track>
+<Track artist="" guid="com.plexapp.agents.plexmusic://gracenote/track/685136444-E55A9EF0F6D4BB60B11BC767C486718C/685136464-D6BC7ACE349DAA9CB139F6BC7DC41679?lang=en" type="track" title="Saint Pablo" summary="" index="20" ratingCount="0">
+</Track>
+</Directory>
+</MediaContainer>

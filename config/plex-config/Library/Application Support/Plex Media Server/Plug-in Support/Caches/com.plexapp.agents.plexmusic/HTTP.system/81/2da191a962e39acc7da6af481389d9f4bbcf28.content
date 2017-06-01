@@ -1,0 +1,332 @@
+{
+    "name": "Ludacris",
+    "mbid_id": "0638ba22-040f-438d-83a5-9b670c4adaf5",
+    "artistbackground": [
+        {
+            "id": "16014",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-4ee960ea4962b.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "175071",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d1caac4c89d.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "175127",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d2613854a63.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "53493",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-50616353084c0.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "139747",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-54514b37514b7.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "139748",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-54514b4470223.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175072",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d1caac4ce80.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175073",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d1caac4d447.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175074",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d1caac4d8f2.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175128",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d2613855be0.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175129",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d2613856bac.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175130",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d2613857b6a.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175131",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistbackground/ludacris-55d2613858964.jpg",
+            "likes": "0"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "9581",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/musiclogo/ludacris-4e5660af05b97.png",
+            "likes": "1"
+        }
+    ],
+    "albums": {
+        "cc045269-3953-3c30-aef8-2092524ad8f3": {
+            "albumcover": [
+                {
+                    "id": "24597",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/theater-of-the-mind-4f67b2df79a96.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "71697",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/theater-of-the-mind-5120eb0203796.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "64fd9d46-df1c-30b9-9d56-29c2c40607a6": {
+            "cdart": [
+                {
+                    "id": "58282",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/the-red-light-district-5087159d97cbf.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "49134",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/the-red-light-district-503ce2190b5aa.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "ebc3e2cf-a96a-3bb6-aa3d-282d35155518": {
+            "cdart": [
+                {
+                    "id": "90277",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/word-of-mouf-51eb78e658862.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "175119",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/word-of-mouf-55d261077430e.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "53319b86-2bac-4e89-b311-be36f53c1500": {
+            "albumcover": [
+                {
+                    "id": "24593",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/battle-of-the-sexes-4f67b2df70df6.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "140468",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/battle-of-the-sexes-54593ca45a954.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "051851cb-d955-3d41-86a9-a43df7d518a4": {
+            "albumcover": [
+                {
+                    "id": "24594",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/chicken-n-beer-4f67b2df71d96.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "140474",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/chicken-n-beer-54594862c4376.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6d2d9bc2-e46c-367f-9d67-3adbb85ab8d2": {
+            "albumcover": [
+                {
+                    "id": "24595",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/incognegro-4f67b2df77b56.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "280243c1-f6e1-3a57-8ed9-cda8373def33": {
+            "albumcover": [
+                {
+                    "id": "53461",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/back-for-the-first-time-506148294a4be.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "53462",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/back-for-the-first-time-506149a34a478.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6c622874-8df9-36db-b1b4-49d45b07de99": {
+            "albumcover": [
+                {
+                    "id": "131422",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/release-therapy-53dbc5a085f99.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "aa29afb1-d81b-3769-aff1-0ed084d3e340": {
+            "albumcover": [
+                {
+                    "id": "175118",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/ludacris-presents-disturbing-tha-peace-55d260dca6e2b.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "c9e448eb-58a0-455d-b615-4bb4910f54c6": {
+            "albumcover": [
+                {
+                    "id": "175167",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/ludaversal-55d275184ba7f.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "4a354fe8-06ff-470d-9ae1-d8f3c28f49f5": {
+            "albumcover": [
+                {
+                    "id": "175251",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/121-gigawatts-back-to-the-first-time-55d31c70059bb.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "22bc3725-20da-3521-9977-6b428d09ef07": {
+            "albumcover": [
+                {
+                    "id": "175252",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/golden-grain-55d31d0a4027e.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "7ede2067-c594-4083-8407-6b844952f5d5": {
+            "albumcover": [
+                {
+                    "id": "175253",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/albumcover/idgaf-55d31d81ac448.jpg",
+                    "likes": "0"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "179242",
+                    "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/cdart/idgaf-56031e443b8c0.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        }
+    },
+    "artistthumb": [
+        {
+            "id": "175126",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b66e2e.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "53487",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-506161096856b.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "53492",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-5061626296acf.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175077",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d1cd7303524.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175078",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d1cd7303af0.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175120",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b61766.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175121",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b62877.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175122",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b6382d.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175123",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b644c5.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175124",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b65138.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175125",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2611b65f8c.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "175168",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/artistthumb/ludacris-55d2757699de4.jpg",
+            "likes": "0"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "156306",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/musicbanner/ludacris-550d985d9376c.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "156307",
+            "url": "http://assets.fanart.tv/fanart/music/0638ba22-040f-438d-83a5-9b670c4adaf5/hdmusiclogo/ludacris-550d986ea0beb.png",
+            "likes": "0"
+        }
+    ]
+}

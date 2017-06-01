@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 339077,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 5,
+    "episodeName": "The Hamburger Postulate",
+    "firstAired": "2007-10-22",
+    "guestStars": [
+      "Sara Gilbert"
+    ],
+    "director": "Andrew D. Weyman",
+    "directors": [
+      "Andrew D. Weyman"
+    ],
+    "writers": [
+      "Steven Molaro",
+      "Jennifer Glickman",
+      "David Goetsch"
+    ],
+    "overview": "Fearing he's wasting his time on Penny, Leonard ends up making a connection with Leslie.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "3T6604",
+    "showUrl": "",
+    "lastUpdated": 1474195569,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/80379/339077.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 593,
+    "thumbAdded": "",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt1091292",
+    "siteRating": 7.6,
+    "siteRatingCount": 352
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0522727A05A25AD1?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/0415/CC1F/4E28/C8DA_xlarge_front.jpg?cid=4563968" parentTitle="The Strokes" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/0DF6/E0A4/732D/5A30_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="RCA / Rough Trade" type="album" title="First Impressions Of Earth" summary="" index="1" ratingCount="0" year="2006" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Garage Rock Revival" />
+<Genre tag="Garage Rock Revival" />
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526162-75CB56B6E7C5F4F45BFFA06E68EC30CE?lang=en" type="track" title="You Only Live Once" summary="" index="1" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526163-A05BF4CB17F2178A5E8E97EB879A7618?lang=en" type="track" title="Juicebox" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526164-BC1A7651D3C8EBB90100861F793F5AA0?lang=en" type="track" title="Heart In A Cage" summary="" index="3" ratingCount="0">
+<Mood tag="Heavy Triumphant" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526165-38DAA5930F0BF8611DC501AA0F9BF39E?lang=en" type="track" title="Razorblade" summary="" index="4" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526166-83C5DC1E63D88E147081D99BB032D3CD?lang=en" type="track" title="On The Other Side" summary="" index="5" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526167-54187286A8C9C077D0D2EC58FF6F0640?lang=en" type="track" title="Vision Of Division" summary="" index="6" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526168-EE17AF937733F16BECD63398D24A7107?lang=en" type="track" title="Ask Me Anything" summary="" index="7" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526169-07AD83C4F3605EA093DD43571F1182DC?lang=en" type="track" title="Electricityscape" summary="" index="8" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526170-5CC961174DB38EC50F5E0BC49427BC8E?lang=en" type="track" title="Killing Lies" summary="" index="9" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526171-5068D2F8CB05924C7135224B0938B220?lang=en" type="track" title="Fear Of Sleep" summary="" index="10" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526172-95ACE0C6491F9480DD605D6AF86C475A?lang=en" type="track" title="15 Minutes" summary="" index="11" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526173-4E78D809B1BD8B30DC60521443FDB781?lang=en" type="track" title="Ize Of The World" summary="" index="12" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526174-09F7008397D9DF55E6AB7AA345C11BDF?lang=en" type="track" title="Evening Sun" summary="" index="13" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/94526161-22727A4E17D10A8028710995C0873C3F/94526175-89EEBB814A35BEF9DCAFCECE5371043B?lang=en" type="track" title="Red Light" summary="" index="14" ratingCount="0">
+<Mood tag="Arousing Groove" />
+</Track>
+</Directory>
+</MediaContainer>

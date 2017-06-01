@@ -1,0 +1,53 @@
+{
+  "data": {
+    "id": 5748838,
+    "airedSeason": 1,
+    "airedSeasonID": 668343,
+    "airedEpisodeNumber": 5,
+    "episodeName": "Contrapasso",
+    "firstAired": "2016-10-30",
+    "guestStars": [
+      "Michael Wincott",
+      "Ptolemy Slocum",
+      "Leonardo Nam",
+      "James Landry Hébert",
+      "Oliver Bell",
+      "Lili Bordan",
+      "Wade Williams"
+    ],
+    "director": "Jonny Campbell",
+    "directors": [
+      "Jonny Campbell"
+    ],
+    "writers": [
+      "Dominic Mitchell",
+      "Lisa Joy"
+    ],
+    "overview": "Dolores, William, and Logan reach Pariah, a town built on decadence and transgression — and are recruited for a dangerous mission. The Man in Black meets an unlikely ally in his search to unlock the maze.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1486288381,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": 5,
+    "filename": "episodes/296762/5748838.jpg",
+    "seriesId": 296762,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 453339,
+    "thumbAdded": "2016-12-24 19:35:40",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4625866",
+    "siteRating": 7.8,
+    "siteRatingCount": 36
+  }
+}

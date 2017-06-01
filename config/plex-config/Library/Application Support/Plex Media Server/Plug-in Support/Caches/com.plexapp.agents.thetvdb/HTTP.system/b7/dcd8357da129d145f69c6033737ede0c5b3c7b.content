@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 363199,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 13,
+    "episodeName": "The Bat Jar Conjecture",
+    "firstAired": "2008-04-21",
+    "guestStars": [
+      "Adam Gregor",
+      "Sandra Marquez",
+      "Mark Harelik",
+      "Sergio Enrique"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Stephen Engel",
+      "Jennifer Glickman"
+    ],
+    "overview": "Sheldon finds himself booted from the gang's Physics Bowl team and replaced with Leslie, so he forms his own team, hoping to prove he's superior.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "3T6612",
+    "showUrl": "",
+    "lastUpdated": 1474195612,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 13,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/80379/363199.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 390660,
+    "thumbAdded": "2013-09-20 17:31:26",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt1127387",
+    "siteRating": 7.6,
+    "siteRatingCount": 331
+  }
+}

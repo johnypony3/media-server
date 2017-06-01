@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 337249,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 3,
+    "episodeName": "The Fuzzy Boots Corollary",
+    "firstAired": "2007-10-08",
+    "guestStars": [],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Bill Prady",
+      "Steven Molaro"
+    ],
+    "overview": "Leonard asks a woman out after he finds out that Penny is seeing someone.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "3T6602",
+    "showUrl": "",
+    "lastUpdated": 1474195559,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/80379/337249.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 593,
+    "thumbAdded": "",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt1091290",
+    "siteRating": 7.4,
+    "siteRatingCount": 344
+  }
+}

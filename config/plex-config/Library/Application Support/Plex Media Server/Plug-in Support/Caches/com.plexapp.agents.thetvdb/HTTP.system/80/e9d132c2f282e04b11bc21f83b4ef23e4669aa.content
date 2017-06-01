@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5859732,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 4,
+    "episodeName": "What's the Matter with Kansas?",
+    "firstAired": "2017-03-28",
+    "guestStars": [],
+    "director": "Gwyneth Horder-Payton",
+    "directors": [
+      "Gwyneth Horder-Payton"
+    ],
+    "writers": [
+      "Peter Ackerman"
+    ],
+    "overview": "Philip and Elizabeth have qualms about a new assignment, while a specter from Philip’s past creates unforeseen dangers. At the FBI, Stan makes a shocking play that could throw his career into turmoil.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU504",
+    "showUrl": "",
+    "lastUpdated": 1494727668,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 4,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5859732.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 390926,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 468845,
+    "thumbAdded": "2017-03-27 13:47:54",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6261582",
+    "siteRating": 7.8,
+    "siteRatingCount": 6
+  }
+}

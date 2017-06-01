@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5755397,
+    "airedSeason": 1,
+    "airedSeasonID": 668343,
+    "airedEpisodeNumber": 6,
+    "episodeName": "The Adversary",
+    "firstAired": "2016-11-06",
+    "guestStars": [
+      "Ptolemy Slocum",
+      "Leonardo Nam",
+      "Talulah Riley",
+      "Jonny Pasvolsky",
+      "Oliver Bell",
+      "Alastair Duncan"
+    ],
+    "director": "Frederick E.O. Toye",
+    "directors": [
+      "Frederick E.O. Toye"
+    ],
+    "writers": [
+      "Halley Gross",
+      "Jonathan Nolan"
+    ],
+    "overview": "Lutz is charmed by Maeve; Elsie discovers evidence that could point to sabotage; the Man in Black and Teddy clash with a garrison.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1486288633,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": 6,
+    "filename": "episodes/296762/5755397.jpg",
+    "seriesId": 296762,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 439540,
+    "thumbAdded": "2016-10-31 01:46:29",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4630544",
+    "siteRating": 8,
+    "siteRatingCount": 43
+  }
+}

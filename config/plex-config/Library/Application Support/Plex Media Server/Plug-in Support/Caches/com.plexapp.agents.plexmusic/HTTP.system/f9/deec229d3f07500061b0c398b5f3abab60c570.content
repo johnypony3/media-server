@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0571599C1F0228F6?lang=en" parentThumb="" parentTitle="Major Lazer &amp; DJ Snake Feat. M&#216;" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5855/72E9/5EBB/51C8_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Major Lazer / Warner Music" type="album" title="Lean On [Single]" summary="" index="1" ratingCount="0" year="2015" leafCount="0" viewedLeafCount="0">
+<Genre tag="Electronica" />
+<Genre tag="Electronica Mainstream" />
+<Genre tag="Pop Electronica" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/520235254-71599CD585BDF7A0D38637D00AFA15BD/520235255-4CC192336F5E73F4F1048316631E6428?lang=en" type="track" title="Lean On" summary="" index="1" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+</Directory>
+</MediaContainer>

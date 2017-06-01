@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/059535BE211B6CB9?lang=en" parentThumb="" parentTitle="Floating Points" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/AC12/57EB/A3E6/FC25_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Luaka Bop" type="album" title="Elaenia" summary="" index="1" ratingCount="0" year="2015" leafCount="0" viewedLeafCount="0">
+<Genre tag="Dance &amp; House" />
+<Genre tag="Progressive House" />
+<Genre tag="Deep House" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445434-B82D1FE100C5475EE3D9E6E7970B82C6?lang=en" type="track" title="Nespole" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445435-01B88DCB06781EBD6D0E324C163CED94?lang=en" type="track" title="Silhouettes (I, II, III)" summary="" index="2" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445436-0DED9A5583683C86FE6D2DEA425CA172?lang=en" type="track" title="Elaenia" summary="" index="3" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445437-0537C79FC90DF95B2B931797AA06B7E1?lang=en" type="track" title="Argente" summary="" index="4" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445438-321A15CB6811605FED8CF5C07BDCC226?lang=en" type="track" title="Thin Air" summary="" index="5" ratingCount="0">
+<Mood tag="Abstract Beat" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445439-55AD69C79AECE4ABFF960D75D363045F?lang=en" type="track" title="For Marmish" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/555445433-9535BE29B620DB4CD763359F13DE4342/555445440-94CCE155DAE411B905D682BEBA40AE9B?lang=en" type="track" title="Peroration Six" summary="" index="7" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+</Directory>
+</MediaContainer>

@@ -1,0 +1,1710 @@
+{
+  "links": {
+    "first": 1,
+    "last": 2,
+    "next": 2,
+    "prev": null
+  },
+  "data": [
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 1,
+      "episodeName": "The Gang Gets Racist",
+      "firstAired": "2005-08-04",
+      "id": 296310,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833567,
+      "overview": "The guys hire Dee's friend, Terrell to promote the bar.  Meanwhile, Charlie tries to prove that he is not a racist."
+    },
+    {
+      "absoluteNumber": 8,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 2,
+      "episodeName": "Charlie Gets Crippled",
+      "firstAired": "2006-06-29",
+      "id": 308471,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833265,
+      "overview": "An accident that puts Charlie in a wheelchair opens up a window of possibilities for the gang. Meanwhile, Dennis and Dee’s estranged father reenters their life in hopes of starting anew with his children and soon discovers that he enjoys the lifestyle of their friends."
+    },
+    {
+      "absoluteNumber": 18,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 3,
+      "episodeName": "The Gang Finds a Dumpster Baby",
+      "firstAired": "2007-09-13",
+      "id": 335475,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833501,
+      "overview": "The gang finds a baby in a dumpster, and Dee and Mac decide to raise him. Meanwhile, Dennis wants to join a group of environmental activists and Charlie attempts to learn the truth about his paternity."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 4,
+      "episodeName": "Mac and Dennis: Manhunters",
+      "firstAired": "2008-09-18",
+      "id": 387149,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833508,
+      "overview": "Charlie and Dee have been stealing Frank's delicious meats, so Frank leaves out human meat to get back at them. Driven by their cannibalistic needs, Charlie and Dee go in search of human flesh. Mac and Dennis harass Frank for hunting defenseless animals and think it would be much more badass to hunt something that could fight back ... like a human. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Exploits the Mortgage Crisis",
+      "firstAired": "2009-09-17",
+      "id": 1087211,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603796,
+      "overview": "Dennis, Mac, and Frank go into real estate, while Dee sets out to be a surrogate for a wealthy couple. Charlie gets into it with an attorney over the law."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac Fights Gay Marriage",
+      "firstAired": "2010-09-16",
+      "id": 2405531,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603864,
+      "overview": "Mac defends traditional marriage, while the rest of the gang reaps the rewards of wedded bliss."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Frank's Pretty Woman",
+      "firstAired": "2011-09-15",
+      "id": 4136240,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854707,
+      "overview": "With Frank intent on marrying a prostitute, The Gang tries to make the best of it by attempting an image makeover to uncover the heart of gold that exists deep inside Frank’s “pretty woman.”"
+    },
+    {
+      "absoluteNumber": 94,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 9,
+      "episodeName": "The Gang Broke Dee",
+      "firstAired": "2013-09-04",
+      "id": 4619057,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994537,
+      "overview": "Dee starts to embrace the desperate, self-loathing qualities the guys have beaten into her over the years, sending her stand-up comedy career to unexpected places."
+    },
+    {
+      "absoluteNumber": 84,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 8,
+      "episodeName": "Pop-Pop: The Final Solution",
+      "firstAired": "2012-10-11",
+      "id": 4292773,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994471,
+      "overview": "Dennis and Dee's ailing grandfather Pop-Pop is wasting away in the hospital, and they have to decide whether or not to pull the plug. Things get complicated when The Gang learns of Pop-Pop's history as a Nazi, and Mac, Charlie and Frank set off in search of the old man's spoils from the war."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 1,
+      "dvdSeason": 10,
+      "episodeName": "The Gang Beats Boggs",
+      "firstAired": "2015-01-14",
+      "id": 5052408,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644049,
+      "overview": "Mac oversees the gang while they compete to break Wade Boggs’ legendary beer drinking record."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Chardee MacDennis 2: Electric Boogaloo",
+      "firstAired": "2016-01-06",
+      "id": 5390631,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1480270477,
+      "overview": "The foursome demonstrate Chardee MacDennis for an interested board game executive, but the game sends things into chaos despite the gang's truce."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 1,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Turns Black",
+      "firstAired": "2017-01-04",
+      "id": 5828364,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495925416,
+      "overview": "After an electric heating blanket shorts out while the gang watches the Wiz they look in the mirror and realize they've turned black. They have to figure out how to get back to being themselves by going through all the classic body switch movie shenanigans they encounter."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 4,
+      "episodeName": "The Gang Solves the Gas Crisis",
+      "firstAired": "2008-09-18",
+      "id": 388882,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833488,
+      "overview": "Charlie, Mac, and Dennis formulate a plan to take advantage of the rising gas prices. By purchasing excess amounts now, they can sell it in the future and profit. As usual, things don't go as planned. Dee is also out to make money when she learns that Bruce is going to give the family fortune to a Muslim cultural center. She and Frank try to stop him and get the cash for themselves. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 1,
+      "episodeName": "Charlie Wants an Abortion",
+      "firstAired": "2005-08-11",
+      "id": 296311,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451894439,
+      "overview": "A girl from Charlie's past reveals they have a child together.  Mac sees the benefits in being a pro-life advocate, while Dennis uses an abortion rally to meet women."
+    },
+    {
+      "absoluteNumber": 9,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 2,
+      "episodeName": "The Gang Goes Jihad",
+      "firstAired": "2006-06-29",
+      "id": 308472,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451895406,
+      "overview": "When the gang learns that they are in danger of losing their bar due to a zoning mishap, they resort to some outlandish and extreme methods to prevent that from happening. Meanwhile, Frank isn’t too happy when his wife returns to town."
+    },
+    {
+      "absoluteNumber": 19,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 3,
+      "episodeName": "The Gang Gets Invincible",
+      "firstAired": "2007-09-13",
+      "id": 335476,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833554,
+      "overview": "Mac, Dennis and Dee try out for the Philadelphia Eagles.  Also interested in becoming an Eagle is Liam and Ryan McPoyle's brother, Doyle."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Goes to the Jersey Shore",
+      "firstAired": "2011-09-22",
+      "id": 4164605,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854732,
+      "overview": "Dee and Dennis take the gang to their favorite childhood vacation spot where things aren't quite how they remember. While Dee and Dennis see the seedy side of the Jersey Shore, Mac, Frank and Charlie have the nights of their lives."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Hits the Road",
+      "firstAired": "2009-09-24",
+      "id": 1088081,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603800,
+      "overview": "The gang tries to expand their horizons by going on a road trip to the Grand Canyon."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Dennis Gets Divorced",
+      "firstAired": "2010-09-23",
+      "id": 2819161,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603869,
+      "overview": "Marital bliss turns into business, as the gang experiences the emotional and economic hardships of divorce."
+    },
+    {
+      "absoluteNumber": 85,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 8,
+      "episodeName": "The Gang Recycles Their Trash",
+      "firstAired": "2012-10-18",
+      "id": 4410871,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994483,
+      "overview": "With the garbage men of Philadelphia on strike, Frank concocts a plan to undercut the union and get the contract to collect the city's trash."
+    },
+    {
+      "absoluteNumber": 95,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 9,
+      "episodeName": "Gun Fever Too: Still Hot",
+      "firstAired": "2013-09-11",
+      "id": 4623328,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994542,
+      "overview": "After Frank appears on Local Television advocating gun ownership, the rest of the gang takes a look at the ownership process and alternatives to find a common ground on this still heated issue."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 2,
+      "dvdSeason": 10,
+      "episodeName": "The Gang Group Dates",
+      "firstAired": "2015-01-21",
+      "id": 5079589,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644057,
+      "overview": "The gang gets into the online dating scene to expand their matchmaking potential."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Frank Falls Out the Window",
+      "firstAired": "2016-01-13",
+      "id": 5390632,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1480270494,
+      "overview": "After falling out of the window, Frank thinks that it's 2006. The other three see this as a chance to fix their past mistakes."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 2,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Goes to a Water Park",
+      "firstAired": "2017-01-11",
+      "id": 5871909,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495925456,
+      "overview": "The gang takes a trip to a local water park, ripe with personal agendas and ulterior motives. Dennis feeds off his mantra of \"the park provides\" and takes on a protégé. Frank and Charlie are determined to ride every ride by any means necessary and Mac and Dee get stuck in a tube slide for most of the day."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 4,
+      "episodeName": "America's Next Top Paddy's Billboard Model Contest",
+      "firstAired": "2008-09-25",
+      "id": 388884,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833700,
+      "overview": "Due to the gang's latest \"business expenses,\" Paddy's is in dire need of money. Frank buys a billboard to advertise the bar, but Dee decides to create a viral video to post on YouTube for promotion. Charlie quickly joins her, leaving Frank and Mac to hold a contest for some hot models to feature on the billboard. Naturally, Dennis joins the competition to prove his worth. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 1,
+      "episodeName": "Underage Drinking: A National Concern",
+      "firstAired": "2005-08-18",
+      "id": 296312,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833519,
+      "overview": "After reminiscing about high school, the guys conclude that it would be a public service if they allowed teens to drink in the bar, thus providing a safe and controlled environment for teens to party. Feeling that she missed out on a lot as a teenager due to having to wear a brace for her scoliosis, Dee begins dating a high school jock."
+    },
+    {
+      "absoluteNumber": 10,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 2,
+      "episodeName": "Dennis and Dee Go on Welfare",
+      "firstAired": "2006-07-06",
+      "id": 308473,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833191,
+      "overview": "After quitting their job due to Frank's continuing interference, Dennis and Dee decide to seek alternative income by going on welfare. Meanwhile, Mac and Charlie must now bear the consequences of their friends’ departures from the business."
+    },
+    {
+      "absoluteNumber": 20,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 3,
+      "episodeName": "Dennis and Dee's Mom is Dead",
+      "firstAired": "2007-09-20",
+      "id": 335477,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833374,
+      "overview": "After Barbara's death, Dee and Frank are unhappy to learn that she left them both out of the will, while Dennis inherits the mansion which he plans to turn into a party pad."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Great Recession",
+      "firstAired": "2009-10-01",
+      "id": 1088131,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603805,
+      "overview": "With a shantytown taking shape outside, Mac and Dennis try to keep Paddy's going in tough times. Meanwhile, Frank and Dee start a family business."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Buys a Boat",
+      "firstAired": "2010-09-30",
+      "id": 2819171,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603874,
+      "overview": "The gang attempts to find adventure on the sea after they purchase their 'new' boat."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Frank Reynolds' Little Beauties",
+      "firstAired": "2011-09-29",
+      "id": 4174052,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854756,
+      "overview": "Frank finds himself in the child beauty-pageant business and fears that people might think that he's in it for the wrong reasons. Meanwhile, Dee wages war on stage moms, and Mac, Dennis and Charlie think they have found a contestant to back. "
+    },
+    {
+      "absoluteNumber": 86,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 8,
+      "episodeName": "The Maureen Ponderosa Wedding Massacre",
+      "firstAired": "2012-10-25",
+      "id": 4410872,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994493,
+      "overview": "The gang make a disturbing discovery after crashing Maureen's wedding."
+    },
+    {
+      "absoluteNumber": 96,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 9,
+      "episodeName": "The Gang Tries Desperately to Win an Award",
+      "firstAired": "2013-09-18",
+      "id": 4623325,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994546,
+      "overview": "Tired of failing to be recognized for their years of service in the bar industry, the gang changes their ways to give the patrons what they think they want."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 10,
+      "episodeName": "Psycho Pete Returns",
+      "firstAired": "2015-01-28",
+      "id": 5084674,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644062,
+      "overview": "When Psycho Pete, long lost member of the Freight Train, is released from the mental hospital, Dennis and Dee rush to get him recommitted while Charlie and Mac attempt to restore him to his former hard-partying form."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Hits the Slopes",
+      "firstAired": "2016-01-20",
+      "id": 5476978,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1480498448,
+      "overview": "Dennis and Frank battle Dee and Mac for control of the mountain, and Charlie learns the rules of the slopes."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 3,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Old Lady House: A Situation Comedy",
+      "firstAired": "2017-01-18",
+      "id": 5871910,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1495748740,
+      "overview": "Charlie thinks Mac's mom is holding his mom hostage, so the gang installs spy cameras in their house to monitor what's going on. What they end up discovering is the moms are quite entertaining once Dennis makes some quick edits and adds a laugh track to the surveillance footage. Dee wants in on the new hit show, and Frank becomes obsessed with banging Charlie's mom now that he's seen her on TV. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 1,
+      "episodeName": "Charlie Has Cancer",
+      "firstAired": "2005-08-23",
+      "id": 296313,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833586,
+      "overview": "After discovering that he might have cancer, Mac and Dennis attempt to find a woman who will sleep with Charlie.  In the midst of their search, Mac falls in love with a transsexual he meets at the bar named Carmen.  Overwhelmed by the extra workload that she had to take on since Charlie has taken a leave of absence, Dee tries to get Dennis to hire a recently out of work actress friend to help out."
+    },
+    {
+      "absoluteNumber": 11,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 2,
+      "episodeName": "Mac Bangs Dennis' Mom",
+      "firstAired": "2006-07-06",
+      "id": 308474,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833681,
+      "overview": "Barbara hooks up with Mac to make Frank jealous, which leads to retaliation from Dennis."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 4,
+      "episodeName": "Mac's Banging the Waitress",
+      "firstAired": "2008-09-25",
+      "id": 388885,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1432147491,
+      "overview": "Charlie finds out that the waitress has been seeing someone. He calls on Mac, his so-called best friend, to find out more information about the guy and to beat him up. However, it turns out that Mac is the guy the waitress has supposedly been seeing. Dennis, heartbroken that he's not Charlie's best friend, tries to win him over. "
+    },
+    {
+      "absoluteNumber": 21,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 3,
+      "episodeName": "The Gang Gets Held Hostage",
+      "firstAired": "2007-09-20",
+      "id": 335478,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833321,
+      "overview": "The McPoyles hold the entire gang hostage at Paddys while Frank is busy searching for his will in the air ducts."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Gives Frank an Intervention",
+      "firstAired": "2009-10-08",
+      "id": 1088091,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603810,
+      "overview": "Frank's behavior is more bizarre than usual---so bizarre that even the gang notice---so they decide to stage an intervention."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac's Big Break",
+      "firstAired": "2010-10-07",
+      "id": 2819181,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603878,
+      "overview": "Mac finally gets his big break after correctly answering a trivia question on the radio. While Frank, Dennis, and Dee take their bar-banter to the internet with their own podcast."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Sweet Dee Gets Audited",
+      "firstAired": "2011-10-06",
+      "id": 4176076,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854783,
+      "overview": "Dee faces an IRS audit over her claim that the baby she carried as a surrogate is her dependent, while the guys decide to run the bar in an unemotional, democratic manner rather than their typical method of shouting and personal attacks."
+    },
+    {
+      "absoluteNumber": 87,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 8,
+      "episodeName": "Charlie and Dee Find Love",
+      "firstAired": "2012-11-01",
+      "id": 4417785,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994501,
+      "overview": "Charlie and Dee become romantically involved with two members of a wealthy family, which arouses jealousy in Mac, Dennis, and Frank."
+    },
+    {
+      "absoluteNumber": 97,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 9,
+      "episodeName": "Mac and Dennis Buy a Timeshare",
+      "firstAired": "2013-09-25",
+      "id": 4623333,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994550,
+      "overview": "The gang does their best to recoup their investments in questionable schemes by dumping their losses on Ben the soldier while trying to avoid being duped again by whatever mastermind is pulling their strings."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Dee Made a Smut Film",
+      "firstAired": "2016-01-27",
+      "id": 5476979,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1482275196,
+      "overview": "Dennis makes a movie spotlighting his erotic memoirs while Frank and Mac try to pass off Charlie as a gifted artist to make money."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 4,
+      "dvdSeason": 10,
+      "episodeName": "Charlie Work",
+      "firstAired": "2015-02-04",
+      "id": 5101346,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644068,
+      "overview": "Charlie directs The Gang in balancing a scheme involving live chickens, steaks and airline miles with a health inspection, in a fast hectic manner."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 4,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Wolf Cola: A Public Relations Nightmare",
+      "firstAired": "2017-01-25",
+      "id": 5871911,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1487804631,
+      "overview": "Franks Fluids LLC is in big trouble after a news segment shows Wolf Cola has become the official drink of Boko Haram. Dee and Dennis help with the PR nightmare while Charlie and Mac work on a scheme to make Fight Milk the official drink of the UFC. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 1,
+      "episodeName": "Gun Fever",
+      "firstAired": "2005-08-30",
+      "id": 296314,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833709,
+      "overview": "The guys buy a gun after the bar's safe is stolen."
+    },
+    {
+      "absoluteNumber": 12,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 2,
+      "episodeName": "Hundred Dollar Baby",
+      "firstAired": "2006-07-13",
+      "id": 308475,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451895496,
+      "overview": "Frank runs into an old adversary at the gym when he begins teaching Dee to box after she was robbed. Hoping to make some extra money on the side, Mac and Dennis make preparations for Charlie to compete in an underground street fighting match."
+    },
+    {
+      "absoluteNumber": 22,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 3,
+      "episodeName": "The Aluminum Monster vs. Fatty Magoo",
+      "firstAired": "2007-09-27",
+      "id": 335479,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833560,
+      "overview": "Dee is shocked to learn that an overweight social outcast from her High School has become a rich and skinny fashion designer."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 4,
+      "episodeName": "Mac \u0026 Charlie Die, Part 1",
+      "firstAired": "2008-10-02",
+      "id": 390920,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1463324707,
+      "overview": "Part 1 of 2. Mac and Charlie fake their deaths to avoid the wrath of Mac's father who was released from prison and is out for vengeance."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Waitress Is Getting Married",
+      "firstAired": "2009-10-15",
+      "id": 1088101,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603815,
+      "overview": "The waitress is getting married, Dee is jealous that she's beating her to the altar, so she tries to derail the wedding."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac and Charlie: White Trash",
+      "firstAired": "2010-10-14",
+      "id": 2949951,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603882,
+      "overview": "Rejected from a pool club, Mac and Charlie set out fix an abandoned pool to help cope with the Philly heat wave. Meanwhile, Dennis and Dee go about dealing with the heat in a different way."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Frank's Brother",
+      "firstAired": "2011-10-13",
+      "id": 4179853,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854801,
+      "overview": "When Frank's long lost brother Gino shows up at the bar, the two of them tell the gang about the jazz club they ran in the 1960s and 70s, and how they fell out over Shadynasty, a singer who was the love of both of their lives."
+    },
+    {
+      "absoluteNumber": 88,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 8,
+      "episodeName": "The Gang Gets Analyzed",
+      "firstAired": "2012-11-08",
+      "id": 4417787,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994506,
+      "overview": "The Gang gets Freudian as they step into the therapist's office to work through their mountain of issues, but when Dennis thinks he has everyone figured out, the shrink turns the tables on him and exposes the insanity in his unique brand of pop psychology."
+    },
+    {
+      "absoluteNumber": 98,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 9,
+      "episodeName": "Mac Day",
+      "firstAired": "2013-10-02",
+      "id": 4623327,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994554,
+      "overview": "Everyone in the gang gets a day to do what they want while everyone else in the gang must participate willingly. This is Mac's Day... and its got twice the \"Mac\"."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Making Dennis Reynolds a Murderer",
+      "firstAired": "2017-02-01",
+      "id": 5939159,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1487804601,
+      "overview": "A cat-woman, AKA Maureen Ponderosa, is found dead in an alley and Dennis becomes the main suspect."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 5,
+      "dvdSeason": 10,
+      "episodeName": "The Gang Spies Like U.S.",
+      "firstAired": "2015-02-11",
+      "id": 5106954,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644072,
+      "overview": "Mac, Dennis and Dee spy on the fish factory. Frank and Charlie become suspicious."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 5,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac \u0026 Dennis Move to the Suburbs",
+      "firstAired": "2016-02-03",
+      "id": 5476981,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1482275211,
+      "overview": "Mac and Dennis move to the suburbs for cheaper rent but find it hard to adjust."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 1,
+      "episodeName": "The Gang Finds a Dead Guy",
+      "firstAired": "2005-09-08",
+      "id": 296315,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833366,
+      "overview": "Mac and Dennis befriend a patron found dead at their bar in order to win the affection of his granddaughter."
+    },
+    {
+      "absoluteNumber": 13,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 3,
+      "dvdSeason": 2,
+      "episodeName": "The Gang Gives Back",
+      "firstAired": "2006-07-20",
+      "id": 308476,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451895556,
+      "overview": "After being arrested for arson the gang is sentenced to do community service. Frank makes an effort to connect more with Dennis. Meanwhile, Charlie is also ordered to attend AA where he makes a startling discovery that might be beneficial in his ongoing quest to hook up with the Waitress."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 4,
+      "episodeName": "Mac \u0026 Charlie Die, Part 2",
+      "firstAired": "2008-10-02",
+      "id": 393227,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1463324718,
+      "overview": "Part 2 of 2. Dennis, Frank, and Dee find unique ways of coping with the apparent loss of their friends."
+    },
+    {
+      "absoluteNumber": 23,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 3,
+      "episodeName": "The Gang Solves the North Korea Situation",
+      "firstAired": "2007-09-27",
+      "id": 336650,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833638,
+      "overview": "A Korean restaurant owner threatens to get Paddy's kicked off the route for the city's annual pub crawl. The gang's response: War."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The World Series Defense",
+      "firstAired": "2009-10-22",
+      "id": 1088111,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603820,
+      "overview": "The gang describes the trials and tribulations they went through, during game five of the World Series, in hopes the judge will clear them of all the citations they received. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac's Mom Burns Her House Down",
+      "firstAired": "2010-10-21",
+      "id": 2949961,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603888,
+      "overview": "Mac's mother is left homeless after she burns down her house, which leaves Charlie and Mac with no choice but to make new living arrangements; when Dee feels under the weather, Frank tries to muster his paternal instincts to care for her."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Storm of the Century",
+      "firstAired": "2011-10-20",
+      "id": 4186469,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854817,
+      "overview": "As a hurricane threatens Philadelphia, Mac, Dennis and Charlie go to a mall to buy supplies and check out the large breasted TV reporter broadcasting from there, while Frank and Dee prepare Paddy's, and its basement bunker, for the storm."
+    },
+    {
+      "absoluteNumber": 89,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 8,
+      "episodeName": "Charlie's Mom Has Cancer",
+      "firstAired": "2012-11-15",
+      "id": 4417786,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994511,
+      "overview": "Mac, Charlie and Dee struggle with their faith as Charlie's mom fights cancer. Meanwhile, Frank loses his memory amidst a search for buried treasure."
+    },
+    {
+      "absoluteNumber": 99,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 9,
+      "episodeName": "The Gang Saves the Day",
+      "firstAired": "2013-10-09",
+      "id": 4623331,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994559,
+      "overview": "When a routine trip to a convenience store places the gang in the middle of an armed robbery, each of them is forced to explore how they react in extreme situations."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 10,
+      "episodeName": "The Gang Misses the Boat",
+      "firstAired": "2015-02-18",
+      "id": 5106955,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644076,
+      "overview": "After another failed venture, the Gang wonders if their group dynamic is bringing them down as individuals, causing them to separate from one another and find out who they really are."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Being Frank",
+      "firstAired": "2016-02-10",
+      "id": 5487408,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1482275224,
+      "overview": "The gang have a new scheme and Frank tries to keep up."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 6,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Hero or Hate Crime?",
+      "firstAired": "2017-02-08",
+      "id": 5942881,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1487804575,
+      "overview": "The gang fight over a lottery ticket and seek out an arbitrator to decide a rightful owner, who also decides if Frank is a hero or hate monger."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 1,
+      "airedSeasonID": 9310,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 1,
+      "episodeName": "Charlie Got Molested",
+      "firstAired": "2005-09-15",
+      "id": 298883,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833453,
+      "overview": "Charlie and Mac's old high school gym teacher is accused of molestation."
+    },
+    {
+      "absoluteNumber": 14,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 9,
+      "dvdSeason": 2,
+      "episodeName": "The Gang Exploits a Miracle",
+      "firstAired": "2006-07-27",
+      "id": 308477,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833220,
+      "overview": "Mac and Dee become uncomfortable when the rest of the guys decide to make some extra money by exploiting the similarities between a water stain and the Virgin Mary. A reunion with someone from the past, stirs up forbidden feelings within Dee."
+    },
+    {
+      "absoluteNumber": 24,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 3,
+      "episodeName": "The Gang Sells Out",
+      "firstAired": "2007-10-04",
+      "id": 337192,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438819810,
+      "overview": "The gang agrees to sell Paddys when they get an offer that is too good to refuse, but it forces the bar's non-partners, Dee and Charlie to find new jobs."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 4,
+      "episodeName": "Who Pooped the Bed?",
+      "firstAired": "2008-10-09",
+      "id": 395314,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1457618523,
+      "overview": "Charlie and Frank awake to find poop in their bed. Neither will confess to being the owner, so they, Mac, and Dennis try to scientifically deduce who dropped the deuce. Dee wants to do something a bit more sophisticated, so she invites the waitress and Artemis to a girls' night out. "
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Wrestles for the Troops",
+      "firstAired": "2009-10-29",
+      "id": 1088121,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603823,
+      "overview": "The gang puts together a wrestling show for returning troops. Meanwhile, Dee finally meets the soldier that she has been communicating with over the internet."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Who Got Dee Pregnant?",
+      "firstAired": "2010-10-28",
+      "id": 2949971,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603894,
+      "overview": "The gang gets a real scare after Dee reveals she's pregnant, forcing the guys to recall their last hazy Halloween party to determine who the father is."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Chardee MacDennis: The Game of Games",
+      "firstAired": "2011-10-27",
+      "id": 4190632,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854836,
+      "overview": "The gang plays the most twisted board game ever. Dee and Dennis face Mac, Charlie and Frank."
+    },
+    {
+      "absoluteNumber": 90,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 8,
+      "episodeName": "Frank's Back in Business",
+      "firstAired": "2012-11-29",
+      "id": 4417789,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994517,
+      "overview": "With Charlie under his wing, Frank cleans up so he can get his hands dirty and help out his old company with one last big merger. An unwritten rule of the bar gets the rest of the gang caught up in a case of mistaken identity."
+    },
+    {
+      "absoluteNumber": 100,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 9,
+      "episodeName": "The Gang Gets Quarantined",
+      "firstAired": "2013-10-16",
+      "id": 4623323,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994563,
+      "overview": "When a severe flu outbreak sweeps through Philadelphia, the gang chooses to voluntarily quarantine themselves inside of Paddy's in an attempt to keep their singing voices pristine for an upcoming singing competition."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 7,
+      "dvdSeason": 10,
+      "episodeName": "Mac Kills His Dad",
+      "firstAired": "2015-02-25",
+      "id": 5106956,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644081,
+      "overview": "News surfaces about Mac's Dad, Luther, being a murder suspect. Mac goes into full \"P.I.\" mode to clear his father of any wrong doing."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "McPoyle vs. Ponderosa: The Trial of the Century",
+      "firstAired": "2016-02-17",
+      "id": 5494108,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1482275237,
+      "overview": "Old grievances surface when the Lawyers sues Bill Ponderosa on behalf of Liam McPoyle and his lost eye."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 7,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "PTSDee",
+      "firstAired": "2017-02-15",
+      "id": 5942882,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1487804396,
+      "overview": "Dee dates a male stripper and tries to prove her worth after learning she's his \"rock bottom.\" Elsewhere, Mac and Frank get sucked into a VR war game, leading Mac to develop a case of PTSD."
+    },
+    {
+      "absoluteNumber": 15,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 6,
+      "dvdSeason": 2,
+      "episodeName": "The Gang Runs for Office",
+      "firstAired": "2006-08-03",
+      "id": 308478,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451896314,
+      "overview": "Driven by Frank's insight into the world of politics, Dennis pursues a political career by running for office."
+    },
+    {
+      "absoluteNumber": 25,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 3,
+      "episodeName": "Frank Sets Sweet Dee On Fire",
+      "firstAired": "2007-10-04",
+      "id": 337193,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1441863309,
+      "overview": "Mac teams up with Frank and Charlie to create a public access newscast after he misses his chance at fame in the news. Meanwhile, Dennis and Dee try to make it big in the club scene."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 4,
+      "episodeName": "Paddy's Pub: The Worst Bar in Philadelphia",
+      "firstAired": "2008-10-16",
+      "id": 395315,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1457618526,
+      "overview": "A newspaper critic is kidnapped by the gang after he calls Paddy's pub the worst bar in Philadelphia."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Paddy's Pub: Home of the Original Kitten Mittens",
+      "firstAired": "2009-11-05",
+      "id": 1088141,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603828,
+      "overview": "The gang decides to expand their business by developing a number of products that they could sell at Paddy's pub."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Gets a New Member",
+      "firstAired": "2010-11-04",
+      "id": 3019351,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603898,
+      "overview": "A blast from the past prompts the guys to expand membership, and Dee to re-consider her future."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 12,
+      "airedSeasonID": 687560,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The Gang Tends Bar",
+      "firstAired": "2017-02-22",
+      "id": 5947712,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1487981185,
+      "overview": "It's Valentine's Day and Paddy's is packed. Dennis tries to get the gang to do one single day of work, but they are more interested in a mystery crate in the alley."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 7,
+      "airedSeasonID": 470170,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "The ANTI-Social Network",
+      "firstAired": "2011-11-03",
+      "id": 4190633,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451854852,
+      "overview": "The gang uses the Internet to cyber-stalk their prey. Frank tries to drum up business for Paddy's with a viral video."
+    },
+    {
+      "absoluteNumber": 91,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 8,
+      "airedSeasonID": 488439,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 8,
+      "episodeName": "Charlie Rules the World",
+      "firstAired": "2012-12-06",
+      "id": 4417788,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994522,
+      "overview": "After slipping into an unhealthy obsession with computer games, The Gang wrestles to define the difference between the real and the virtual worlds.\r\n"
+    },
+    {
+      "absoluteNumber": 101,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 9,
+      "airedSeasonID": 524636,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 9,
+      "episodeName": "Flowers for Charlie",
+      "firstAired": "2013-10-23",
+      "id": 4623334,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491994568,
+      "overview": "When an experiment successfully multiplies Charlie's intellect and takes him away from the bar, the rest of the gang find themselves struggling to complete the menial \"Charlie Work\" that has kept the bar running for so long."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 10,
+      "airedSeasonID": 604055,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 10,
+      "episodeName": "The Gang Goes on Family Fight",
+      "firstAired": "2015-03-04",
+      "id": 5106957,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1491644086,
+      "overview": "When the gang appears on a nationally broadcasted game show, Dennis does his best to keep the gang’s weirdness under wraps."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 8,
+      "airedSeason": 11,
+      "airedSeasonID": 643543,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Charlie Catches a Leprechaun",
+      "firstAired": "2016-02-24",
+      "id": 5517690,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1482275250,
+      "overview": "Dennis tries to create an innovative mobile Paddy's pub experience but runs into trouble when customers refuse to cooperate, while Charlie and Mac attempt to catch a thieving leprechaun."
+    },
+    {
+      "absoluteNumber": 16,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 2,
+      "airedSeasonID": 16384,
+      "dvdEpisodeNumber": 8,
+      "dvdSeason": 2,
+      "episodeName": "Charlie Goes America All Over Everybody's Ass",
+      "firstAired": "2006-08-10",
+      "id": 308479,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1451898227,
+      "overview": "Dennis and Mac make a decision to take away all rules concerning moral and behavioral etiquette at Paddy's after an argument about the Constitution. Frank uses the decision and it's following consequences to his own gain. Meanwhile, Charlie tries to convey his love for America by protesting while Dee attempts to reaffirm her goal of being an actress."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 3,
+      "airedSeasonID": 28434,
+      "dvdEpisodeNumber": 9,
+      "dvdSeason": 3,
+      "episodeName": "Sweet Dee's Dating a Retarded Person",
+      "firstAired": "2007-10-11",
+      "id": 337194,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833603,
+      "overview": "Dee gets involved with a famous local rapper who might be mentally challenged, and whose success inspires the rest of the gang to start a band."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 4,
+      "airedSeasonID": 35088,
+      "dvdEpisodeNumber": 9,
+      "dvdSeason": 4,
+      "episodeName": "Dennis Reynolds: An Erotic Life",
+      "firstAired": "2008-10-23",
+      "id": 400452,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1438833427,
+      "overview": "After discovering Dennis' erotic memoir, Mac and Frank attempt to make some money off of it. Meanwhile, Dee and Charlie decide to spend a day in each other's shoes."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 5,
+      "airedSeasonID": 85131,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Mac and Dennis Break Up",
+      "firstAired": "2009-11-12",
+      "id": 1088181,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603833,
+      "overview": "Mac and Dennis decide that they need to spend some time away from each other. Meanwhile, Charlie helps Dee search for her cat."
+    },
+    {
+      "absoluteNumber": null,
+      "airedEpisodeNumber": 9,
+      "airedSeason": 6,
+      "airedSeasonID": 268951,
+      "dvdEpisodeNumber": null,
+      "dvdSeason": null,
+      "episodeName": "Dee Reynolds: Shaping America's Youth",
+      "firstAired": "2010-11-11",
+      "id": 3019361,
+      "language": {
+        "episodeName": "en",
+        "overview": "en"
+      },
+      "lastUpdated": 1492603902,
+      "overview": "Motivated by the drama teacher who inspired her, Dee takes a job as a substitute teacher, and exposes her students to the culture of Paddy's with a field trip to see the Gang's take on the Lethal Weapon series: Lethal Weapon 5."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="93" iva_id="388566" lang_code="0" originally_available_at="2015-11-04T10:45:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/9841/388566_007.jpg" title="Better Call Saul: I Need Your Help (Deleted Scene)" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="46" iva_id="606510" lang_code="0" originally_available_at="2015-11-04T10:31:00" primary="true" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/9841/606510_016.jpg" title="Better Call Saul: Season 1" type="trailer"/>
+</tv>

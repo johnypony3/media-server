@@ -1,0 +1,32 @@
+{
+  "data": {
+    "id": 74608,
+    "seriesName": "Top Gear",
+    "aliases": [],
+    "banner": "graphical/74608-g2.jpg",
+    "seriesId": "27682",
+    "status": "Continuing",
+    "firstAired": "2002-10-20",
+    "network": "BBC Two",
+    "networkId": "",
+    "runtime": "60",
+    "genre": [
+      "Comedy",
+      "Documentary",
+      "Reality",
+      "Special Interest",
+      "Talk Show"
+    ],
+    "overview": "This fast-paced and stunt-filled motor show tests whether cars, both mundane and extraordinary, live up to their manufacturers' claims. The long-running show travels to locations around the world, performing extreme stunts and challenges to see what the featured cars are capable of doing. Celebrity guests appear on some episodes to help test the vehicles. Things don't always go as planned, though, with broken bones and mechanical mishaps sometimes part of the experiments. Jeremy Clarkson, Richard Hammond and James May hosted the show for more than a decade before giving way to a new crew in 2016, including actor Matt LeBlanc, Chris Harris, and Rory Reid.",
+    "lastUpdated": 1496063658,
+    "airsDayOfWeek": "Sunday",
+    "airsTime": "20:00",
+    "rating": "TV-PG",
+    "imdbId": "tt1628033",
+    "zap2itId": "SH00335172",
+    "added": "",
+    "addedBy": null,
+    "siteRating": 9.5,
+    "siteRatingCount": 472
+  }
+}

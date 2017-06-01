@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 5963002,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 13,
+    "episodeName": "The Soviet Division",
+    "firstAired": "2017-05-30",
+    "guestStars": [],
+    "director": "Chris Long",
+    "directors": [
+      "Chris Long"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Philip and Elizabeth race against the clock as a life hangs in the balance, while Stan faces an uncertain future.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU513",
+    "showUrl": "",
+    "lastUpdated": 1495881760,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5963002.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 370917,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 468845,
+    "thumbAdded": "2017-05-25 09:44:21",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5780828",
+    "siteRating": 0,
+    "siteRatingCount": 0
+  }
+}

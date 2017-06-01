@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MediaContainer size="2">
+  <Video type="movie" key="http://ump.plex.tv/providers/universal/library/metadata/com.plexapp.agents.imdb%3A%2F%2Ftt1515208" ratingKey="com.plexapp.agents.imdb://tt1515208" language="en" title="Walking with the Enemy" year="2014" summary="Regent Horthy is the leader of Hungary and a German ally, but his favorable standing with Hitler changes as the war comes to an end. Forced to cede Hungary’s power or else witness the execution of his son, Regent Horthy gives up control of his country to the Nazis, who quickly move Hungarians to ghettos and death camps, with no hope in sight. But the despair changes when a young man named Elek emerges. Separated from his family during the relocations and aided by the woman he loves , Elek defies the enemy by becoming one of them. In a race against time, disguised as a Nazi Officer he embarks on a mission to save his family and thousands of his countrymen." thumb="https://image.tmdb.org/t/p/w154/vc2mJCq4tgtmjssODhaHB8NIv0s.jpg" score="107">
+    <Media>
+      <Part id="tt1515208"/>
+    </Media>
+    <Title value="Walking with the Enemy" source="elasticsearch"/>
+    <Year value="2014" source="elasticsearch"/>
+    <OriginallyAvailableAt value="2014-04-25" source="elasticsearch"/>
+    <Summary value="Regent Horthy is the leader of Hungary and a German ally, but his favorable standing with Hitler changes as the war comes to an end. Forced to cede Hungary’s power or else witness the execution of his son, Regent Horthy gives up control of his country to the Nazis, who quickly move Hungarians to ghettos and death camps, with no hope in sight. But the despair changes when a young man named Elek emerges. Separated from his family during the relocations and aided by the woman he loves , Elek defies the enemy by becoming one of them. In a race against time, disguised as a Nazi Officer he embarks on a mission to save his family and thousands of his countrymen." source="elasticsearch"/>
+    <Thumb thumb="https://image.tmdb.org/t/p/w154/vc2mJCq4tgtmjssODhaHB8NIv0s.jpg" key="https://image.tmdb.org/t/p/original/vc2mJCq4tgtmjssODhaHB8NIv0s.jpg" primary="1" source="elasticsearch"/>
+    <Guid guid="com.plexapp.agents.imdb://tt1515208"/>
+  </Video>
+  <Video type="movie" key="http://ump.plex.tv/providers/universal/library/metadata/com.plexapp.agents.imdb%3A%2F%2Ftt3499458" ratingKey="com.plexapp.agents.imdb://tt3499458" language="en" title="The Walking Deceased" year="2015" summary="THE WALKING DECEASED is the Scary Movie of the zombie genre, ripping on the biggest and best of zombie pop-culture, arguably the most crazed genre in the world. The story follows a group of survivors from all walks of the apocalypse – an idiotic Sheriff with definite coma-induced brain damage, his hardass son and a hobo with only a crossbow to stave off the walking dead, four squabbling friends forced to survive this zombieland together, and a lonely zombie who just needs love to fully regain his warm body – who leave their once-safe mall hideout in search of the rumored Safe Haven Ranch, a refuge untouched by the zombie virus that has ravaged humanity. But despite the comforting name, they discover that this sanctuary may not be as welcoming as advertised." thumb="https://image.tmdb.org/t/p/w154/n2tDFVfffMxaJ4Sl93uT8n0Xpgq.jpg" score="82">
+    <Media>
+      <Part id="tt3499458"/>
+    </Media>
+    <Title value="The Walking Deceased" source="elasticsearch"/>
+    <Year value="2015" source="elasticsearch"/>
+    <OriginallyAvailableAt value="2015-03-20" source="elasticsearch"/>
+    <Summary value="THE WALKING DECEASED is the Scary Movie of the zombie genre, ripping on the biggest and best of zombie pop-culture, arguably the most crazed genre in the world. The story follows a group of survivors from all walks of the apocalypse – an idiotic Sheriff with definite coma-induced brain damage, his hardass son and a hobo with only a crossbow to stave off the walking dead, four squabbling friends forced to survive this zombieland together, and a lonely zombie who just needs love to fully regain his warm body – who leave their once-safe mall hideout in search of the rumored Safe Haven Ranch, a refuge untouched by the zombie virus that has ravaged humanity. But despite the comforting name, they discover that this sanctuary may not be as welcoming as advertised." source="elasticsearch"/>
+    <Thumb thumb="https://image.tmdb.org/t/p/w154/n2tDFVfffMxaJ4Sl93uT8n0Xpgq.jpg" key="https://image.tmdb.org/t/p/original/n2tDFVfffMxaJ4Sl93uT8n0Xpgq.jpg" primary="1" source="elasticsearch"/>
+    <Guid guid="com.plexapp.agents.imdb://tt3499458"/>
+  </Video>
+</MediaContainer>

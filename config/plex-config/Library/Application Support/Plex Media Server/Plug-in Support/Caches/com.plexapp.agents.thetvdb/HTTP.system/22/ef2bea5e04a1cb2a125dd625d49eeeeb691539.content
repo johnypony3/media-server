@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 6030275,
+    "airedSeason": 8,
+    "airedSeasonID": 695974,
+    "airedEpisodeNumber": 3,
+    "episodeName": "Archer Dreamland: Jane Doe",
+    "firstAired": "2017-04-19",
+    "guestStars": [],
+    "director": "",
+    "directors": [],
+    "writers": [],
+    "overview": "Archer tries to escape from jail with the help of a crazed heiress and a dysfunctional jazz quartet.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1493672101,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/6030275.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 435638,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 402083,
+    "thumbAdded": "2017-04-22 00:12:35",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6745202",
+    "siteRating": 6.7,
+    "siteRatingCount": 3
+  }
+}

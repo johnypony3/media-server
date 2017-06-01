@@ -1,0 +1,56 @@
+{
+  "data": {
+    "id": 5507659,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 17,
+    "episodeName": "The Celebration Experimentation",
+    "firstAired": "2016-02-25",
+    "guestStars": [
+      "Kevin Sussman",
+      "Christine Baranski",
+      "John Ross Bowie",
+      "Sara Gilbert",
+      "Wil Wheaton",
+      "Adam West"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Eric Kaplan",
+      "Jeremy Howe",
+      "Steven Molaro",
+      "Tara Hernandez",
+      "Steve Holland"
+    ],
+    "overview": "After more than nine years together, the gang finally celebrates Sheldon’s birthday, surprising him with a special guest (Adam West).",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7217",
+    "showUrl": "",
+    "lastUpdated": 1493594721,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 17,
+    "dvdChapter": null,
+    "absoluteNumber": 200,
+    "filename": "episodes/80379/5507659.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 345634,
+    "thumbAdded": "2016-02-26 01:22:14",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5436356",
+    "siteRating": 7.8,
+    "siteRatingCount": 36
+  }
+}

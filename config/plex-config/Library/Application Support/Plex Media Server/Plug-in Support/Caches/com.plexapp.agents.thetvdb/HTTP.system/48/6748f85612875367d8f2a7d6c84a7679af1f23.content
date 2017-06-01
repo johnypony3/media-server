@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 5579003,
+    "airedSeason": 6,
+    "airedSeasonID": 651357,
+    "airedEpisodeNumber": 3,
+    "episodeName": "Oathbreaker",
+    "firstAired": "2016-05-08",
+    "guestStars": [],
+    "director": "Daniel Sackheim",
+    "directors": [
+      "Daniel Sackheim"
+    ],
+    "writers": [
+      "David Benioff",
+      "D. B. Weiss"
+    ],
+    "overview": "Daenerys meets her future. Bran meets the past. Tommen confronts the High Sparrow. Arya trains to be No One. Varys finds an answer. Ramsay gets a gift.\r\n",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491003573,
+    "dvdDiscid": "",
+    "dvdSeason": 6,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": 53,
+    "filename": "episodes/121361/5579003.jpg",
+    "seriesId": 121361,
+    "lastUpdatedBy": 410201,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 235,
+    "thumbAdded": "2016-05-16 05:56:21",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4131606",
+    "siteRating": 7.8,
+    "siteRatingCount": 73
+  }
+}

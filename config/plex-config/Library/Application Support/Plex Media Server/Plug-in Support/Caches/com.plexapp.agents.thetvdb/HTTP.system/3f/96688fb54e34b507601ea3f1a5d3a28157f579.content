@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 332484,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 1,
+    "episodeName": "Pilot",
+    "firstAired": "2007-09-24",
+    "guestStars": [
+      "Vernee Watson-Johnson",
+      "Brian Patrick Wade"
+    ],
+    "director": "James Burrows",
+    "directors": [
+      "James Burrows"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Bill Prady"
+    ],
+    "overview": "Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1474195544,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 1,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/80379/332484.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 593,
+    "thumbAdded": "",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt0775431",
+    "siteRating": 7.7,
+    "siteRatingCount": 438
+  }
+}

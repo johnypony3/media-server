@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 5042294,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Dimebag",
+    "firstAired": "2015-02-18",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Thomas Schlamme",
+    "directors": [
+      "Thomas Schlamme"
+    ],
+    "writers": [
+      "Peter Ackerman"
+    ],
+    "overview": "Philip faces a moral dilemma while developing an asset. Philip and Elizabeth’s friction escalates. Stan develops a theory with serious repercussions for national security. Paige makes a surprising birthday wish.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047530,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 4,
+    "dvdChapter": null,
+    "absoluteNumber": 30,
+    "filename": "episodes/261690/5042294.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-02-15 06:47:07",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4259458",
+    "siteRating": 7.8,
+    "siteRatingCount": 17
+  }
+}

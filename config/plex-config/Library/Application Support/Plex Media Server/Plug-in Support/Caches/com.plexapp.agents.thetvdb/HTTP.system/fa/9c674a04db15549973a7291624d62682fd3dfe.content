@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<MediaContainer size="2">
+  <Directory type="show" key="http://ump.plex.tv/providers/universal/library/metadata/com.plexapp.agents.tvdb%3A%2F%2F261690/children" ratingKey="com.plexapp.agents.tvdb://261690" language="en" title="The Americans" year="2013" summary="Set during the Cold War period in the 1980s, The Americans is the story of Elizabeth and Philip Jennings, two Soviet KGB officers posing as an American married couple in the suburbs of Washington D.C. and their neighbor, Stan Beeman, an FBI Counterintelligence agent." thumb="https://image.tmdb.org/t/p/w154/a5RlvETD1LTGVVEgGU4NdGm0sCN.jpg" score="108">
+    <Title value="The Americans" source="elasticsearch"/>
+    <Year value="2013" source="elasticsearch"/>
+    <OriginallyAvailableAt value="2013-01-30" source="elasticsearch"/>
+    <Summary value="Set during the Cold War period in the 1980s, The Americans is the story of Elizabeth and Philip Jennings, two Soviet KGB officers posing as an American married couple in the suburbs of Washington D.C. and their neighbor, Stan Beeman, an FBI Counterintelligence agent." source="elasticsearch"/>
+    <Thumb thumb="https://image.tmdb.org/t/p/w154/a5RlvETD1LTGVVEgGU4NdGm0sCN.jpg" key="https://image.tmdb.org/t/p/original/a5RlvETD1LTGVVEgGU4NdGm0sCN.jpg" primary="1" source="elasticsearch"/>
+    <Guid guid="com.plexapp.agents.tvdb://261690"/>
+  </Directory>
+  <Directory type="show" key="http://ump.plex.tv/providers/universal/library/metadata/com.plexapp.agents.tvdb%3A%2F%2F77513/children" ratingKey="com.plexapp.agents.tvdb://77513" language="en" title="The Americans" year="1961" summary="The Americans is a 17-episode American drama television series that aired on NBC from January to May 1961. Set during the American Civil War, the series focuses on two brothers fighting on opposite sides of the conflict." thumb="https://image.tmdb.org/t/p/w154/dn2PDuPVfJ3OgREV9OJgLYs7bDf.jpg" score="88">
+    <Title value="The Americans" source="elasticsearch"/>
+    <Year value="1961" source="elasticsearch"/>
+    <OriginallyAvailableAt value="1961-01-23" source="elasticsearch"/>
+    <Summary value="The Americans is a 17-episode American drama television series that aired on NBC from January to May 1961. Set during the American Civil War, the series focuses on two brothers fighting on opposite sides of the conflict." source="elasticsearch"/>
+    <Thumb thumb="https://image.tmdb.org/t/p/w154/dn2PDuPVfJ3OgREV9OJgLYs7bDf.jpg" key="https://image.tmdb.org/t/p/original/dn2PDuPVfJ3OgREV9OJgLYs7bDf.jpg" primary="1" source="elasticsearch"/>
+    <Guid guid="com.plexapp.agents.tvdb://77513"/>
+  </Directory>
+</MediaContainer>

@@ -1,0 +1,24 @@
+{
+    "name": "Floating Points",
+    "mbid_id": "69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97",
+    "albums": {
+        "b05bb6b1-7416-4b41-8e65-8592f2f8713d": {
+            "albumcover": [
+                {
+                    "id": "203450",
+                    "url": "http://assets.fanart.tv/fanart/music/69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97/albumcover/elaenia-57edafb93f965.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "63a098b4-86a4-45f1-bd24-87d8deeec84b": {
+            "albumcover": [
+                {
+                    "id": "203506",
+                    "url": "http://assets.fanart.tv/fanart/music/69d9c5ba-7bba-4cb7-ab32-8ccc48ad4f97/albumcover/kuiper-57ee1feea7730.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    }
+}

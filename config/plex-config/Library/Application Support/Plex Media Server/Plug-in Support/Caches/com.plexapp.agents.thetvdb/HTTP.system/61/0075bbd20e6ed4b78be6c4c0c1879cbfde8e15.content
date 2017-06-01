@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5573269,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 22,
+    "episodeName": "The Fermentation Bifurcation",
+    "firstAired": "2016-04-28",
+    "guestStars": [
+      "Brian Smith",
+      "Alessandra Torresani"
+    ],
+    "director": "Nikki Lorre",
+    "directors": [
+      "Nikki Lorre"
+    ],
+    "writers": [
+      "Steven Molaro",
+      "Jim Reynolds",
+      "Anthony Del Broccolo",
+      "Chuck Lorre",
+      "Steve Holland",
+      "Tara Hernandez"
+    ],
+    "overview": "Sheldon and Bernadette spend a night together while the rest of the gang goes to a wine tasting party, but things get uncomfortable for Raj when Zack also attends and takes an interest in Claire.\r\n",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7222",
+    "showUrl": "",
+    "lastUpdated": 1493594790,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 22,
+    "dvdChapter": null,
+    "absoluteNumber": 205,
+    "filename": "episodes/80379/5573269.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 447818,
+    "thumbAdded": "2016-04-28 05:19:30",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5597958",
+    "siteRating": 7.6,
+    "siteRatingCount": 27
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 5469015,
+    "airedSeason": 6,
+    "airedSeasonID": 651357,
+    "airedEpisodeNumber": 1,
+    "episodeName": "The Red Woman",
+    "firstAired": "2016-04-24",
+    "guestStars": [],
+    "director": "Jeremy Podeswa",
+    "directors": [
+      "Jeremy Podeswa"
+    ],
+    "writers": [
+      "David Benioff",
+      "D. B. Weiss"
+    ],
+    "overview": "Jon Snow is dead. Daenerys meets a strong man. Cersei sees her daughter again.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1476616262,
+    "dvdDiscid": "",
+    "dvdSeason": 6,
+    "dvdEpisodeNumber": 1,
+    "dvdChapter": null,
+    "absoluteNumber": 51,
+    "filename": "episodes/121361/5469015.jpg",
+    "seriesId": 121361,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 235,
+    "thumbAdded": "2016-06-06 11:05:32",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3658014",
+    "siteRating": 7.8,
+    "siteRatingCount": 73
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5908178,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 5,
+    "episodeName": "Lotus 1-2-3",
+    "firstAired": "2017-04-04",
+    "guestStars": [],
+    "director": "Noah Emmerich",
+    "directors": [
+      "Noah Emmerich"
+    ],
+    "writers": [
+      "Joshua Brand"
+    ],
+    "overview": "Philip and Elizabeth receive surprising news about Henry -- and shattering news about a past operation. Stan might be falling in love, but Philip wonders if something darker is going on. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU505",
+    "showUrl": "",
+    "lastUpdated": 1491986944,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5908178.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 370917,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-04-02 08:00:34",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6261584",
+    "siteRating": 8.4,
+    "siteRatingCount": 5
+  }
+}

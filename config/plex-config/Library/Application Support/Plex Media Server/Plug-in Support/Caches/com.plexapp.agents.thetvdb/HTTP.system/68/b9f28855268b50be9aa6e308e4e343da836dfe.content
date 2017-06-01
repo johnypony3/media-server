@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "id": 325465,
+      "seriesId": 80379,
+      "name": "Kaley Cuoco",
+      "role": "Penny",
+      "sortOrder": 0,
+      "image": "actors/325465.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:11:54",
+      "lastUpdated": "2017-05-06 17:46:40"
+    },
+    {
+      "id": 325464,
+      "seriesId": 80379,
+      "name": "Simon Helberg",
+      "role": "Howard Wolowitz",
+      "sortOrder": 1,
+      "image": "actors/325464.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:11:32",
+      "lastUpdated": "2017-05-06 17:46:52"
+    },
+    {
+      "id": 325462,
+      "seriesId": 80379,
+      "name": "Melissa Rauch",
+      "role": "Bernadette Rostenkowski",
+      "sortOrder": 1,
+      "image": "actors/325462.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:10:18",
+      "lastUpdated": "2017-05-06 17:47:12"
+    },
+    {
+      "id": 325463,
+      "seriesId": 80379,
+      "name": "Kunal Nayyar",
+      "role": "Rajesh Koothrappali",
+      "sortOrder": 1,
+      "image": "actors/325463.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:11:10",
+      "lastUpdated": "2017-05-07 05:42:48"
+    },
+    {
+      "id": 325461,
+      "seriesId": 80379,
+      "name": "Mayim Bialik",
+      "role": "Amy Farrah Fowler",
+      "sortOrder": 1,
+      "image": "actors/325461.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:10:46",
+      "lastUpdated": "2017-05-06 17:47:03"
+    },
+    {
+      "id": 325466,
+      "seriesId": 80379,
+      "name": "Johnny Galecki",
+      "role": "Leonard Hofstadter",
+      "sortOrder": 0,
+      "image": "actors/325466.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:12:38",
+      "lastUpdated": "2017-05-06 17:46:36"
+    },
+    {
+      "id": 325467,
+      "seriesId": 80379,
+      "name": "Jim Parsons",
+      "role": "Sheldon Cooper",
+      "sortOrder": 0,
+      "image": "actors/325467.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-02-18 14:12:17",
+      "lastUpdated": "2017-03-20 17:51:22"
+    },
+    {
+      "id": 358188,
+      "seriesId": 80379,
+      "name": "Laura Spencer",
+      "role": "Emily Sweeney",
+      "sortOrder": 3,
+      "image": "actors/358188.jpg",
+      "imageAuthor": 426592,
+      "imageAdded": "2015-10-20 21:50:07",
+      "lastUpdated": "2015-11-07 14:42:43"
+    },
+    {
+      "id": 378343,
+      "seriesId": 80379,
+      "name": "Sara Gilbert",
+      "role": "Leslie Winkle",
+      "sortOrder": 3,
+      "image": "actors/378343.jpg",
+      "imageAuthor": 459056,
+      "imageAdded": "2016-06-08 06:29:31",
+      "lastUpdated": "2016-06-08 06:29:31"
+    },
+    {
+      "id": 378344,
+      "seriesId": 80379,
+      "name": "Kevin Sussman",
+      "role": "Stuart Bloom",
+      "sortOrder": 2,
+      "image": "actors/378344.jpg",
+      "imageAuthor": 424581,
+      "imageAdded": "2016-05-17 08:36:29",
+      "lastUpdated": "2017-05-06 17:47:26"
+    },
+    {
+      "id": 382566,
+      "seriesId": 80379,
+      "name": "John Ross Bowie",
+      "role": "Barry Kripke",
+      "sortOrder": 3,
+      "image": "actors/382566.jpg",
+      "imageAuthor": 459056,
+      "imageAdded": "2016-06-08 06:26:32",
+      "lastUpdated": "2016-06-08 06:26:32"
+    },
+    {
+      "id": 403186,
+      "seriesId": 80379,
+      "name": "Carol Ann Susi",
+      "role": "Debbie Wolowitz",
+      "sortOrder": 3,
+      "image": "actors/403186.jpg",
+      "imageAuthor": 467290,
+      "imageAdded": "2016-12-08 17:03:27",
+      "lastUpdated": "2016-12-08 17:03:27"
+    },
+    {
+      "id": 426937,
+      "seriesId": 80379,
+      "name": "kaley cuoco",
+      "role": "penny",
+      "sortOrder": 0,
+      "image": "",
+      "imageAuthor": null,
+      "imageAdded": "",
+      "lastUpdated": "2017-05-28 13:27:52"
+    }
+  ]
+}

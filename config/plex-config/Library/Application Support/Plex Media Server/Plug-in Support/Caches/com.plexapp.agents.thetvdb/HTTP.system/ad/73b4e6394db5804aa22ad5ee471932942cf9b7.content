@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 4794504,
+    "airedSeason": 1,
+    "airedSeasonID": 572784,
+    "airedEpisodeNumber": 2,
+    "episodeName": "The Cap Table",
+    "firstAired": "2014-04-13",
+    "guestStars": [],
+    "director": "Mike Judge",
+    "directors": [
+      "Mike Judge"
+    ],
+    "writers": [
+      "Carson Mell"
+    ],
+    "overview": "After a celebratory party at the Hacker Hostel, Richard and Erlich learn that Peter Gregory won't pay up until they deliver a viable business plan that includes a slimmed-down staff. A desperate Richard hires former Belson underling Jared, and they set about trying to trim the fat. While Gilfoyle and Dinesh prove essential, Big Head's place in the company is less certain.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1450996896,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": 2,
+    "filename": "episodes/277165/4794504.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2014-04-29 12:17:47",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3668816",
+    "siteRating": 7.9,
+    "siteRatingCount": 41
+  }
+}

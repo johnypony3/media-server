@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 5042290,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 1,
+    "episodeName": "EST Men",
+    "firstAired": "2015-01-28",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Daniel Sackheim",
+    "directors": [
+      "Daniel Sackheim"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Tensions simmer between Philip and Elizabeth as they disagree over handling orders from the Centre. When Elizabeth loses key intel, Philip enlists Annelise on a mission with an unexpected outcome. Stan tries a new approach to mending his marriage with Sandra amidst learning tough news about Nina.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047458,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 1,
+    "dvdChapter": null,
+    "absoluteNumber": 27,
+    "filename": "episodes/261690/5042290.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 422344,
+    "thumbAdded": "2014-12-20 06:45:00",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3672866",
+    "siteRating": 7.7,
+    "siteRatingCount": 21
+  }
+}

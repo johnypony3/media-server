@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/055C0F690BFE14DA?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/BBDE/8A12/BB76/1C31_xlarge_front.jpg?cid=4563968" parentTitle="Spoon" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/033B/1437/2DF0/DBF8_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="EMI Australia" type="album" title="Transference" summary="" index="1" ratingCount="0" year="2010" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Rock" />
+<Genre tag="General Indie Rock" />
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200859-E362004624CC4DAC3EAEC19148D6BACD?lang=en" type="track" title="Before Destruction" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200860-614E8586F3C666C227E5C6B54AD75B50?lang=en" type="track" title="Is Love Forever" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200861-91D440B65E04BF5821E69FE56CAC4F53?lang=en" type="track" title="The Mystery Zone" summary="" index="3" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200862-27A982A8FC48BF95EBC23CD4C4172D6A?lang=en" type="track" title="Who Makes Your Money" summary="" index="4" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200863-77B2A8A1D7EAC88DBB78F492B8EFC055?lang=en" type="track" title="Written In Reverse" summary="" index="5" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200864-F466DE5D15276373D1E9B939D29ACA09?lang=en" type="track" title="I Saw The Light" summary="" index="6" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200865-7F7E4BBB40289B9A1EC74520A1C3C91C?lang=en" type="track" title="Trouble Comes Running" summary="" index="7" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200866-ED0145CC1AFB0B6C91C72D444ACB2A3E?lang=en" type="track" title="Goodnight Laura" summary="" index="8" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200867-37BFBF7EED2EA319E39014B530859D1D?lang=en" type="track" title="Out Go The Lights" summary="" index="9" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200868-AB3CE1EE96C3E5966AF4F34687F2F390?lang=en" type="track" title="Got Nuffin&#39;" summary="" index="10" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/201200858-5C0F696E816AA8C3223D829DE77120A0/201200869-42B8ACF5EB43DA6C69081B3BF5D6175D?lang=en" type="track" title="Nobody Gets Me But You" summary="" index="11" ratingCount="0">
+<Mood tag="Dark Pop" />
+</Track>
+</Directory>
+</MediaContainer>

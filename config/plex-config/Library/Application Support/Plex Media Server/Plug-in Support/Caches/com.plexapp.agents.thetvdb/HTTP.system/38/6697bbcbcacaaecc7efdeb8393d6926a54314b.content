@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": 5765513,
+    "airedSeason": 1,
+    "airedSeasonID": 668343,
+    "airedEpisodeNumber": 9,
+    "episodeName": "The Well-Tempered Clavier",
+    "firstAired": "2016-11-27",
+    "guestStars": [
+      "Talulah Riley",
+      "Louis Herthum",
+      "Gina Torres"
+    ],
+    "director": "Michelle MacLaren",
+    "directors": [
+      "Michelle MacLaren"
+    ],
+    "writers": [
+      "Dan Dietz",
+      "Katherine Lingenfelter"
+    ],
+    "overview": "Dolores and Bernard reconnect with their pasts; Maeve makes a bold proposition to Hector; Teddy finds enlightenment, at a price.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1486288580,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 9,
+    "dvdChapter": null,
+    "absoluteNumber": 9,
+    "filename": "episodes/296762/5765513.jpg",
+    "seriesId": 296762,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 430157,
+    "thumbAdded": "2016-11-23 12:47:41",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5220026",
+    "siteRating": 8.3,
+    "siteRatingCount": 34
+  }
+}

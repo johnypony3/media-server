@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/056ABB04014BB688?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/762A/4F9E/9D19/5ED0_xlarge_front.jpg?cid=4563968" parentTitle="The National" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8881/E785/0536/788C_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Brassland" type="album" title="The National" summary="" index="1" ratingCount="0" year="2001" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Rock" />
+<Genre tag="General Indie Rock" />
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739145-13CC0B03449F70B5BA461427C11EA4C2?lang=en" type="track" title="Beautiful Head" summary="" index="1" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739146-6169A94993BDECB4695E8748C8BDE798?lang=en" type="track" title="Cold Girl Fever" summary="" index="2" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739147-A879F44589EC04FF6C9128F4EA0B92C5?lang=en" type="track" title="The Perfect Song" summary="" index="3" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739148-F99FD82A08B2D1B2244754B77F2DDF1B?lang=en" type="track" title="American Mary" summary="" index="4" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739149-E352EDED1162FD74B8765E69CF415AD9?lang=en" type="track" title="Son" summary="" index="5" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739150-B7D9542A79402FBD771BCB3AA7B0BF3E?lang=en" type="track" title="Pay For Me" summary="" index="6" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739151-7379943A874DFF0A9E142C8C0631F1B9?lang=en" type="track" title="Bitters &amp; Absolut" summary="" index="7" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739152-F00E429D37A1EE3740CE2BFBA5116EA9?lang=en" type="track" title="John&#39;s Star" summary="" index="8" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739153-919759F41AB51BF9331F768B68300762?lang=en" type="track" title="Watching You Well" summary="" index="9" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739154-5C26D66871011889A63D8201D1746B1F?lang=en" type="track" title="Theory Of The Crows" summary="" index="10" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739155-C7BF277583D296D6E075773100E6A1FC?lang=en" type="track" title="29 Years" summary="" index="11" ratingCount="0">
+<Mood tag="Other" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/21739144-6ABB0460F976347FE740235BECFFD74C/21739156-54A3AEBA1B0174D0768A057865303120?lang=en" type="track" title="Anna Freud" summary="" index="12" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+</Directory>
+</MediaContainer>

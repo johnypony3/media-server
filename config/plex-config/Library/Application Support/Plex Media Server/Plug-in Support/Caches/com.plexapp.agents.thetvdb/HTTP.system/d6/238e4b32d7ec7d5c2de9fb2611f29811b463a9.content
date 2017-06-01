@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "id": 40753,
+      "seriesId": 75710,
+      "name": "Thomas Gibson",
+      "role": "Aaron Hotchner",
+      "sortOrder": 0,
+      "image": "actors/40753.jpg",
+      "imageAuthor": 1723,
+      "imageAdded": "2008-08-22 11:28:28",
+      "lastUpdated": "2014-02-05 06:39:40"
+    },
+    {
+      "id": 40752,
+      "seriesId": 75710,
+      "name": "Lola Glaudini",
+      "role": "Elle Greenaway",
+      "sortOrder": 3,
+      "image": "actors/40752.jpg",
+      "imageAuthor": 1723,
+      "imageAdded": "2008-08-22 11:24:54",
+      "lastUpdated": "2014-02-05 06:41:37"
+    },
+    {
+      "id": 79647,
+      "seriesId": 75710,
+      "name": "A.J. Cook",
+      "role": "Jennifer Jareau",
+      "sortOrder": 3,
+      "image": "actors/79647.jpg",
+      "imageAuthor": 200,
+      "imageAdded": "2008-11-01 13:46:07",
+      "lastUpdated": "2014-02-05 06:39:17"
+    },
+    {
+      "id": 40750,
+      "seriesId": 75710,
+      "name": "Matthew Gray Gubler",
+      "role": "Dr. Spencer Reid",
+      "sortOrder": 2,
+      "image": "actors/40750.jpg",
+      "imageAuthor": 1723,
+      "imageAdded": "2008-08-22 11:26:56",
+      "lastUpdated": "2014-02-05 06:37:03"
+    },
+    {
+      "id": 40749,
+      "seriesId": 75710,
+      "name": "",
+      "role": "",
+      "sortOrder": 3,
+      "image": "actors/40749.jpg",
+      "imageAuthor": 200,
+      "imageAdded": "2008-11-01 13:38:08",
+      "lastUpdated": "2017-01-11 18:11:31"
+    },
+    {
+      "id": 40748,
+      "seriesId": 75710,
+      "name": "Shemar Moore",
+      "role": "Derek Morgan",
+      "sortOrder": 1,
+      "image": "actors/40748.jpg",
+      "imageAuthor": 1723,
+      "imageAdded": "2008-08-22 11:27:35",
+      "lastUpdated": "2014-02-06 01:55:52"
+    },
+    {
+      "id": 81186,
+      "seriesId": 75710,
+      "name": "Joe Mantegna",
+      "role": "David Rossi",
+      "sortOrder": 3,
+      "image": "actors/81186.jpg",
+      "imageAuthor": 429484,
+      "imageAdded": "2015-03-10 14:55:18",
+      "lastUpdated": "2015-03-10 14:55:18"
+    },
+    {
+      "id": 78336,
+      "seriesId": 75710,
+      "name": "Kirsten Vangsness",
+      "role": "Penelope Garcia",
+      "sortOrder": 3,
+      "image": "actors/78336.jpg",
+      "imageAuthor": 1723,
+      "imageAdded": "2008-08-22 11:26:02",
+      "lastUpdated": "2014-02-05 06:40:57"
+    },
+    {
+      "id": 79648,
+      "seriesId": 75710,
+      "name": "Paget Brewster",
+      "role": "Emily Prentiss",
+      "sortOrder": 3,
+      "image": "actors/79648.jpg",
+      "imageAuthor": 200,
+      "imageAdded": "2008-11-01 13:50:23",
+      "lastUpdated": "2014-02-05 06:38:34"
+    },
+    {
+      "id": 279811,
+      "seriesId": 75710,
+      "name": "Rachel Nichols",
+      "role": "Ashley Seaver",
+      "sortOrder": 3,
+      "image": "actors/279811.jpg",
+      "imageAuthor": 429484,
+      "imageAdded": "2015-03-10 14:55:54",
+      "lastUpdated": "2015-03-10 14:55:54"
+    },
+    {
+      "id": 301173,
+      "seriesId": 75710,
+      "name": "Jeanne Tripplehorn",
+      "role": "Alex Blake",
+      "sortOrder": 3,
+      "image": "actors/301173.jpg",
+      "imageAuthor": 79791,
+      "imageAdded": "2012-07-15 09:58:13",
+      "lastUpdated": "2017-01-11 18:10:53"
+    },
+    {
+      "id": 390225,
+      "seriesId": 75710,
+      "name": "Aisha Tyler",
+      "role": "Dr Tara Lewis",
+      "sortOrder": 3,
+      "image": "actors/390225.jpg",
+      "imageAuthor": 222421,
+      "imageAdded": "2016-08-16 14:05:59",
+      "lastUpdated": "2016-08-16 14:05:59"
+    },
+    {
+      "id": 395877,
+      "seriesId": 75710,
+      "name": "Adam Rodriguez",
+      "role": "Luke Alvez",
+      "sortOrder": 3,
+      "image": "actors/395877.jpg",
+      "imageAuthor": 403468,
+      "imageAdded": "2016-11-18 18:04:59",
+      "lastUpdated": "2016-11-18 18:04:59"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5333194,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 4,
+    "episodeName": "The 2003 Approximation",
+    "firstAired": "2015-10-12",
+    "guestStars": [
+      "Kevin Sussman",
+      "Laura Spencer",
+      "Craig Welzbacher",
+      "Kurt Koehler",
+      "Arshad Aslam"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Steve Holland",
+      "Eric Kaplan"
+    ],
+    "overview": "Leonard and Penny finally move in together leaving Sheldon very upset with this big change in his life and wishing he could go back to a time when he had no emotions in 2003 before he met Leonard. Raj, Howard and Stuart attempt to form a band.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7204",
+    "showUrl": "",
+    "lastUpdated": 1493594507,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 4,
+    "dvdChapter": null,
+    "absoluteNumber": 187,
+    "filename": "episodes/80379/5333194.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 403468,
+    "thumbAdded": "2015-10-12 16:28:12",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4995126",
+    "siteRating": 7.4,
+    "siteRatingCount": 39
+  }
+}

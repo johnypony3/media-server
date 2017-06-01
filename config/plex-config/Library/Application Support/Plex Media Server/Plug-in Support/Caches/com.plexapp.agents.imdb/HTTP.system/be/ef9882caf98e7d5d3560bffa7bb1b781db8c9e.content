@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movie title="Se7en" country="US" originally_available_at="1995-09-22" tagline="">
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="30" iva_id="830875" lang_code="0" originally_available_at="2013-05-23T12:28:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/141/830875_019.jpg" title="Seven (Trailer 1)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="9" dts="false" duration="101" iva_id="558373" lang_code="10" originally_available_at="2016-07-28T11:16:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/10483/558373_014.jpg" title="Seven (German Trailer)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="136" iva_id="5930" lang_code="0" originally_available_at="1999-09-27T16:28:00" primary="true" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/8354/5930_029_1.jpg" title="Seven" type="trailer"/>
+  <ratings audience_rating="Upright" audience_score="95" critics_rating="Certified Fresh" critics_score="80" source="rotten_tomatoes"/>
+  <review critic="Jonathan Rosenbaum" date="2008-04-28" freshness="fresh" link="http://www.chicagoreader.com/chicago/seven/Film?oid=1068157" publication="Chicago Reader">The filmmakers stick to their vision with such dedication and persistence that something indelible comes across -- something ethically and artistically superior to The Silence of the Lambs that refuses to exploit suffering for fun or entertainment.</review>
+  <review critic="Roger Ebert" date="2000-01-01" freshness="fresh" link="http://www.rogerebert.com/reviews/great-movie-seven-1995" publication="Chicago Sun-Times">Good as it is, it misses greatness by not quite finding the right way to end.</review>
+  <review critic="Michael Wilmington" date="2014-03-25" freshness="rotten" link="http://articles.chicagotribune.com/1995-09-22/entertainment/9509220387_1_serial-killer-freeman-and-pitt-insane-killer" publication="Chicago Tribune">Unfortunately, most of the scenes in Seven are unlikely, which means that by the end of the movie the duo is battling not just an insane killer but an off-the-wall screenwriter.</review>
+  <review critic="James Berardinelli" date="2000-01-01" freshness="fresh" link="http://www.reelviews.net/php_review_template.php?identifier=740" publication="ReelViews">Seven is unnecessarily gory and runs for a little too long, but neither of these elements detracts much from the film's enjoyability (unless you have a weak stomach).</review>
+  <review critic="Edward Guthmann" date="2000-01-01" freshness="fresh" link="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1996/03/29/DD44989.DTL" publication="San Francisco Chronicle">Hannibal Lecter, say hello to John Doe.</review>
+  <review critic="Derek Adams" date="2006-06-24" freshness="fresh" link="http://www.timeout.com/film/reviews/74349/seven.html" publication="Time Out">Fincher handles the violence with sensitivity, announcing its obscenity in spoken analyses and briefly glimpsed post mortem shots, but never showing the murderous acts themselves.</review>
+  <review critic="Desmond Ryan" date="2014-03-25" freshness="fresh" link="http://articles.philly.com/1995-09-22/entertainment/25719708_1_deadly-sins-deadly-sins-murderer" publication="Philadelphia Inquirer">The reason to see Seven, which is decidedly not for the faint of stomach, is not for the punishment of sin, but the many virtues of Freeman's contribution.</review>
+  <review critic="Jay Boyar" date="2014-03-25" freshness="fresh" link="http://articles.orlandosentinel.com/1995-09-22/entertainment/9509210375_1_brad-pitt-morgan-freeman-sin" publication="Orlando Sentinel">The odd thing about Seven, however, is that except for its facile, familiar and ridiculously gimmicky plot, it's a pretty involving murder mystery.</review>
+  <review critic="Carol Buckland" date="2013-07-24" freshness="fresh" link="http://www.cnn.com/SHOWBIZ/Movies/9509/seven/index.html" publication="CNN.com">The movie is riveting in a gut-twisting way, but I, myself, would not call it "entertaining."</review>
+  <review critic="John Hartl" date="2014-03-25" freshness="rotten" link="http://community.seattletimes.nwsource.com/archive/?date=19950922&amp;slug=2142899" publication="Seattle Times">Were it not for the gravity and thoughtfulness of Morgan Freeman's performance as a retiring policeman, and the third-act appearance of its bizarre villain, Seven would be unendurable.</review>
+  <review critic="Terrence Rafferty" date="2013-07-24" freshness="rotten" link="http://www.newyorker.com/arts/reviews/film/seven" publication="New Yorker">Unfortunately, the movie's clammy design, glum cinematography, and lugubrious pace try to persuade us that what we're watching isn't an ingenious, silly piece of pulp but a serious meditation on the nature of evil.</review>
+  <review critic="Kenneth Turan" date="2001-02-13" freshness="rotten" link="http://articles.latimes.com/1995-09-22/entertainment/ca-48658_1_deadly-sins" publication="Los Angeles Times">Noticeable skill has gone into the making of Seven, but it's hard to take much pleasure in that.</review>
+  <review critic="David Ansen" date="2008-03-31" freshness="rotten" link="http://www.thedailybeast.com/newsweek/1995/10/02/seven-is-craps.html" publication="Newsweek">So chic, studied and murky it resembles a cross between a Nike commercial and a bad Polish art film.</review>
+  <review critic="Jami Bernard" date="2014-03-25" freshness="rotten" link="http://www.nydailynews.com/archives/nydn-features/grotesque-deadly-sin-ema-morgan-freeman-brad-pitt-serial-killer-thriller-article-1.703498" publication="New York Daily News">There's none of the humor that takes the sting out of slasher movies, and certainly none of the psychology and depth that made The Silence of the Lambs such an intellectual thriller. </review>
+  <review critic="Peter Travers" date="2001-05-12" freshness="fresh" link="http://www.rollingstone.com/movies/reviews/seven-19950922" publication="Rolling Stone">It's not the identity of the killer that gives Seven its kick -- it's the way Fincher raises mystery to the level of moral provocation.</review>
+  <originally_available_at country="US" originally_available_at="1995-09-22"/>
+  <content_rating content_rating="ca/R" country="CA"/>
+  <content_rating content_rating="it/T" country="IT"/>
+  <content_rating content_rating="ca/16+" country="CA"/>
+  <content_rating content_rating="au/MA15+" country="AU"/>
+  <content_rating content_rating="no/18" country="NO"/>
+  <content_rating content_rating="nz/R18" country="NZ"/>
+  <content_rating content_rating="au/R" country="AU"/>
+  <content_rating content_rating="br/14" country="BR"/>
+  <content_rating content_rating="fi/K-16" country="FI"/>
+  <content_rating content_rating="se/15" country="SE"/>
+  <content_rating content_rating="uk/18" country="UK"/>
+  <content_rating content_rating="fr/12" country="FR"/>
+  <content_rating content_rating="ca/AA" country="CA"/>
+  <content_rating content_rating="de/16" country="DE"/>
+  <content_rating content_rating="dk/16" country="DK"/>
+  <content_rating content_rating="fi/K-16/13" country="FI"/>
+  <content_rating content_rating="R" country="US"/>
+  <content_rating content_rating="nl/16" country="NL"/>
+  <content_rating content_rating="mx/B15" country="MX"/>
+  <content_rating content_rating="ca/14A" country="CA"/>
+  <content_rating content_rating="be/KNT/ENA" country="BE"/>
+  <content_rating content_rating="fi/K-15/13" country="FI"/>
+  <content_rating content_rating="es/18" country="ES"/>
+  <runtime country="US" runtime="127"/>
+  <summary lang="en" summary="Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi."/>
+  <title lang="en" title="Se7en"/>
+  <director name="David Fincher"/>
+  <actor name="Morgan Freeman" role="Somerset"/>
+  <actor name="Brad Pitt" role="Mills"/>
+  <actor name="Kevin Spacey" role="John Doe"/>
+  <actor name="Andrew Kevin Walker" role="Dead Man at 1st Crime Scene"/>
+  <actor name="Daniel Zacapa" role="Detective Taylor"/>
+  <actor name="Gwyneth Paltrow" role="Tracy"/>
+  <actor name="John Cassini" role="Officer Davis"/>
+  <actor name="Bob Mack" role="Gluttony Victim"/>
+  <actor name="Peter Crombie" role="Dr. O'Neill"/>
+  <actor name="Reg E. Cathey" role="Dr. Santiago"/>
+  <genre genre="Crime" lang="en"/>
+  <genre genre="Drama" lang="en"/>
+  <genre genre="Mystery" lang="en"/>
+  <genre genre="Thriller" lang="en"/>
+  <imdb_ratings audience_score="86" num_votes="1,103,579" source="imdb"/>
+  <poster url="https://images-na.ssl-images-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"/>
+</movie>

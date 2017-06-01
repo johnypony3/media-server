@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 5111214,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 8,
+    "episodeName": "Divestment",
+    "firstAired": "2015-03-18",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Daniel Attias",
+    "directors": [
+      "Daniel Attias"
+    ],
+    "writers": [
+      "Joshua Brand"
+    ],
+    "overview": "Martha and Clark’s marriage meets its most challenging test yet. As pressures on Philip intensify, Elizabeth turns to Gabriel with a difficult request. Nina receives a new assignment that reconnects her with her past. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047619,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": 34,
+    "filename": "episodes/261690/5111214.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-03-15 23:57:35",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4257820",
+    "siteRating": 7.8,
+    "siteRatingCount": 14
+  }
+}

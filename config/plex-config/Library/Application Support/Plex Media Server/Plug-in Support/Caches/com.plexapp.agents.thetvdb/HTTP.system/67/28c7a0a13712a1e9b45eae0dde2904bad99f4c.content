@@ -1,0 +1,54 @@
+{
+  "data": {
+    "id": 5406713,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 11,
+    "episodeName": "The Opening Night Excitation",
+    "firstAired": "2015-12-17",
+    "guestStars": [
+      "Kevin Sussman",
+      "Bob Newhart",
+      "Wil Wheaton",
+      "Jeff Witzke"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Steven Molaro",
+      "Eric Kaplan",
+      "Tara Hernandez",
+      "Steve Holland",
+      "Jim Reynolds",
+      "Maria Ferrari"
+    ],
+    "overview": "As the guys prepare to go to the premiere of the new Star Wars movie, Sheldon plans a special event for Amy's birthday.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7211",
+    "showUrl": "",
+    "lastUpdated": 1493594615,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 11,
+    "dvdChapter": null,
+    "absoluteNumber": 194,
+    "filename": "episodes/80379/5406713.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 337001,
+    "thumbAdded": "2015-12-17 18:10:12",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5143516",
+    "siteRating": 8.3,
+    "siteRatingCount": 38
+  }
+}

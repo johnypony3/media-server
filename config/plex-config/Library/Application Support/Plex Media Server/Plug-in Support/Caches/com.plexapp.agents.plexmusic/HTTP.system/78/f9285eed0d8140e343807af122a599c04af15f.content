@@ -1,0 +1,103 @@
+{
+    "name": "Jack White",
+    "mbid_id": "3ae2fb37-8a23-429d-9920-bac811c4fc22",
+    "albums": {
+        "37f48931-e5e6-488f-a531-ad2db311158d": {
+            "albumcover": [
+                {
+                    "id": "45155",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/albumcover/blunderbuss-501409bc1a603.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "28983",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/cdart/blunderbuss-4f9cddc1733a7.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "67e28d5b-f68e-4349-8e43-76189c90be65": {
+            "albumcover": [
+                {
+                    "id": "123349",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/albumcover/lazaretto-537708935cc8b.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "127746",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/cdart/lazaretto-53a6c99452bc6.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "277fb264-5557-3557-aa66-afdebcc094fc": {
+            "albumcover": [
+                {
+                    "id": "204684",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/albumcover/another-way-to-die-58028f262dfaa.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "d733d9b8-d5ea-4227-8629-5d7184f8f6ab": {
+            "albumcover": [
+                {
+                    "id": "202843",
+                    "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/albumcover/acoustic-recordings-19982016-57e6d7a14938d.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistthumb": [
+        {
+            "id": "45161",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/artistthumb/white-jack-50140cafd0107.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "45160",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/artistthumb/white-jack-50140cafcf625.jpg",
+            "likes": "0"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "45156",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/musiclogo/white-jack-50140a925a1b4.png",
+            "likes": "0"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "45157",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/artistbackground/white-jack-50140c1fd297d.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "45158",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/artistbackground/white-jack-50140c1fd3358.jpg",
+            "likes": "0"
+        },
+        {
+            "id": "45159",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/artistbackground/white-jack-50140c1fd3a2a.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "190135",
+            "url": "http://assets.fanart.tv/fanart/music/3ae2fb37-8a23-429d-9920-bac811c4fc22/hdmusiclogo/white-jack-56cd21af60acf.png",
+            "likes": "0"
+        }
+    ]
+}

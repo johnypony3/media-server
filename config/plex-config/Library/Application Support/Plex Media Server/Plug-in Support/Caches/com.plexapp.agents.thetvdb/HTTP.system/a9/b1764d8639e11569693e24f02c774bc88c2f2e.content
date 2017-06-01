@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5493955,
+    "airedSeason": 3,
+    "airedSeasonID": 648622,
+    "airedEpisodeNumber": 3,
+    "episodeName": "Meinertzhagen's Haversack",
+    "firstAired": "2016-05-08",
+    "guestStars": [],
+    "director": "Charlie McDowell",
+    "directors": [
+      "Charlie McDowell"
+    ],
+    "writers": [
+      "Adam Countee"
+    ],
+    "overview": "Richard searches for a way around Jack. Gilfoyle opens himself up to recruiters. Dinesh draws unwanted attention from a recent purchase. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1495620152,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": 21,
+    "filename": "episodes/277165/5493955.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 345634,
+    "thumbAdded": "2016-05-09 03:13:59",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5218400",
+    "siteRating": 8.3,
+    "siteRatingCount": 11
+  }
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/053A7AC802DD24EF?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/0415/CC1F/4E28/C8DA_xlarge_front.jpg?cid=4563968" parentTitle="The Strokes" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/5810/D27C/6770/63F7_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="RCA" type="album" title="Room On Fire" summary="" index="1" ratingCount="0" year="2003" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Garage Rock Revival" />
+<Genre tag="Garage Rock Revival" />
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047344-16670DCF0CDF2AEC17D1E7EE5CCD8394?lang=en" type="track" title="What Ever Happened" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047345-733D2DDEEACB865B381688799E9AEEDD?lang=en" type="track" title="Reptilia" summary="" index="2" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047346-6A89C2D4C6799F13F7C0E125BCBE73EF?lang=en" type="track" title="Automatic Stop" summary="" index="3" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047347-90D0D70A7B5A67B2568CC4B9BC3329F9?lang=en" type="track" title="12:51" summary="" index="4" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047348-AEA6F0FC9ED3FF834F708F8D0DBD618B?lang=en" type="track" title="You Talk Way Too Much" summary="" index="5" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047349-836E4CA92FD924626A3D98723ECCE2AA?lang=en" type="track" title="Between Love &amp; Hate" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047350-2D72584B64FC9036B6BFB18C1D4360F7?lang=en" type="track" title="Meet Me In The Bathroom" summary="" index="7" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047351-BD55DCA8AA5D63D74F89E0EA70EA12D7?lang=en" type="track" title="Under Control" summary="" index="8" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047352-8BF469E992CDCCCCA8041790F39FA6D3?lang=en" type="track" title="The Way It Is" summary="" index="9" ratingCount="0">
+<Mood tag="Alienated" />
+<Mood tag="Brooding" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047353-59646DDA43F09B044DDC821E3AB65BBD?lang=en" type="track" title="The End Has No End" summary="" index="10" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/48047343-3A7AC8A8C132431075EDA0F06915B98C/48047354-4BAE4D44F1E6E4CC10DA4B311863B409?lang=en" type="track" title="I Can&#39;t Win" summary="" index="11" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+</Directory>
+</MediaContainer>

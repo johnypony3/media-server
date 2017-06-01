@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5598487,
+    "airedSeason": 3,
+    "airedSeasonID": 648622,
+    "airedEpisodeNumber": 8,
+    "episodeName": "Bachman's Earning's Over-Ride",
+    "firstAired": "2016-06-12",
+    "guestStars": [],
+    "director": "Jamie Babbit",
+    "directors": [
+      "Jamie Babbit"
+    ],
+    "writers": [
+      "Carrie Kemper"
+    ],
+    "overview": "Erlich tries to be honest with Richard, who has mixed emotions about their friendship and the future of Pied Piper. Jared's new company apparel turns heads but fuels yet another clash between Dinesh and Gilfoyle.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1495620191,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": 26,
+    "filename": "episodes/277165/5598487.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 451920,
+    "thumbAdded": "2016-06-05 20:39:26",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5218496",
+    "siteRating": 7.8,
+    "siteRatingCount": 11
+  }
+}

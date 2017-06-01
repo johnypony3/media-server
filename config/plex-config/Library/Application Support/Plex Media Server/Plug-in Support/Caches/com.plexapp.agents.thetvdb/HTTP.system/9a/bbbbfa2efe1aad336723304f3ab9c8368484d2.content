@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": 358455,
+    "airedSeason": 1,
+    "airedSeasonID": 28047,
+    "airedEpisodeNumber": 11,
+    "episodeName": "The Pancake Batter Anomaly",
+    "firstAired": "2008-03-31",
+    "guestStars": [
+      "Carol Ann Susi",
+      "Erin Allin O'Reilly"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Chuck Lorre",
+      "Lee Aronsohn"
+    ],
+    "overview": "With his friends knowing how sour he acts when sick—and avoiding him as a result—Sheldon is nursed by Penny, who hasn't a clue what she's in for.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "3T6610",
+    "showUrl": "",
+    "lastUpdated": 1474195602,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 11,
+    "dvdChapter": null,
+    "absoluteNumber": 11,
+    "filename": "episodes/80379/358455.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 396427,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 390660,
+    "thumbAdded": "2013-09-20 17:28:58",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt1127385",
+    "siteRating": 7.5,
+    "siteRatingCount": 345
+  }
+}

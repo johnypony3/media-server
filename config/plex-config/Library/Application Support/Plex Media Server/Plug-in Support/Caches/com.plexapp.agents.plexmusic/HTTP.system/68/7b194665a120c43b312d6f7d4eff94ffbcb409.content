@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/052C50810EC1C9A9?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/AFF0/66B1/227C/DBAE_xlarge_front.jpg?cid=4563968" parentTitle="Kendrick Lamar" parentTitleSort="" sortTitle="" thumb="" totalInSet="1" type="album" title="O(verly) D(edicated)" summary="" index="1" ratingCount="0" year="2010" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rap/Hip-Hop" />
+<Genre tag="West Coast" />
+<Genre tag="West Coast" />
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581098-00031225A1D8C177615E1AFEC80BA35D?lang=en" type="track" title="The Heart Pt.2 ft Dash Snow" summary="" index="1" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581099-57B58306B9CEB2FEAC977A2D6F6AA40C?lang=en" type="track" title="Growing Apart {To Get Closer} ft Jhene Aiko" summary="" index="2" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581100-91FDA53621E69351F52A0CF0EC6C5B09?lang=en" type="track" title="Night Of The Living Junkies" summary="" index="3" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581101-E2592DC23C3003069F57F708F579F817?lang=en" type="track" title="P&amp;P 1.5 ft Ab-Soul" summary="" index="4" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581102-BF003300EA863B4E6F33A561FAE2FB19?lang=en" type="track" title="Alien Girl {Today W/ Her}" summary="" index="5" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581103-6AD5316B8974C38FCAC1B4D11FC1A11E?lang=en" type="track" title="Opposites Attract {Tomorrow W/O Her} ft Javonte" summary="" index="6" ratingCount="0">
+<Mood tag="Sensual Groove" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581104-231B33EEB1B3053D34C5D326B8375DD8?lang=en" type="track" title="Michael Jordan ft Schoolboy Q" summary="" index="7" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581105-FA939FAF15BB5448201A944209E22CC2?lang=en" type="track" title="Ignorance Is Bliss" summary="" index="8" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581106-8DF8B0BC30E3EFB663C44BC9A9C86436?lang=en" type="track" title="R.O.T.C {Interlude} ft Bj The Chicago Kid" summary="" index="9" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581107-6D144DBE5B5BA32C37C5B3EB053ED9ED?lang=en" type="track" title="Barbed Wire ft Ash Riser" summary="" index="10" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581108-FABE85465FC8E9F9532C2E8EE5CF0969?lang=en" type="track" title="Average Joe" summary="" index="11" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581109-788A52256DA41DB01C1F4A4B1A64DFD4?lang=en" type="track" title="H.O.C" summary="" index="12" ratingCount="0">
+<Mood tag="Intimate" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581110-77D474A26F87ADD7A019D4088B8F7658?lang=en" type="track" title="Cut You Off {To Grow Closer}" summary="" index="13" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581111-03D3D5054F8C5AF2DC6AE147CADB3855?lang=en" type="track" title="Heaven &amp; Hell ft Alori Joh" summary="" index="14" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581112-D0B33B71B96D015E7DEC121F9B675273?lang=en" type="track" title="She Needs Me {RMX} ft Dom Kennedy &amp; Murs *BONUS" summary="" index="15" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247581097-2C50816954670C6972ED268261D1172A/247581113-2F66B323B894AED5B7EB6E3E52845F8C?lang=en" type="track" title="I Do This {RMX} ft U.N.I Skeme, Brown (of Sore Losers) *BONUS" summary="" index="16" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+</Directory>
+</MediaContainer>

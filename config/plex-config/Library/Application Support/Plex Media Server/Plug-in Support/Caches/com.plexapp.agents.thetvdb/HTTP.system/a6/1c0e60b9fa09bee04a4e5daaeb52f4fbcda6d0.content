@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5598486,
+    "airedSeason": 3,
+    "airedSeasonID": 648622,
+    "airedEpisodeNumber": 7,
+    "episodeName": "To Build a Better Beta",
+    "firstAired": "2016-06-05",
+    "guestStars": [],
+    "director": "Jamie Babbit",
+    "directors": [
+      "Jamie Babbit"
+    ],
+    "writers": [
+      "John Levenstein"
+    ],
+    "overview": "A beta version of Pied Piper gets an unexpected reception as Dinesh's lack of friends worries him, but Gilfoyle thinks he's stretching the truth. Amanda isn't sure she can dole out criticism. A strapped Erlich mulls a big decision. The Nucleus team tackles a difficult challenge from Gavin.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1495620183,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 7,
+    "dvdChapter": null,
+    "absoluteNumber": 25,
+    "filename": "episodes/277165/5598486.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 451920,
+    "thumbAdded": "2016-05-30 17:05:24",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5218490",
+    "siteRating": 8.5,
+    "siteRatingCount": 10
+  }
+}

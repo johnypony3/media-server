@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movie title="Something Borrowed" country="US" originally_available_at="2011-05-06" tagline="">
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="148" iva_id="174293" lang_code="0" originally_available_at="2011-04-19T07:10:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7233/174293_018.jpg" title="Something Borrowed: Sizzle Reel" type="behind_the_scenes"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="103" iva_id="175804" lang_code="0" originally_available_at="2011-04-19T07:07:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7233/175804_073.jpg" title="Something Borrowed: What Is Something Borrowed Featurette" type="behind_the_scenes"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="12" dts="false" duration="86" iva_id="593873" lang_code="0" originally_available_at="2011-06-22T15:46:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7335/_500.jpg" title="Something Borrowed (Uk)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="36" iva_id="614313" lang_code="0" originally_available_at="2011-04-18T08:12:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/614313_001.jpg" title="Something Borrowed: Sharing Secrets" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="40" iva_id="71432" lang_code="0" originally_available_at="2011-04-18T08:02:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/71432_012.jpg" title="Something Borrowed: I'm Out Of Here" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="65" iva_id="488974" lang_code="0" originally_available_at="2011-04-18T08:07:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/488974_029.jpg" title="Something Borrowed: Push It Dance" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="31" dts="false" duration="87" iva_id="985787" lang_code="0" originally_available_at="2016-01-20T10:55:00" primary="false" subtitle_lang_code="32" thumb="http://content.internetvideoarchive.com/content/photos/9966/985787_026.jpg" title="Something Borrowed (Dutch Trailer Subtitled)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="93" iva_id="745244" lang_code="2" originally_available_at="2011-05-17T14:17:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7273/745244_019.jpg" title="Something Borrowed (Spanish)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="45" iva_id="716061" lang_code="0" originally_available_at="2011-04-18T08:00:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/716061_008.jpg" title="Something Borrowed: You've Got To Stop Staring" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="56" iva_id="422572" lang_code="0" originally_available_at="2011-04-18T08:04:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/422572_009.jpg" title="Something Borrowed: Vows" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="38" iva_id="300449" lang_code="0" originally_available_at="2011-04-18T08:10:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/300449_002.jpg" title="Something Borrowed: Ok, I Get It" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="28" dts="false" duration="87" iva_id="561804" lang_code="0" originally_available_at="2016-01-20T10:59:00" primary="false" subtitle_lang_code="3" thumb="http://content.internetvideoarchive.com/content/photos/9967/561804_061.jpg" title="Something Borrowed (French/Belgium Trailer Subtitled)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="62" iva_id="415459" lang_code="0" originally_available_at="2011-04-18T08:09:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/415459_038.jpg" title="Something Borrowed: Nobody Knows Me Like You" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="146" iva_id="425727" lang_code="0" originally_available_at="2010-09-03T15:37:00" primary="true" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/6961/425727_009.jpg" title="Something Borrowed" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="87" iva_id="699648" lang_code="0" originally_available_at="2016-01-20T11:00:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/9967/699648_021.jpg" title="Something Borrowed (International Trailer)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="52" iva_id="801938" lang_code="0" originally_available_at="2011-04-18T08:05:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/801938_024.jpg" title="Something Borrowed: Can I Come Up?" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="63" iva_id="692342" lang_code="0" originally_available_at="2011-04-18T07:56:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7232/692342_029.jpg" title="Something Borrowed: He's Ok Looking" type="scene_or_sample"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,2500,5000,8000" country_code="-1" dts="false" duration="152" iva_id="722951" lang_code="0" originally_available_at="2011-03-07T12:03:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/7190/722951_055.jpg" title="Something Borrowed (Trailer 1)" type="trailer"/>
+  <originally_available_at country="US" originally_available_at="2011-05-06"/>
+  <content_rating content_rating="uk/12A" country="UK"/>
+  <content_rating content_rating="ca/PG" country="CA"/>
+  <content_rating content_rating="PG-13" country="US"/>
+  <content_rating content_rating="au/M" country="AU"/>
+  <content_rating content_rating="de/12" country="DE"/>
+  <content_rating content_rating="nl/12" country="NL"/>
+  <content_rating content_rating="ca/G" country="CA"/>
+  <content_rating content_rating="se/7" country="SE"/>
+  <runtime country="US" runtime="112"/>
+  <summary lang="en" summary="Friendships are tested and secrets come to the surface when terminally single Rachel falls for Dex, her best friend Darcy's fiancé."/>
+  <title lang="en" title="Something Borrowed"/>
+  <director name="Luke Greenfield"/>
+  <actor name="Ginnifer Goodwin" role="Rachel"/>
+  <actor name="Kate Hudson" role="Darcy"/>
+  <actor name="Colin Egglesfield" role="Dex"/>
+  <actor name="John Krasinski" role="Ethan"/>
+  <actor name="Steve Howey" role="Marcus"/>
+  <actor name="Ashley Williams" role="Claire"/>
+  <actor name="Geoff Pierson" role="Dexter Thaler Sr."/>
+  <actor name="Jill Eikenberry" role="Bridget Thaler"/>
+  <actor name="Jonathan Epstein" role="Professor Zigman"/>
+  <actor name="Leia Thompson" role="Bridal Consultant"/>
+  <genre genre="Drama" lang="en"/>
+  <genre genre="Comedy" lang="en"/>
+  <genre genre="Romance" lang="en"/>
+  <imdb_ratings audience_score="59" num_votes="50,235" source="imdb"/>
+  <poster url="https://images-na.ssl-images-amazon.com/images/M/MV5BNzczNzMzODk0Nl5BMl5BanBnXkFtZTcwMjgwMjI0NA@@._V1_.jpg"/>
+</movie>

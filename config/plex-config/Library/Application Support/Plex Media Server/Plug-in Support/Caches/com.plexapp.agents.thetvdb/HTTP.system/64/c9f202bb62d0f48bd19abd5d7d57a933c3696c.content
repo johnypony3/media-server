@@ -1,0 +1,51 @@
+{
+  "data": {
+    "id": 5106961,
+    "airedSeason": 10,
+    "airedSeasonID": 604055,
+    "airedEpisodeNumber": 10,
+    "episodeName": "Ass Kickers United: Mac and Charlie Join a Cult",
+    "firstAired": "2015-03-18",
+    "guestStars": [
+      "Dax Shepard",
+      "Sandy Martin",
+      "Lynne Marie Stewart",
+      "T.J. Hoban",
+      "Brittney Alger",
+      "Cazzey Louis Cereghino"
+    ],
+    "director": "Heath Cullens",
+    "directors": [
+      "Heath Cullens"
+    ],
+    "writers": [
+      "Scott Marder"
+    ],
+    "overview": "\"Asskickers\" isn't just a hot new way to work out; it's a way of life...and maybe a cult.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494105079,
+    "dvdDiscid": "",
+    "dvdSeason": 10,
+    "dvdEpisodeNumber": 10,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75805/5106961.jpg",
+    "seriesId": 75805,
+    "lastUpdatedBy": 477714,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2015-03-19 04:36:26",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3831568",
+    "siteRating": 8.1,
+    "siteRatingCount": 11
+  }
+}

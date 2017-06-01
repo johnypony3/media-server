@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05D14863148B9D5F?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/762A/4F9E/9D19/5ED0_xlarge_front.jpg?cid=4563968" parentTitle="The National" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/060D/CF57/06C1/DAB7_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="4AD" type="album" title="Trouble Will Find Me" summary="" index="1" ratingCount="0" year="2013" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Rock" />
+<Genre tag="General Indie Rock" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694112-0F4CDE7EF06B52A76D5F33DCC0966463?lang=en" type="track" title="I Should Live In Salt" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="150" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694113-1E0968C72E45DFD4A4A905AEF6D5915B?lang=en" type="track" title="Demons" summary="" index="2" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918504-A542EA1E27670631262C3DF80B3FDF02?lang=en" type="track" title="Don&#39;t Swallow The Cap" summary="" index="3" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918505-7BB37A008E0DB7B2CC055CF73AC136D0?lang=en" type="track" title="Fireproof" summary="" index="4" ratingCount="0">
+<Mood tag="Tender" />
+<Mood tag="Sincere" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918506-4E0AB07E028FD657F4B3C1822F5D3DFC?lang=en" type="track" title="Sea Of Love" summary="" index="5" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694117-26F7BA1EF79E428500EF65F5B426C877?lang=en" type="track" title="Heavenfaced" summary="" index="6" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694118-38A8B12E70B82161C522CBFB8DA98B43?lang=en" type="track" title="This Is The Last Time" summary="" index="7" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694119-869787B67D57F575FDBD07916D778E79?lang=en" type="track" title="Graceless" summary="" index="8" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694120-C66F72A39A0BE784ADCDE67B30387743?lang=en" type="track" title="Slipped" summary="" index="9" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918511-CD25FCB25F8FA24BCFC4FF85D5CF5F1B?lang=en" type="track" title="I Need My Girl" summary="" index="10" ratingCount="0">
+<Mood tag="Wistful" />
+<Mood tag="Forlorn" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918512-5DD1EDF4DD6EBF4C1323C351503B2B75?lang=en" type="track" title="Humiliation" summary="" index="11" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/345918513-6B4BC468F9BD918AA9B59E62A11C459B?lang=en" type="track" title="Pink Rabbits" summary="" index="12" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/344694111-D1486301CD7ECCE92C282662CB64BAC1/344694124-3040D1C6EFAE3B883F07DEEC5541E872?lang=en" type="track" title="Hard To Find" summary="" index="13" ratingCount="0">
+<Mood tag="Tender" />
+<Mood tag="Sincere" />
+</Track>
+</Directory>
+</MediaContainer>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0503BB510EBDA299?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/AFF0/66B1/227C/DBAE_xlarge_front.jpg?cid=4563968" parentTitle="Kendrick Lamar" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/6BBF/7E3D/CB91/34A3_xlarge_front.jpg?cid=4563968" totalInSet="1" type="album" title="Section 80" summary="" index="1" ratingCount="0" year="2011" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rap/Hip-Hop" />
+<Genre tag="West Coast" />
+<Genre tag="West Coast" />
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308954-897D4C3F4561402B1294788311D13F31?lang=en" type="track" title="Fuck Your Ethnicity" summary="" index="1" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308955-32AD88CB441B8D718904066603FB4579?lang=en" type="track" title="Hol&#39; Up" summary="" index="2" ratingCount="0">
+<Mood tag="Passionate Rhythm" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308956-8E956201BA4E0148A1F900EA18A4B082?lang=en" type="track" title="A.D.H.D" summary="" index="3" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308957-4007165CAA1C28A6C1EB4BB7BCDDFF5E?lang=en" type="track" title="No Makeup (Her Voice) (Featuring Colin Munroe)" summary="" index="4" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308958-3F2990F1808D0D92B1B7B2589C7384F4?lang=en" type="track" title="Tammy&#39;s Song (Her Evils)" summary="" index="5" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308959-62AC56C4BAC19712E60DE9730001E62E?lang=en" type="track" title="Chapter Six" summary="" index="6" ratingCount="0">
+<Mood tag="Intimate" />
+</Track>
+<Track artist="" bpm="160" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308960-060A0A038CB51EEDDEB53A5508C27EFD?lang=en" type="track" title="Ronald Reagan Era (His Evil)" summary="" index="7" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308961-B8A44DA74A34D44EA8146FE43AAFAB05?lang=en" type="track" title="Poe Man&#39;s Dream (His Vice) (Featuring GLC)" summary="" index="8" ratingCount="0">
+<Mood tag="Dark Sparkling Lyrical" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308962-694ADAB9AFFB6D48A4B170054397A827?lang=en" type="track" title="The Spiteful Chant (Featuring Schoolboy Q)" summary="" index="9" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308963-CF34C0607835CFE5AAE23C15EBC7C2A5?lang=en" type="track" title="Chapter Ten" summary="" index="10" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308964-3C8B1098071DA85875CE641659500BD1?lang=en" type="track" title="Keishas Song (Featuring Astro Bot)" summary="" index="11" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="170" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308965-59D487A1739C087CA3F1FCC270C8FA8C?lang=en" type="track" title="Rigamortis" summary="" index="12" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308966-7527ABE5E77D42211FA9B334B4376704?lang=en" type="track" title="Kush &amp; Corinthians (His Pain) (Featuring BJ The Chicago Kid)" summary="" index="13" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308967-6966165C1C31BA0CDC26CE5D3FFFA851?lang=en" type="track" title="Members Only" summary="" index="14" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308968-A64A0B24FD650C8670E360AE102339C8?lang=en" type="track" title="Ab-Soul&#39;s Outro" summary="" index="15" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/247308953-03BB51498F5386A269732848156D0410/247308969-AED73CE9F488E5B91A30B332E70396FC?lang=en" type="track" title="HiiiPoWeR" summary="" index="16" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+</Directory>
+</MediaContainer>

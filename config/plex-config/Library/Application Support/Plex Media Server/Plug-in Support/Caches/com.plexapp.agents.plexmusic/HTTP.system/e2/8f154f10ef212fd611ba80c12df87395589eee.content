@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/059146ED194D76FF?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/CFA0/4465/3D73/0284_xlarge_front.jpg?cid=4563968" parentTitle="Jack White" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/197E/D50A/72D4/984A_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Third Man/Columbia" type="album" title="Lazaretto" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Rock" />
+<Genre tag="General Indie Rock" />
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507136-270E42CFD62FEA25728034DC05559D82?lang=en" type="track" title="Three Women" summary="" index="1" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507137-2393E2DA92D8B6AEB2B852A290A98E77?lang=en" type="track" title="Lazaretto" summary="" index="2" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507138-D80D8F0432AB48BCC1D555802AF39E53?lang=en" type="track" title="Temporary Ground" summary="" index="3" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507139-B8C1F6A50B23BFE672060A71DC2A7634?lang=en" type="track" title="Would You Fight For My Love?" summary="" index="4" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507140-9AF95C16124D574FC65A83694907452D?lang=en" type="track" title="High Ball Stepper" summary="" index="5" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507141-A4E482040BECA30B15F1A9566F8F85B0?lang=en" type="track" title="Just One Drink" summary="" index="6" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507142-9DD4910CB0DCA14F5CDEA7191292F354?lang=en" type="track" title="Alone In My Home" summary="" index="7" ratingCount="0">
+<Mood tag="Friendly" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507143-2A2CEB0202798BE72D83681817756EA2?lang=en" type="track" title="Entitlement" summary="" index="8" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="150" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507144-B8DA556507AC63535A3F95325B6B5976?lang=en" type="track" title="That Black Bat Licorice" summary="" index="9" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507145-29EEFD2256717922EB7957F35BA65AF0?lang=en" type="track" title="I Think I Found The Culprit" summary="" index="10" ratingCount="0">
+<Mood tag="Evocative" />
+<Mood tag="Intriguing" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/424507135-9146ED55826489212A47100CEE414298/424507146-29006A627C4597CEA11860AE634D772B?lang=en" type="track" title="Want And Able" summary="" index="11" ratingCount="0">
+<Mood tag="Sweet" />
+<Mood tag="Sincere" />
+</Track>
+</Directory>
+</MediaContainer>

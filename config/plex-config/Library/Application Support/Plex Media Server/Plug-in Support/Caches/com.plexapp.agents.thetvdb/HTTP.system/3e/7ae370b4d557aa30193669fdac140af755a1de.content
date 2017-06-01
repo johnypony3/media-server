@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 5042293,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 3,
+    "episodeName": "Open House",
+    "firstAired": "2015-02-11",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Thomas Schlamme",
+    "directors": [
+      "Thomas Schlamme"
+    ],
+    "writers": [
+      "Stuart Zicherman"
+    ],
+    "overview": "Danger mounts for Elizabeth and Philip as they get closer to the inner circle of the C.I.A. Afghan Group. Stan monitors Zinaida. Agent Aderholt challenges Agent Gaad on a crucial operation. Arkady tasks Oleg and Tatiana with gathering high-level intel. Martha proposes a lifestyle change to Clark.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047510,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": 29,
+    "filename": "episodes/261690/5042293.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 422261,
+    "thumbAdded": "2015-02-02 15:31:07",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4303066",
+    "siteRating": 7.5,
+    "siteRatingCount": 19
+  }
+}

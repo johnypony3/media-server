@@ -1,0 +1,393 @@
+{
+  "data": [
+    {
+      "id": 25978,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-8.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 6.5,
+        "count": 12
+      },
+      "thumbnail": "_cache/fanart/original/74608-8.jpg"
+    },
+    {
+      "id": 20397,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-1.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 6.1,
+        "count": 12
+      },
+      "thumbnail": "_cache/fanart/original/74608-1.jpg"
+    },
+    {
+      "id": 20399,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-3.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 4.8,
+        "count": 5
+      },
+      "thumbnail": "_cache/fanart/original/74608-3.jpg"
+    },
+    {
+      "id": 20400,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-4.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 4.3,
+        "count": 4
+      },
+      "thumbnail": "_cache/fanart/original/74608-4.jpg"
+    },
+    {
+      "id": 21815,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-5.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 5.4,
+        "count": 9
+      },
+      "thumbnail": "_cache/fanart/original/74608-5.jpg"
+    },
+    {
+      "id": 22862,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-6.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 5.7,
+        "count": 13
+      },
+      "thumbnail": "_cache/fanart/original/74608-6.jpg"
+    },
+    {
+      "id": 26444,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-9.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 5,
+        "count": 6
+      },
+      "thumbnail": "_cache/fanart/original/74608-9.jpg"
+    },
+    {
+      "id": 26445,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-10.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 5,
+        "count": 3
+      },
+      "thumbnail": "_cache/fanart/original/74608-10.jpg"
+    },
+    {
+      "id": 34606,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-11.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 4.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/fanart/original/74608-11.jpg"
+    },
+    {
+      "id": 35548,
+      "keyType": "fanart",
+      "subKey": "",
+      "fileName": "fanart/original/74608-7.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 6.4,
+        "count": 19
+      },
+      "thumbnail": "_cache/fanart/original/74608-7.jpg"
+    },
+    {
+      "id": 135891,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-13.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 6.5,
+        "count": 39
+      },
+      "thumbnail": "_cache/fanart/original/74608-13.jpg"
+    },
+    {
+      "id": 235971,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-2.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 5,
+        "count": 4
+      },
+      "thumbnail": "_cache/fanart/original/74608-2.jpg"
+    },
+    {
+      "id": 235981,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-12.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 6.6,
+        "count": 16
+      },
+      "thumbnail": "_cache/fanart/original/74608-12.jpg"
+    },
+    {
+      "id": 282131,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-14.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 4.5,
+        "count": 4
+      },
+      "thumbnail": "_cache/fanart/original/74608-14.jpg"
+    },
+    {
+      "id": 349801,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-15.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 4.6,
+        "count": 5
+      },
+      "thumbnail": "_cache/fanart/original/74608-15.jpg"
+    },
+    {
+      "id": 395871,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-16.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 5.3,
+        "count": 7
+      },
+      "thumbnail": "_cache/fanart/original/74608-16.jpg"
+    },
+    {
+      "id": 501021,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-20.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 6.2,
+        "count": 18
+      },
+      "thumbnail": "_cache/fanart/original/74608-20.jpg"
+    },
+    {
+      "id": 500991,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-17.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 3.7,
+        "count": 3
+      },
+      "thumbnail": "_cache/fanart/original/74608-17.jpg"
+    },
+    {
+      "id": 501001,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-18.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 3.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/fanart/original/74608-18.jpg"
+    },
+    {
+      "id": 501011,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-19.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 1,
+        "count": 2
+      },
+      "thumbnail": "_cache/fanart/original/74608-19.jpg"
+    },
+    {
+      "id": 899301,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-21.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 5.8,
+        "count": 8
+      },
+      "thumbnail": "_cache/fanart/original/74608-21.jpg"
+    },
+    {
+      "id": 948271,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-22.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 6.6,
+        "count": 9
+      },
+      "thumbnail": "_cache/fanart/original/74608-22.jpg"
+    },
+    {
+      "id": 949431,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-23.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 5.6,
+        "count": 8
+      },
+      "thumbnail": "_cache/fanart/original/74608-23.jpg"
+    },
+    {
+      "id": 949432,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-24.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/fanart/original/74608-24.jpg"
+    },
+    {
+      "id": 949434,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-25.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 5.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/fanart/original/74608-25.jpg"
+    },
+    {
+      "id": 997869,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-26.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 4,
+        "count": 2
+      },
+      "thumbnail": "_cache/fanart/original/74608-26.jpg"
+    },
+    {
+      "id": 1036718,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-27.jpg",
+      "resolution": "1280x720",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/fanart/original/74608-27.jpg"
+    },
+    {
+      "id": 1121439,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-28.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 6.8,
+        "count": 21
+      },
+      "thumbnail": "_cache/fanart/original/74608-28.jpg"
+    },
+    {
+      "id": 1141493,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-29.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 8.3,
+        "count": 8
+      },
+      "thumbnail": "_cache/fanart/original/74608-29.jpg"
+    },
+    {
+      "id": 1141494,
+      "keyType": "fanart",
+      "subKey": "text",
+      "fileName": "fanart/original/74608-30.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 0,
+        "count": 0
+      },
+      "thumbnail": "_cache/fanart/original/74608-30.jpg"
+    },
+    {
+      "id": 1169755,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-32.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 1,
+        "count": 1
+      },
+      "thumbnail": "_cache/fanart/original/74608-32.jpg"
+    },
+    {
+      "id": 1190802,
+      "keyType": "fanart",
+      "subKey": "graphical",
+      "fileName": "fanart/original/74608-33.jpg",
+      "resolution": "1920x1080",
+      "ratingsInfo": {
+        "average": 7.8,
+        "count": 4
+      },
+      "thumbnail": "_cache/fanart/original/74608-33.jpg"
+    }
+  ],
+  "errors": {
+    "invalidQueryParams": [
+      "lang"
+    ]
+  }
+}

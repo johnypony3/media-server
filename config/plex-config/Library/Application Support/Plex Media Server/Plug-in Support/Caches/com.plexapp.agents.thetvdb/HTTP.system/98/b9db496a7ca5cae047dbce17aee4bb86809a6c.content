@@ -1,0 +1,54 @@
+{
+  "data": {
+    "id": 4712477,
+    "airedSeason": 2,
+    "airedSeasonID": 567361,
+    "airedEpisodeNumber": 3,
+    "episodeName": "The Walk In",
+    "firstAired": "2014-03-12",
+    "guestStars": [
+      "Richard Thomas",
+      "Lev Gorn",
+      "Costa Ronin",
+      "Kathleen Chalfant",
+      "Natalie Gold",
+      "Erik Jensen",
+      "Owen Campbell",
+      "Dave T. Koenig",
+      "Lizzy DeClement"
+    ],
+    "director": "Constantine Makris",
+    "directors": [
+      "Constantine Makris"
+    ],
+    "writers": [
+      "Stu Zicherman"
+    ],
+    "overview": "Philip and Elizabeth complete their next mission - but not without complications - and Philip's fears about Elizabeth's readiness for action deepen. Stan tracks the KGB walk-in which leads to much praise at work and a deepening of his attachment to, and dependence on, Nina. Meanwhile, Paige snoops into her mother's family background and Oleg begins to scrutinize Nina's secret operation.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU203",
+    "showUrl": "",
+    "lastUpdated": 1465047832,
+    "dvdDiscid": "",
+    "dvdSeason": 2,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": 16,
+    "filename": "episodes/261690/4712477.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2014-03-07 20:06:48",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3459862",
+    "siteRating": 7.9,
+    "siteRatingCount": 31
+  }
+}

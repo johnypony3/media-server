@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 4794508,
+    "airedSeason": 1,
+    "airedSeasonID": 572784,
+    "airedEpisodeNumber": 6,
+    "episodeName": "Third Party Insourcing",
+    "firstAired": "2014-05-11",
+    "guestStars": [],
+    "director": "Alec Berg",
+    "directors": [
+      "Alec Berg"
+    ],
+    "writers": [
+      "Dan O’Keefe"
+    ],
+    "overview": "Richard feels threatened when the team hires The Carver a hacker with a notorious reputation, to help with Pied Piper’s cloud. Jared finds himself taken for a ride when he seeks out Peter Gregory’s signature. Erlich and Dinesh compete for the attention of Tara, Gilfoyles visiting girlfriend. Later, Dinesh faces a sexual dilemma.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1454740675,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": 6,
+    "filename": "episodes/277165/4794508.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 420157,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 370954,
+    "thumbAdded": "2014-05-06 01:07:31",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3557356",
+    "siteRating": 7.9,
+    "siteRatingCount": 33
+  }
+}

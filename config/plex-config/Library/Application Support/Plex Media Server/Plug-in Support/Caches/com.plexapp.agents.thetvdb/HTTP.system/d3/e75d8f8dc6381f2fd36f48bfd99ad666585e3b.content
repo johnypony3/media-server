@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5493957,
+    "airedSeason": 3,
+    "airedSeasonID": 648622,
+    "airedEpisodeNumber": 5,
+    "episodeName": "The Empty Chair",
+    "firstAired": "2016-05-22",
+    "guestStars": [],
+    "director": "Eric Appel",
+    "directors": [
+      "Eric Appel"
+    ],
+    "writers": [
+      "Megan Amram"
+    ],
+    "overview": "Richard lets his ego get in the way at an interview. Dinesh, Gilfoyle and Jared misplace hardware. Erlich pitches his plans to Big Head.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1495620167,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": 23,
+    "filename": "episodes/277165/5493957.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 345634,
+    "thumbAdded": "2016-05-23 01:39:37",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5218422",
+    "siteRating": 8.2,
+    "siteRatingCount": 11
+  }
+}

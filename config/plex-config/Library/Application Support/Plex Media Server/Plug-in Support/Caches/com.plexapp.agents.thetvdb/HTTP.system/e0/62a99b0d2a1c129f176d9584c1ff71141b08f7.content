@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 6051450,
+    "airedSeason": 1,
+    "airedSeasonID": 692363,
+    "airedEpisodeNumber": 6,
+    "episodeName": "A Woman's Place",
+    "firstAired": "2017-05-17",
+    "guestStars": [],
+    "director": "Floria Sigismondi",
+    "directors": [
+      "Floria Sigismondi"
+    ],
+    "writers": [],
+    "overview": "A Mexican Ambassador visiting Gilead questions Offred about her life as a Handmaid. Serena Joy reflects on her marriage and the role she once played in Gilead’s inception.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1495980127,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 6,
+    "filename": "episodes/321239/6051450.jpg",
+    "seriesId": 321239,
+    "lastUpdatedBy": 370917,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-05-13 04:48:44",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5943926",
+    "siteRating": 9,
+    "siteRatingCount": 3
+  }
+}

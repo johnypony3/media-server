@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0564C2E31199AF2E?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/AFF0/66B1/227C/DBAE_xlarge_front.jpg?cid=4563968" parentTitle="Kendrick Lamar" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/F2FE/D7C0/C217/F6FF_xlarge_front.jpg?cid=4563968" totalInSet="2" studio="Top Dawg / Aftermath / Interscope" type="album" title="good kid, m.A.A.d city [Disc 2]" summary="" index="2" ratingCount="0" year="2012" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rap/Hip-Hop" />
+<Genre tag="West Coast" />
+<Genre tag="West Coast" />
+<Track artist="Kendrick Lamar Feat. Dr. Dre" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/295284526-64C2E39C99D498DB9282F59466CE14F5/295284527-577AA0A492D6CD227549F61D4472253C?lang=en" type="track" title="The Recipe" summary="" index="1" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/295284526-64C2E39C99D498DB9282F59466CE14F5/295284528-2EBA4DB215FF99D0FD2D62155EF7CF55?lang=en" type="track" title="Black Boy Fly" summary="" index="2" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="Kendrick Lamar Feat. Mary J. Blige" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/295284526-64C2E39C99D498DB9282F59466CE14F5/295284529-F4C8A394993ECA9FC358EA6967A8171A?lang=en" type="track" title="Now Or Never" summary="" index="3" ratingCount="0">
+<Mood tag="Arousing Groove" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/295284526-64C2E39C99D498DB9282F59466CE14F5/295284530-70F3B31A1A5EA12A4B7D4594A917F66B?lang=en" type="track" title="County Building Blues" summary="" index="4" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="Kendrick Lamar Feat. Jay Rock, Ab-Soul &amp; ScHoolboy Q" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/295284526-64C2E39C99D498DB9282F59466CE14F5/304542011-844D8D21A26B05C7820961DB47821A2D?lang=en" type="track" title="Swimming Pools (Black Hippy Remix)" summary="" index="5" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+</Directory>
+</MediaContainer>

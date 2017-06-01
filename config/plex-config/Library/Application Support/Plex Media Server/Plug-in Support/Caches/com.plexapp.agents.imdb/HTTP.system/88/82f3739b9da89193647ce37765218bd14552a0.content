@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movie title="The Hitchhiker's Guide to the Galaxy" country="US" originally_available_at="2005-04-29" tagline="">
+  <originally_available_at country="US" originally_available_at="2005-04-29"/>
+  <content_rating content_rating="br/10" country="BR"/>
+  <content_rating content_rating="fi/K-11" country="FI"/>
+  <content_rating content_rating="ca/PG" country="CA"/>
+  <content_rating content_rating="ch/7" country="CH"/>
+  <content_rating content_rating="nz/PG" country="NZ"/>
+  <content_rating content_rating="nl/MG6" country="NL"/>
+  <content_rating content_rating="uk/PG" country="UK"/>
+  <content_rating content_rating="no/7" country="NO"/>
+  <content_rating content_rating="au/PG" country="AU"/>
+  <content_rating content_rating="es/7" country="ES"/>
+  <content_rating content_rating="de/6" country="DE"/>
+  <content_rating content_rating="PG" country="US"/>
+  <content_rating content_rating="se/11" country="SE"/>
+  <content_rating content_rating="ca/G" country="CA"/>
+  <runtime country="US" runtime="109"/>
+  <summary lang="en" summary="Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of &quot;The Hitchhiker's Guide to the Galaxy.&quot;"/>
+  <title lang="en" title="The Hitchhiker's Guide to the Galaxy"/>
+  <director name="Garth Jennings"/>
+  <actor name="Martin Freeman" role="Arthur Dent"/>
+  <actor name="Yasiin Bey" role="Ford Prefect"/>
+  <actor name="Sam Rockwell" role="Zaphod Beeblebrox"/>
+  <actor name="Zooey Deschanel" role="Trillian"/>
+  <actor name="Bill Bailey" role="The Whale"/>
+  <actor name="Anna Chancellor" role="Questular Rontok"/>
+  <actor name="Warwick Davis" role="Marvin"/>
+  <actor name="Su Elliot" role="Pub Customer"/>
+  <actor name="Stephen Fry" role="Narrator/The Guide"/>
+  <actor name="Richard Griffiths" role="Jeltz"/>
+  <genre genre="Sci-Fi" lang="en"/>
+  <genre genre="Comedy" lang="en"/>
+  <genre genre="Adventure" lang="en"/>
+  <imdb_ratings audience_score="68" num_votes="162,626" source="imdb"/>
+  <poster url="https://images-na.ssl-images-amazon.com/images/M/MV5BZmU5MGU4MjctNjA2OC00N2FhLWFhNWQtMzQyMGI2ZmQ0Y2YyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"/>
+</movie>

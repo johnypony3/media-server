@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5908389,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 6,
+    "episodeName": "Crossbreed",
+    "firstAired": "2017-04-11",
+    "guestStars": [],
+    "director": "Roxann Dawson",
+    "directors": [
+      "Roxann Dawson"
+    ],
+    "writers": [
+      "Stephen Schiff"
+    ],
+    "overview": "Gabriel stuns Philip and Elizabeth with a sudden announcement and a crushing revelation about Philip’s past. Stan and Aderholt draw a fly into their web, while Oleg and Ruslan ambush their first suspect.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU506",
+    "showUrl": "",
+    "lastUpdated": 1492033348,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5908389.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 420157,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-04-07 07:23:16",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6261586",
+    "siteRating": 8.3,
+    "siteRatingCount": 6
+  }
+}

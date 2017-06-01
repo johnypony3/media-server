@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5615733,
+    "airedSeason": 6,
+    "airedSeasonID": 651357,
+    "airedEpisodeNumber": 6,
+    "episodeName": "Blood of My Blood",
+    "firstAired": "2016-05-29",
+    "guestStars": [],
+    "director": "Jack Bender",
+    "directors": [
+      "Jack Bender"
+    ],
+    "writers": [
+      "Bryan Cogman"
+    ],
+    "overview": "An old foe comes back into the picture. Gilly meets Sam’s family. Arya faces a difficult choice. Jaime faces off against the High Sparrow.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491003593,
+    "dvdDiscid": "",
+    "dvdSeason": 6,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": 56,
+    "filename": "episodes/121361/5615733.jpg",
+    "seriesId": 121361,
+    "lastUpdatedBy": 410201,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 235,
+    "thumbAdded": "2016-06-06 11:06:46",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4283054",
+    "siteRating": 7.9,
+    "siteRatingCount": 69
+  }
+}

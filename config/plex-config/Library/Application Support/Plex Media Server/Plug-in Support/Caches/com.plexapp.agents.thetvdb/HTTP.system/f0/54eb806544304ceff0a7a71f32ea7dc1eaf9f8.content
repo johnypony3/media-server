@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 6051448,
+    "airedSeason": 1,
+    "airedSeasonID": 692363,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Nolite Te Bastardes Carborundorum",
+    "firstAired": "2017-05-03",
+    "guestStars": [],
+    "director": "Mike Barker",
+    "directors": [
+      "Mike Barker"
+    ],
+    "writers": [
+      "Leila Gerstein"
+    ],
+    "overview": "Punished by Serena Joy, Offred begins to unravel and reflects on her time with Moira at the Red Center. A complication during the Ceremony threatens Offred’s survival with the Commander and Serena Joy.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494661010,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 4,
+    "filename": "episodes/321239/6051448.jpg",
+    "seriesId": 321239,
+    "lastUpdatedBy": 370917,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-05-03 04:31:38",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5937294",
+    "siteRating": 8.7,
+    "siteRatingCount": 3
+  }
+}

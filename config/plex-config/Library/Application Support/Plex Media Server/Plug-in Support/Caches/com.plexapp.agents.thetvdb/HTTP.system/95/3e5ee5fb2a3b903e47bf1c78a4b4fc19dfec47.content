@@ -1,0 +1,46 @@
+{
+  "data": {
+    "id": 5042295,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 5,
+    "episodeName": "Salang Pass",
+    "firstAired": "2015-02-25",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Kevin Dowling",
+    "directors": [
+      "Kevin Dowling"
+    ],
+    "writers": [
+      "Stephen Schiff"
+    ],
+    "overview": "Philip juggles the many women in his life while Elizabeth takes drastic measures to complete a mission. Stan asserts a plan to save Nina with an unlikely ally.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047548,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": 31,
+    "filename": "episodes/261690/5042295.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 372358,
+    "thumbAdded": "2015-02-19 20:58:57",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4228750",
+    "siteRating": 7.8,
+    "siteRatingCount": 16
+  }
+}

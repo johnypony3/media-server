@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 135751,
+      "seriesId": 110381,
+      "name": "H. Jon Benjamin",
+      "role": "Sterling Archer",
+      "sortOrder": 0,
+      "image": "actors/135751.jpg",
+      "imageAuthor": 6560,
+      "imageAdded": "2010-01-29 15:53:31",
+      "lastUpdated": "2016-03-14 09:20:51"
+    },
+    {
+      "id": 135761,
+      "seriesId": 110381,
+      "name": "Judy Greer",
+      "role": "Cheryl Tunt",
+      "sortOrder": 3,
+      "image": "actors/135761.jpg",
+      "imageAuthor": 6560,
+      "imageAdded": "2010-02-02 05:46:16",
+      "lastUpdated": "2012-03-18 20:31:21"
+    },
+    {
+      "id": 135771,
+      "seriesId": 110381,
+      "name": "Chris Parnell",
+      "role": "Cyril Figgis",
+      "sortOrder": 3,
+      "image": "actors/135771.jpg",
+      "imageAuthor": 6560,
+      "imageAdded": "2010-02-02 05:40:01",
+      "lastUpdated": "2010-02-02 05:40:01"
+    },
+    {
+      "id": 135781,
+      "seriesId": 110381,
+      "name": "Aisha Tyler",
+      "role": "Lana Kane",
+      "sortOrder": 1,
+      "image": "actors/135781.jpg",
+      "imageAuthor": 6560,
+      "imageAdded": "2010-02-02 05:38:00",
+      "lastUpdated": "2010-12-28 02:17:42"
+    },
+    {
+      "id": 135791,
+      "seriesId": 110381,
+      "name": "Jessica Walter",
+      "role": "Malory Archer",
+      "sortOrder": 2,
+      "image": "actors/135791.jpg",
+      "imageAuthor": 6560,
+      "imageAdded": "2010-02-02 05:41:49",
+      "lastUpdated": "2012-06-27 16:44:14"
+    },
+    {
+      "id": 296567,
+      "seriesId": 110381,
+      "name": "Amber Nash",
+      "role": "Pam Poovey",
+      "sortOrder": 3,
+      "image": "actors/296567.jpg",
+      "imageAuthor": 311631,
+      "imageAdded": "2012-03-18 20:26:20",
+      "lastUpdated": "2012-03-18 20:26:20"
+    },
+    {
+      "id": 296568,
+      "seriesId": 110381,
+      "name": "Lucky Yates",
+      "role": "Doctor Krieger",
+      "sortOrder": 3,
+      "image": "actors/296568.jpg",
+      "imageAuthor": 311631,
+      "imageAdded": "2012-03-18 20:28:26",
+      "lastUpdated": "2012-03-18 20:28:26"
+    },
+    {
+      "id": 296569,
+      "seriesId": 110381,
+      "name": "Adam Reed",
+      "role": "Ray Gillette",
+      "sortOrder": 3,
+      "image": "actors/296569.jpg",
+      "imageAuthor": 311631,
+      "imageAdded": "2012-03-18 20:29:39",
+      "lastUpdated": "2012-03-18 20:29:39"
+    },
+    {
+      "id": 296570,
+      "seriesId": 110381,
+      "name": "George Coe",
+      "role": "Woodhouse",
+      "sortOrder": 3,
+      "image": "actors/296570.jpg",
+      "imageAuthor": 311631,
+      "imageAdded": "2012-03-18 20:30:57",
+      "lastUpdated": "2012-03-18 20:30:57"
+    }
+  ]
+}

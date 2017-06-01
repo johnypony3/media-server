@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/057470F61A87EF30?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/E49B/6BC6/8D8B/B85C_xlarge_front.jpg?cid=4563968" parentTitle="Kenny Chesney" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BDA3/D730/E007/36B7_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Blue Chair / Columbia Nashville" type="album" title="The Big Revival" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Country &amp; Western" />
+<Genre tag="Contemporary Country" />
+<Genre tag="General Contemporary Country" />
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116209-D8BC9766FB6675124A92354EF52E0B85?lang=en" type="track" title="The Big Revival" summary="" index="1" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116210-02F68C841D1EE7D47E4AE2F0C7D6A5FC?lang=en" type="track" title="Drink It Up" summary="" index="2" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116211-041C7BE8C2EBC0454C71F976820A7276?lang=en" type="track" title="Til It&#39;s Gone" summary="" index="3" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116212-142CED0EF06C43BEF50C2560A1F4F8CF?lang=en" type="track" title="American Kids" summary="" index="4" ratingCount="0">
+<Mood tag="Casual Groove" />
+</Track>
+<Track artist="Kenny Chesney Feat. Grace Potter" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116213-9AF08289F6A4A86CD2E1FFC5D7069F00?lang=en" type="track" title="Wild Child" summary="" index="5" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116214-7433FEBF58BA1219D3F120155578600C?lang=en" type="track" title="Beer Can Chicken" summary="" index="6" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116215-B906A2AD4A837ED5BD53ED848845FB53?lang=en" type="track" title="Rock Bottom" summary="" index="7" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116216-1AA6A47A38ECC4806FAAE7B6A3B10F05?lang=en" type="track" title="Don&#39;t It" summary="" index="8" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116219-9F348CA6F52BF4AD87B3E8C47CFFD8AB?lang=en" type="track" title="Save It For A Rainy Day" summary="" index="9" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116217-639673AF88F64BADA9A0F884B68F6F48?lang=en" type="track" title="Flora-Bama" summary="" index="10" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/445116208-7470F6E20CF47C94DB5A52DB529239BD/445116218-3D982E5B49C332EADEAB91349EE88DE1?lang=en" type="track" title="If This Bus Could Talk" summary="" index="11" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+</Directory>
+</MediaContainer>

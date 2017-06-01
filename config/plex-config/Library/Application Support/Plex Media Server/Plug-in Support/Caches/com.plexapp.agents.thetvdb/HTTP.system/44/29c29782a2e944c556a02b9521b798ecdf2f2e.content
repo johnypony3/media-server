@@ -1,0 +1,30 @@
+{
+  "data": {
+    "id": 75805,
+    "seriesName": "It's Always Sunny in Philadelphia",
+    "aliases": [
+      "Its Always Sunny in Philadelphia"
+    ],
+    "banner": "graphical/75805-g13.jpg",
+    "seriesId": "33928",
+    "status": "Continuing",
+    "firstAired": "2005-08-04",
+    "network": "FXX",
+    "networkId": "",
+    "runtime": "25",
+    "genre": [
+      "Comedy"
+    ],
+    "overview": "Four egocentric friends who run a neighborhood Irish pub in Philadelphia try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+    "lastUpdated": 1495924915,
+    "airsDayOfWeek": "Wednesday",
+    "airsTime": "10:00 PM",
+    "rating": "TV-MA",
+    "imdbId": "tt0472954",
+    "zap2itId": "EP00762956",
+    "added": "",
+    "addedBy": null,
+    "siteRating": 9.1,
+    "siteRatingCount": 202
+  }
+}

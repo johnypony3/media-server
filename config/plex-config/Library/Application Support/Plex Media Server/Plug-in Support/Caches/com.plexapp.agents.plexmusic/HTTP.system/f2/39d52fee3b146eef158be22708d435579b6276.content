@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0591EB29110B889A?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/579E/7F10/D498/003C_xlarge_front.jpg?cid=4563968" parentTitle="The xx" parentTitleSort="" sortTitle="" thumb="" totalInSet="1" studio="Young Turks" type="album" title="Coexist" summary="" index="1" ratingCount="0" year="2012" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Dream Pop &amp; Shoegazer" />
+<Genre tag="Dream Pop" />
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968539-D16FA745B131CF8281EC4C7097F26A27?lang=en" type="track" title="Angels" summary="" index="1" ratingCount="0">
+<Mood tag="Wistful" />
+<Mood tag="Forlorn" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968540-8B8820D8648C621F6C805376B63A975D?lang=en" type="track" title="Chained" summary="" index="2" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968541-EB0A10A4553B2DA176708F48F86DEA25?lang=en" type="track" title="Fiction" summary="" index="3" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968542-181290A88C33CDE268097E765A6E17FC?lang=en" type="track" title="Try" summary="" index="4" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968543-23452E7224B9AB529FBFB31E2020EBBF?lang=en" type="track" title="Reunion" summary="" index="5" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968544-4E2F62DC86076C503AC239AF37337C92?lang=en" type="track" title="Sunset" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968545-98A12347206A8A5D18BD0B3173F8A61B?lang=en" type="track" title="Missing" summary="" index="7" ratingCount="0">
+<Mood tag="Creepy" />
+<Mood tag="Ominous" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968546-760784063BCFC0E125D095CC00F3D815?lang=en" type="track" title="Tides" summary="" index="8" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968547-BD588B715B00D9822399BBA288FBC321?lang=en" type="track" title="Unfold" summary="" index="9" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968548-594594836F83E0DB7CEA5997AAB17015?lang=en" type="track" title="Swept Away" summary="" index="10" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/285968538-91EB29C53DD6B37330A13B8966348D2A/285968549-362DF710EB8C8E2085A7F1C173D3D551?lang=en" type="track" title="Our Song" summary="" index="11" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+</Directory>
+</MediaContainer>

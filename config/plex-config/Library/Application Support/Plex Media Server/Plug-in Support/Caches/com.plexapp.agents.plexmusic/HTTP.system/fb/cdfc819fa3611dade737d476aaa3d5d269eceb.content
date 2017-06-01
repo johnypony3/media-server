@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="Canada" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/053555961AB7E82C?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/4F2E/AF76/D088/B9C9_xlarge_front.jpg?cid=4563968" parentTitle="Leonard Cohen" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/CAA4/A901/4C60/F382_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Columbia" type="album" title="Popular Problems" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Folk" />
+<Genre tag="Contemporary Folk" />
+<Genre tag="Folk Singer-Songwriter" />
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260141-E0E5D0A9940A0171F4519BBE87C3A533?lang=en" type="track" title="Slow" summary="" index="1" ratingCount="0">
+<Mood tag="Suave" />
+<Mood tag="Sultry" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260142-1755F3ADDCCE7B2FEDCA49CB5AE7DC8E?lang=en" type="track" title="Almost Like The Blues" summary="" index="2" ratingCount="0">
+<Mood tag="Intimate" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260143-8E92A608B89D64EBD985AD074A1FFCA4?lang=en" type="track" title="Samson In New Orleans" summary="" index="3" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260144-64959A863B486B1C0BBB06C71AC65C8A?lang=en" type="track" title="A Street" summary="" index="4" ratingCount="0">
+<Mood tag="Soft Soulful" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260149-072D149C21F9421E2D35949BDB8C008D?lang=en" type="track" title="Did I Ever Love You" summary="" index="5" ratingCount="0">
+<Mood tag="Tender" />
+<Mood tag="Sincere" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260145-6EFCD2CBD369167E814728F8AD3D1BE0?lang=en" type="track" title="My Oh My" summary="" index="6" ratingCount="0">
+<Mood tag="Sober" />
+<Mood tag="Determined" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260146-A04D3C3C9027A65E49280A15ABA855CC?lang=en" type="track" title="Nevermind" summary="" index="7" ratingCount="0">
+<Mood tag="Cool Confidence" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260147-604565D76E752E7D1A406E1E6B4750B5?lang=en" type="track" title="Born In Chains" summary="" index="8" ratingCount="0">
+<Mood tag="Soft Soulful" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/448260140-355596DEACF8763E33FF0A98562E5510/448260148-4D4847628CF07DB6ACF79C35EA3C25D7?lang=en" type="track" title="You Got Me Singing" summary="" index="9" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+</Directory>
+</MediaContainer>

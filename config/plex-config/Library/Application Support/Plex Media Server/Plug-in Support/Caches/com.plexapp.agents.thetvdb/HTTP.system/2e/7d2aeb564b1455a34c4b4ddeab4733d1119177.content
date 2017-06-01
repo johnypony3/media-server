@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 6056602,
+    "airedSeason": 4,
+    "airedSeasonID": 699740,
+    "airedEpisodeNumber": 5,
+    "episodeName": "The Blood Boy",
+    "firstAired": "2017-05-21",
+    "guestStars": [],
+    "director": "",
+    "directors": [],
+    "writers": [
+      "John Altschuler",
+      "Mike Judge",
+      "Dave Krinsky"
+    ],
+    "overview": "Cracks in Richard's latest partnership become more apparent when he's forced to deal with an unexpected interloper. As things get more serious, Dinesh scrambles to find a way out of his new relationship. After learning of surprising developments afoot at Raviga, Monica has trouble deciding which horse to back.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1496149829,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/277165/6056602.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 420157,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-05-17 08:42:11",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6267506",
+    "siteRating": 8.3,
+    "siteRatingCount": 7
+  }
+}

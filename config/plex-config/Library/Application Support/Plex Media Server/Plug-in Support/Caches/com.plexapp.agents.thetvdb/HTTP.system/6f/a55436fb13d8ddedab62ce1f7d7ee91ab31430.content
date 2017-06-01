@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 277165,
+    "seriesName": "Silicon Valley",
+    "aliases": [],
+    "banner": "graphical/277165-g9.jpg",
+    "seriesId": "3072410",
+    "status": "Continuing",
+    "firstAired": "2014-04-06",
+    "network": "HBO",
+    "networkId": "",
+    "runtime": "30",
+    "genre": [
+      "Comedy"
+    ],
+    "overview": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.",
+    "lastUpdated": 1496233022,
+    "airsDayOfWeek": "Sunday",
+    "airsTime": "10:00 PM",
+    "rating": "TV-MA",
+    "imdbId": "tt2575988",
+    "zap2itId": "SH01859571",
+    "added": "2014-01-10 11:18:03",
+    "addedBy": 346515,
+    "siteRating": 8.8,
+    "siteRatingCount": 83
+  }
+}

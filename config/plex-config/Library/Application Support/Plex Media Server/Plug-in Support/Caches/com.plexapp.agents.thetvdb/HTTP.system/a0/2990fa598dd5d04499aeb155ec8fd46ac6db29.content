@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 5111220,
+    "airedSeason": 3,
+    "airedSeasonID": 602737,
+    "airedEpisodeNumber": 12,
+    "episodeName": "I am Abassin Zadran",
+    "firstAired": "2015-04-15",
+    "guestStars": [
+      "Annet Mahendru"
+    ],
+    "director": "Christopher Misiano",
+    "directors": [
+      "Christopher Misiano"
+    ],
+    "writers": [
+      "Peter Ackerman",
+      "Stuart Zicherman"
+    ],
+    "overview": "Martha hosts an unexpected guest. Philip and Elizabeth must work a formidable Mujahideen commander. Paige acts out.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1465047692,
+    "dvdDiscid": "",
+    "dvdSeason": 3,
+    "dvdEpisodeNumber": 12,
+    "dvdChapter": null,
+    "absoluteNumber": 38,
+    "filename": "episodes/261690/5111220.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-04-12 20:10:19",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4428472",
+    "siteRating": 7.6,
+    "siteRatingCount": 12
+  }
+}

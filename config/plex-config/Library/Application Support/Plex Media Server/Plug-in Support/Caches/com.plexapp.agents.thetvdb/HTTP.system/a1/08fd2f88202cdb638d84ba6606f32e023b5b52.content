@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5772642,
+    "airedSeason": 12,
+    "airedSeasonID": 671550,
+    "airedEpisodeNumber": 8,
+    "episodeName": "Scarecrow",
+    "firstAired": "2016-12-07",
+    "guestStars": [],
+    "director": "Christoph Schrewe",
+    "directors": [
+      "Christoph Schrewe"
+    ],
+    "writers": [
+      "Karen Maser"
+    ],
+    "overview": "The BAU team heads to Yakima, Wash., after the remains of a dozen people are found along a creek bed.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494172617,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 263,
+    "filename": "episodes/75710/5772642.jpg",
+    "seriesId": 75710,
+    "lastUpdatedBy": 479590,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 439540,
+    "thumbAdded": "2016-12-04 04:54:21",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6138744",
+    "siteRating": 8.5,
+    "siteRatingCount": 2
+  }
+}

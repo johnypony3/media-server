@@ -1,0 +1,28 @@
+{
+  "data": {
+    "id": 75710,
+    "seriesName": "Criminal Minds",
+    "aliases": [],
+    "banner": "graphical/75710-g20.jpg",
+    "seriesId": "33484",
+    "status": "Continuing",
+    "firstAired": "2005-09-22",
+    "network": "CBS",
+    "networkId": "",
+    "runtime": "45",
+    "genre": [
+      "Crime"
+    ],
+    "overview": "Special Agents Jason Gideon and Aaron Hotchner head up the FBI's most elite profiling team - experts in analyzing criminal minds. Each team member has their specialty. There's Elle Greenaway, who has a background in sexual offences; Derek Morgan, who focuses on obsessional crimes; Special Agent Dr. Spencer Reid the smart-but-socially-challenged genius; and Jennifer \"JJ\" Jareau, the rookie. With each mind-blowing case, they put their lives on the line as they match wits with the most ruthless criminals on earth.",
+    "lastUpdated": 1496170149,
+    "airsDayOfWeek": "Wednesday",
+    "airsTime": "10:00 PM",
+    "rating": "TV-14",
+    "imdbId": "tt0452046",
+    "zap2itId": "EP00753791",
+    "added": "",
+    "addedBy": null,
+    "siteRating": 8.6,
+    "siteRatingCount": 211
+  }
+}

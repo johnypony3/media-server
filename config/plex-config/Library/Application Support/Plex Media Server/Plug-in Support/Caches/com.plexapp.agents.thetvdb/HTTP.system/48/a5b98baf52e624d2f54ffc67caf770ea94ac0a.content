@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 5748834,
+    "airedSeason": 1,
+    "airedSeasonID": 668343,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Chestnut",
+    "firstAired": "2016-10-09",
+    "guestStars": [
+      "Ptolemy Slocum",
+      "Leonardo Nam",
+      "Talulah Riley",
+      "Louis Herthum"
+    ],
+    "director": "Richard J. Lewis",
+    "directors": [
+      "Richard J. Lewis"
+    ],
+    "writers": [
+      "Jonathan Nolan",
+      "Lisa Joy"
+    ],
+    "overview": "A pair of guests — first-timer William, and repeat visitor Logan — arrive at Westworld with different expectations and agendas. Bernard  and Quality Assurance head Theresa Cullen debate whether a recent host anomaly is contagious. Meanwhile, behavior engineer Elsie Hughes tweaks the emotions of Maeve, a madam in Sweetwater’s brothel, in order to avoid a recall. Cocky programmer Lee Sizemore pitches his latest narrative to the team, but Dr. Ford has other ideas. The Man in Black conscripts a condemned man, Lawrence, to help him uncover Westworld’s deepest secrets.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X6152/T13.19152",
+    "showUrl": "",
+    "lastUpdated": 1483887066,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": 2,
+    "filename": "episodes/296762/5748834.jpg",
+    "seriesId": 296762,
+    "lastUpdatedBy": 235,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 369062,
+    "thumbAdded": "2016-10-02 20:28:03",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4562758",
+    "siteRating": 7.8,
+    "siteRatingCount": 53
+  }
+}

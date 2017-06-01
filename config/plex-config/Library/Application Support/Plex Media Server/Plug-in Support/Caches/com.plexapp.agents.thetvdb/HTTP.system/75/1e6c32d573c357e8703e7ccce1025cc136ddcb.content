@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 5702864,
+    "airedSeason": 12,
+    "airedSeasonID": 671550,
+    "airedEpisodeNumber": 5,
+    "episodeName": "The Anti-Terror Squad",
+    "firstAired": "2016-11-09",
+    "guestStars": [],
+    "director": "",
+    "directors": [],
+    "writers": [],
+    "overview": "The BAU investigates if bullying may be the link between two high school students who are the sole survivors after both of their families are killed.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1479458020,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75710/5702864.jpg",
+    "seriesId": 75710,
+    "lastUpdatedBy": 85211,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 439540,
+    "thumbAdded": "2016-10-29 12:22:44",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "",
+    "siteRating": 8,
+    "siteRatingCount": 2
+  }
+}

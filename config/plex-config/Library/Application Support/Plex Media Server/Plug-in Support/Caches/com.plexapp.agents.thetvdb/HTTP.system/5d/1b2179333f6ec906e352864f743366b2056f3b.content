@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 5511059,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 8,
+    "episodeName": "The Magic of David Copperfield V: The Statue of Liberty Disappears",
+    "firstAired": "2016-05-04",
+    "guestStars": [
+      "Vera Cherny",
+      "Karen Pittman",
+      "Suzy Jane Hunt",
+      "Margo Martindale",
+      "Frank Langella"
+    ],
+    "director": "|Matthew Rhys|",
+    "directors": [
+      "Matthew Rhys"
+    ],
+    "writers": [
+      "Stephen Schiff"
+    ],
+    "overview": "The Jennings’s approach their breaking points as both Philip and Elizabeth must handle loyal agents. Will they make it through with their patriotism – and sanity – intact?",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1487884277,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5511059.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 457963,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 443094,
+    "thumbAdded": "2016-05-05 06:56:35",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5562344",
+    "siteRating": 7.6,
+    "siteRatingCount": 8
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5941137,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 8,
+    "episodeName": "Immersion",
+    "firstAired": "2017-04-25",
+    "guestStars": [],
+    "director": "Kevin Bray",
+    "directors": [
+      "Kevin Bray"
+    ],
+    "writers": [
+      "Tracey Scott Wilson"
+    ],
+    "overview": "A secret brings Elizabeth and Paige together. In Moscow, Oleg's own secrets put him under KGB suspicion. A new twist in the Morozov operation creates an opportunity that changes everything.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU508",
+    "showUrl": "",
+    "lastUpdated": 1495010659,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5941137.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 479317,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-04-26 05:09:09",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6263002",
+    "siteRating": 8,
+    "siteRatingCount": 5
+  }
+}

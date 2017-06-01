@@ -1,0 +1,55 @@
+{
+  "data": {
+    "id": 5106957,
+    "airedSeason": 10,
+    "airedSeasonID": 604055,
+    "airedEpisodeNumber": 8,
+    "episodeName": "The Gang Goes on Family Fight",
+    "firstAired": "2015-03-04",
+    "guestStars": [
+      "Keegan-Michael Key",
+      "David Hornsby",
+      "Anna Maria Horsford",
+      "Theo Breaux",
+      "William C. Mitchell",
+      "Jammie Patton",
+      "Joe Thornton Jr.",
+      "Megan Messmer"
+    ],
+    "director": "Matt Shakman",
+    "directors": [
+      "Matt Shakman"
+    ],
+    "writers": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney"
+    ],
+    "overview": "When the gang appears on a nationally broadcasted game show, Dennis does his best to keep the gang’s weirdness under wraps.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491644086,
+    "dvdDiscid": "",
+    "dvdSeason": 10,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75805/5106957.jpg",
+    "seriesId": 75805,
+    "lastUpdatedBy": 390213,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2015-03-05 06:08:58",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3878554",
+    "siteRating": 8.1,
+    "siteRatingCount": 14
+  }
+}

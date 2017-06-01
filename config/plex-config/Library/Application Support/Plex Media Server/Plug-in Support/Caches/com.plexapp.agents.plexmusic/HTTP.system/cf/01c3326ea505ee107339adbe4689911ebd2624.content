@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/054C8D2F14C21A90?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/B9D7/8689/8C2B/BE35_xlarge_front.jpg?cid=4563968" parentTitle="Kanye West" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/BA60/CF41/FCE7/F430_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Def Jam" type="album" title="Yeezus" summary="" index="1" ratingCount="0" year="2013" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rap/Hip-Hop" />
+<Genre tag="Other Rap/Hip-Hop" />
+<Genre tag="General Rap/Hip-Hop" />
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265105-68F760A759F2C45BC5D68B72E1D5DB1D?lang=en" type="track" title="On Sight" summary="" index="1" ratingCount="0">
+<Mood tag="Other" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265106-C951824EB480941778C3C7F7B015FC3E?lang=en" type="track" title="Black Skinhead" summary="" index="2" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="Kanye West Feat. God" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265107-AD093550A4DCD29491801AC60C5DF8AB?lang=en" type="track" title="I Am A God" summary="" index="3" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265108-53F1D0036B607068C4AA6658F57D9ED1?lang=en" type="track" title="New Slaves" summary="" index="4" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265109-7E28D6A78B956C2263286313267876D2?lang=en" type="track" title="Hold My Liquor" summary="" index="5" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265110-9739051A624ACE8030CA1EE391C2FDA2?lang=en" type="track" title="I&#39;m In It" summary="" index="6" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265111-FDC2B497EFA2D0EBCC976FE4D3BBD085?lang=en" type="track" title="Blood On The Leaves" summary="" index="7" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265112-E40DECA0E588476D0B0118C96902D42C?lang=en" type="track" title="Guilt Trip" summary="" index="8" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265113-E9DCAC68A5AD8B3ACD7A3893F60D0F62?lang=en" type="track" title="Send It Up" summary="" index="9" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/348265104-4C8D2FB67A48D361F882CEEE5B4E26DF/348265114-EE879471D3FDBF3BF9DDB910CC2C3ACF?lang=en" type="track" title="Bound 2" summary="" index="10" ratingCount="0">
+<Mood tag="Intimate" />
+</Track>
+</Directory>
+</MediaContainer>

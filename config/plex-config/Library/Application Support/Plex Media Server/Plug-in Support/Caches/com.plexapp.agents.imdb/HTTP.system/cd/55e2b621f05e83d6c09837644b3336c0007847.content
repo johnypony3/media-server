@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<movie title="The Magnificent Seven" country="USA" originally_available_at="1960-10-23" tagline="">
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="51" iva_id="998143" lang_code="0" originally_available_at="2016-08-31T10:52:00" primary="false" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/014/572_030.jpg" title="The Magnificent Seven (Trailer 1)" type="trailer"/>
+  <extra adaptive="true" bitrates="80,212,450,600,750,1500,8000" country_code="-1" dts="false" duration="181" iva_id="572" lang_code="0" originally_available_at="1999-09-27T16:25:00" primary="true" subtitle_lang_code="-1" thumb="http://content.internetvideoarchive.com/content/photos/10576/998143_004.jpg" title="The Magnificent Seven" type="trailer"/>
+  <ratings audience_rating="Upright" audience_score="87" critics_rating="Certified Fresh" critics_score="90" source="rotten_tomatoes"/>
+  <review critic="Variety Staff" date="2008-05-21" freshness="fresh" link="http://www.variety.com/review/VE1117792870.html?categoryid=31&amp;cs=1" publication="Variety">There is a heap of fine acting and some crackling good direction by John Sturges mostly in the early stages, during formation of the central septet.</review>
+  <review critic="Dave Kehr" date="2016-09-21" freshness="rotten" link="http://www.chicagoreader.com/chicago/the-magnificent-seven/Film?oid=1052362" publication="Chicago Reader">What was wonderful in the Kurosawa film -- the recruiting and training of the mercenaries -- is just dead time here.</review>
+  <review critic="" date="2011-12-07" freshness="fresh" link="http://content.time.com/time/subscriber/article/0,33009,895263,00.html" publication="TIME Magazine">This film may well be the best western of 1960.</review>
+  <review critic="Chris Petit" date="2006-02-09" freshness="fresh" link="http://www.timeout.com/london/film/the-magnificent-seven" publication="Time Out">Sturges' remake of Kurosawa's Seven Samurai is always worth a look, mainly for the performances of McQueen, Bronson, Coburn and Vaughn.</review>
+  <review critic="Howard Thompson" date="2005-05-10" freshness="rotten" link="http://movies.nytimes.com/movie/review?res=9402E4D91F31EF3ABC4C51DFB767838B679EDE&amp;partner=Rotten+Tomatoes" publication="New York Times">Even with some highly fetching Mexican scenery in color, this United Artists release, thrusting Yul Brynner well to the fore, is a pallid, pretentious and overlong reflection of the Japanese original.</review>
+  <originally_available_at country="US" originally_available_at="1960-10-23"/>
+  <content_rating content_rating="G" country="US"/>
+  <content_rating content_rating="br/12" country="BR"/>
+  <content_rating content_rating="Not Rated" country="US"/>
+  <content_rating content_rating="ca/PG" country="CA"/>
+  <content_rating content_rating="it/T" country="IT"/>
+  <content_rating content_rating="se/15" country="SE"/>
+  <content_rating content_rating="uk/PG" country="UK"/>
+  <content_rating content_rating="TV-PG" country="US"/>
+  <content_rating content_rating="fi/K-16" country="FI"/>
+  <content_rating content_rating="nz/PG" country="NZ"/>
+  <content_rating content_rating="nl/6" country="NL"/>
+  <content_rating content_rating="fr/Unrated" country="FR"/>
+  <content_rating content_rating="au/PG" country="AU"/>
+  <content_rating content_rating="nl/14" country="NL"/>
+  <content_rating content_rating="ca/G" country="CA"/>
+  <content_rating content_rating="uk/Unrated" country="UK"/>
+  <content_rating content_rating="de/Unrated" country="DE"/>
+  <content_rating content_rating="au/M" country="AU"/>
+  <content_rating content_rating="no/16" country="NO"/>
+  <runtime country="US" runtime="128"/>
+  <summary lang="en" summary="An oppressed Mexican peasant village assembles seven gunfighters to help defend their homes."/>
+  <title lang="en" title="The Magnificent Seven"/>
+  <director name="John Sturges"/>
+  <actor name="Yul Brynner" role="Chris Larabee Adams"/>
+  <actor name="Steve McQueen" role="Vin Tanner"/>
+  <actor name="Charles Bronson" role="Bernardo O'Reilly"/>
+  <actor name="Eli Wallach" role="Calvera"/>
+  <actor name="Robert Vaughn" role="Lee"/>
+  <actor name="Brad Dexter" role="Harry Luck"/>
+  <actor name="James Coburn" role="Britt"/>
+  <actor name="Jorge Martínez de Hoyos" role="Hilario"/>
+  <actor name="Vladimir Sokoloff" role="Old Man"/>
+  <actor name="Rosenda Monteros" role="Petra"/>
+  <genre genre="Western" lang="en"/>
+  <genre genre="Action" lang="en"/>
+  <genre genre="Adventure" lang="en"/>
+  <imdb_ratings audience_score="78" num_votes="62,358" source="imdb"/>
+  <poster url="http://ia.media-imdb.com/images/M/MV5BMzYyNzU0MTM1OF5BMl5BanBnXkFtZTcwMzE1ODE1NA@@._V1._SX600_SY600_.jpg"/>
+</movie>

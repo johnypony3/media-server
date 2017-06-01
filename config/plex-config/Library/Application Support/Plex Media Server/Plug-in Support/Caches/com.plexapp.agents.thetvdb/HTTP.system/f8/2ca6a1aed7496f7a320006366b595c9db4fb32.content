@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5398852,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 10,
+    "episodeName": "The Earworm Reverberation",
+    "firstAired": "2015-12-10",
+    "guestStars": [
+      "Stephen Merchant",
+      "Yoshi Barrigas"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Eric Kaplan",
+      "Jim Reynolds",
+      "Saladin K. Patterson",
+      "Steve Molaro",
+      "Steve Holland",
+      "Jeremy Howe"
+    ],
+    "overview": "Sheldon has a revelation when he realizes why a song was stuck in his head. Also, Amy invites Dave over for dinner despite their previously awkward date, and Wolowitz and Koothrappali become obsessed with a fan of their band, \"Footprints on the Moon\".",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7210",
+    "showUrl": "",
+    "lastUpdated": 1493594601,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 10,
+    "dvdChapter": null,
+    "absoluteNumber": 193,
+    "filename": "episodes/80379/5398852.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 337001,
+    "thumbAdded": "2015-12-10 17:56:14",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5143508",
+    "siteRating": 7.8,
+    "siteRatingCount": 39
+  }
+}

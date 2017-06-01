@@ -1,0 +1,53 @@
+{
+  "data": {
+    "id": 5384384,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 9,
+    "episodeName": "The Platonic Permutation",
+    "firstAired": "2015-11-19",
+    "guestStars": [
+      "Laura Spencer",
+      "Elon Musk",
+      "Wayne Wilderson"
+    ],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Jim Reynolds",
+      "Jeremy Howe",
+      "Tara Hernandez",
+      "Steve Holland",
+      "Maria Ferrari",
+      "Adam Faberman"
+    ],
+    "overview": "It’s Thanksgiving. Sheldon and Amy go on a lunch date to the aquarium as friends. Howard, Bernadette, Raj and Emily help out at a soup kitchen. Leonard and Penny make their first Thanksgiving dinner as a married couple. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7209",
+    "showUrl": "",
+    "lastUpdated": 1493594584,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 9,
+    "dvdChapter": null,
+    "absoluteNumber": 192,
+    "filename": "episodes/80379/5384384.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 369062,
+    "thumbAdded": "2015-11-19 18:53:34",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5143500",
+    "siteRating": 7.9,
+    "siteRatingCount": 36
+  }
+}

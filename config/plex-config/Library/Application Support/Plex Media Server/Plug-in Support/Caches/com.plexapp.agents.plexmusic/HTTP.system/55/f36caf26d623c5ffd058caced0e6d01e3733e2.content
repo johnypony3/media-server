@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0516D71B1E34F6F6?lang=en" parentThumb="" parentTitle="Various Artists" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/A5F6/610C/7F38/7188_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Atlantic" type="album" title="Furious 7: Original Motion Picture Soundtrack" summary="" index="1" ratingCount="0" year="2015" leafCount="0" viewedLeafCount="0">
+<Genre tag="Soundtrack" />
+<Genre tag="Original Film/TV Music" />
+<Genre tag="General Film Music" />
+<Track artist="Kid Ink Feat. Tyga, YG, Wale &amp; Rich Homie Quan" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787575-5BE8EA60C216E51FE2D450039503E459?lang=en" type="track" title="Ride Out" summary="" index="1" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="T.I. &amp; Young Thug" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787576-4FAFF92FEE07B320097A6C25E8383DDA?lang=en" type="track" title="Off-Set" summary="" index="2" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="Sevyn Streeter" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787590-0614C2AE2268EB730E7038C6F15CADFA?lang=en" type="track" title="How Bad Do You Want It (Oh Yeah)" summary="" index="3" ratingCount="0">
+<Mood tag="Chaotic" />
+<Mood tag="Intense" />
+</Track>
+<Track artist="Dillon Francis &amp; DJ Snake" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787577-958DED71BF4B7FD51E88FE5AA538691F?lang=en" type="track" title="Get Low" summary="" index="4" ratingCount="0">
+<Mood tag="Dark Hard Beat" />
+</Track>
+<Track artist="Wiz Khalifa &amp; Iggy Azalea" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787578-508A06473B8D43A3B7DAB7C1940A8FCB?lang=en" type="track" title="Go Hard Or Go Home" summary="" index="5" ratingCount="0">
+<Mood tag="Wary" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="Prince Royce" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787579-ECBD1FE2500D89693D37EB082EA8ADC9?lang=en" type="track" title="My Angel" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="Wiz Khalifa Feat. Charlie Puth" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787580-EB8E717A2CDDAEB0A6D11529AEC92107?lang=en" type="track" title="See You Again" summary="" index="7" ratingCount="0">
+<Mood tag="Dreamy Pulse" />
+</Track>
+<Track artist="Juicy J, Kevin Gates, Future &amp; Sage The Gemini" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787581-520B03FA29AA033D53883025A9CB0FC1?lang=en" type="track" title="Payback" summary="" index="8" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="David Guetta &amp; Kaz James" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787582-913A4C51C75C4C6498379682C8D54147?lang=en" type="track" title="Blast Off" summary="" index="9" ratingCount="0">
+<Mood tag="Heavy Beat" />
+</Track>
+<Track artist="DJ Shadow Feat. Mos Def" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787583-431CBC3297A826601A5A681F811386D1?lang=en" type="track" title="Six Days (Remix)" summary="" index="10" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="J Balvin Feat. French Montana &amp; Nicky Jam" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787584-963BF381EC66D497982A1F3AB2A4248D?lang=en" type="track" title="Ay Vamos" summary="" index="11" ratingCount="0">
+<Mood tag="Edgy" />
+<Mood tag="Sexy" />
+</Track>
+<Track artist="Flo Rida Feat. Sage The Gemini &amp; Lookas" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787585-836B028B710D9C51CE128139E4683E28?lang=en" type="track" title="Gdfr (Noodles Remix)" summary="" index="12" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="DJ Snake &amp; Lil Jon" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787586-26D66055191EAB1D76B27FF0A7B8C2D8?lang=en" type="track" title="Turn Down For What" summary="" index="13" ratingCount="0">
+<Mood tag="Chaotic" />
+<Mood tag="Intense" />
+</Track>
+<Track artist="Fito Blanko" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787587-01ABC7652F4598C4F2FFAF9C51355941?lang=en" type="track" title="Meneo" summary="" index="14" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="Skylar Grey" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787588-FE4F81C48659132B8D2E36906E1A8B6C?lang=en" type="track" title="I Will Return" summary="" index="15" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="Famous To Most" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/506787574-16D71B50157EBDE02A82DDC92A9E4D5F/506787589-2C618911A65613FB57058A12C2795F78?lang=en" type="track" title="Whip" summary="" index="16" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+</Directory>
+</MediaContainer>

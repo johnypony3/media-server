@@ -1,0 +1,202 @@
+{
+    "name": "Tim McGraw",
+    "mbid_id": "7e5cfc9a-e9e1-46f1-b81a-861b12049488",
+    "artistbackground": [
+        {
+            "id": "37795",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/artistbackground/mcgraw-tim-4fe07ad33920f.jpg",
+            "likes": "1"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "63369",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/artistthumb/mcgraw-tim-50bd4e1f38fe1.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "182003",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/artistthumb/mcgraw-tim-562de1e650559.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "182004",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/artistthumb/mcgraw-tim-562de1e650ee9.jpg",
+            "likes": "1"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "83166",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/hdmusiclogo/mcgraw-tim-519e609723769.png",
+            "likes": "1"
+        },
+        {
+            "id": "212922",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/hdmusiclogo/mcgraw-tim-58a1976e83f3b.png",
+            "likes": "1"
+        }
+    ],
+    "albums": {
+        "1c77bf1e-961a-32a2-b72f-28da7bc72207": {
+            "albumcover": [
+                {
+                    "id": "133203",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/all-i-want-53f483cfcc63d.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "1c84fa17-b8e7-38f1-9939-d041c902c85a": {
+            "albumcover": [
+                {
+                    "id": "133204",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/set-this-circus-down-53f48442c6d45.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "9e1f86cd-66da-354f-9386-b997711f7c9e": {
+            "albumcover": [
+                {
+                    "id": "167639",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/let-it-go-558c3ddd30ac7.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "e03cb79c-7c5f-48f2-8940-c3e8f06f23ee": {
+            "albumcover": [
+                {
+                    "id": "167640",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/southern-voice-558c3ddd3138b.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "76727aad-9cff-333c-a3d7-4b12fce55f99": {
+            "albumcover": [
+                {
+                    "id": "167641",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/a-place-in-the-sun-558c3f0e2ee61.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "ad683df3-9161-329a-80c1-40f826234e98": {
+            "albumcover": [
+                {
+                    "id": "167645",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/live-like-you-were-dying-558c445575201.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "4eefa03a-74a3-31ef-b0cc-30fe9269f553": {
+            "albumcover": [
+                {
+                    "id": "167646",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/tim-mcgraw-and-the-dance-hall-doctors-558c4580bfa64.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "5518ff1a-bc9b-40c9-b5d0-8d2829c625b1": {
+            "albumcover": [
+                {
+                    "id": "168080",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/sundown-heaven-town-deluxe-edition-559056dc52a8d.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "4f40b5ef-6d4f-3bfd-8a55-2cbd7a8465c8": {
+            "albumcover": [
+                {
+                    "id": "37797",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/greatest-hits-4fe07c021fd50.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "1d78d50b-5bec-49fe-aa95-5c0b16c33e4c": {
+            "albumcover": [
+                {
+                    "id": "37999",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/emotional-traffic-4fe1a38276d34.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "3721d1e6-4e24-4683-9137-4d7d92ae2887": {
+            "cdart": [
+                {
+                    "id": "63367",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/cdart/number-one-hits-50bd4d9eda828.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "63368",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/number-one-hits-50bd4dacc21ee.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "7d7f31b4-d70a-4e9e-ab1e-5f67cbbdff08": {
+            "albumcover": [
+                {
+                    "id": "80021",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/two-lanes-of-freedom-5173d317400bb.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "0bf025fc-9726-4eeb-8776-228b334e6f50": {
+            "albumcover": [
+                {
+                    "id": "157564",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/sundown-heaven-town-551e60cddbac5.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "4958cf50-ad3b-37f6-b1dd-7e396de63816": {
+            "albumcover": [
+                {
+                    "id": "169632",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/everywhere-55a12ab4a0d9d.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "f8aa0a02-9259-388d-916a-7d140e73fe2b": {
+            "albumcover": [
+                {
+                    "id": "169633",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/not-a-moment-too-soon-55a12ab4a15d8.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "66b9d6a9-519c-4a84-a965-5c5d6ccd08ad": {
+            "albumcover": [
+                {
+                    "id": "169635",
+                    "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/albumcover/tim-mcgraw--friends-55a12afd32322.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "musicbanner": [
+        {
+            "id": "212923",
+            "url": "http://assets.fanart.tv/fanart/music/7e5cfc9a-e9e1-46f1-b81a-861b12049488/musicbanner/mcgraw-tim-58a198d6a7ed5.jpg",
+            "likes": "1"
+        }
+    ]
+}

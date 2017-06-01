@@ -1,0 +1,1151 @@
+{
+    "name": "AC/DC",
+    "mbid_id": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+    "hdmusiclogo": [
+        {
+            "id": "49239",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-503d40235eb13.png",
+            "likes": "10"
+        },
+        {
+            "id": "101677",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-52616885b3b0e.png",
+            "likes": "7"
+        },
+        {
+            "id": "88810",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-51d9d617bfc47.png",
+            "likes": "6"
+        },
+        {
+            "id": "105861",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-5298ebc25dc37.png",
+            "likes": "6"
+        },
+        {
+            "id": "88897",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-51db563ed3c60.png",
+            "likes": "5"
+        },
+        {
+            "id": "90138",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-51ea32148e7e8.png",
+            "likes": "5"
+        },
+        {
+            "id": "147490",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-54baabb631dfb.png",
+            "likes": "4"
+        },
+        {
+            "id": "213773",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-58b6453a03382.png",
+            "likes": "4"
+        },
+        {
+            "id": "207625",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-583b2ed06ef3a.png",
+            "likes": "3"
+        },
+        {
+            "id": "111193",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-52e977f13b40c.png",
+            "likes": "2"
+        },
+        {
+            "id": "141377",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/hdmusiclogo/acdc-5467b6f11b466.png",
+            "likes": "2"
+        }
+    ],
+    "albums": {
+        "03759365-2f74-3f12-b884-280d3aa17f0e": {
+            "albumcover": [
+                {
+                    "id": "117203",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/the-razors-edge-5339df5f351f9.jpg",
+                    "likes": "10"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "211105",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/the-razors-edge-588188a5bbeca.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4393",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/the-razors-edge-4dec663b87c1c.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "d1b829ec-6112-3562-b38f-26949564e106": {
+            "albumcover": [
+                {
+                    "id": "117202",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/powerage-5339df5f2a613.jpg",
+                    "likes": "8"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131428",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/powerage-53dbcc4b68b93.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210915",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/powerage-587d39f5577c1.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4399",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/powerage-4dec663b9eb50.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "f85647ec-a69b-3b0a-ad04-bb6076c4dcf1": {
+            "albumcover": [
+                {
+                    "id": "117206",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/highway-to-hell-5339e00bd5f4f.jpg",
+                    "likes": "8"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131429",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/highway-to-hell-53dbcc9e4ef23.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210933",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/highway-to-hell-587d8e9742839.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207616",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/highway-to-hell-583b1b6470a05.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "c8dcd7b4-d104-3559-bc18-a62f559e912e": {
+            "albumcover": [
+                {
+                    "id": "3670",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/stiff-upper-lip-4de2c08a60aba.jpg",
+                    "likes": "7"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "67584",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/stiff-upper-lip-50fa91306b717.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4402",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/stiff-upper-lip-4dec66f4b1023.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "149850",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/stiff-upper-lip-54cca21554e5c.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ]
+        },
+        "afca53c1-c5b3-3f91-8590-281b0aa12722": {
+            "albumcover": [
+                {
+                    "id": "67763",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/black-ice-50fb82a2c9727.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "126661",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/black-ice-53976928d605c.jpg",
+                    "likes": "4"
+                },
+                {
+                    "id": "126460",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/black-ice-539459ee4d33c.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "126660",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/black-ice-53976917408d3.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "105847",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/black-ice-5298c5c7bf443.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "3679",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/black-ice-4de2c28aad702.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "baab9433-37a8-32ee-a1d3-34c7d6cf6e69": {
+            "albumcover": [
+                {
+                    "id": "67764",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/blow-up-your-video-50fb830600aed.jpg",
+                    "likes": "6"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "211095",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/blow-up-your-video-5881588cb30ae.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "3675",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/blow-up-your-video-4de2c16819857.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "331084ff-497b-3e3a-958e-0fefdae80cb6": {
+            "albumcover": [
+                {
+                    "id": "67766",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/for-those-about-to-rock-we-salute-you-50fb830601737.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "144639",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/for-those-about-to-rock-we-salute-you-5497f7351bbe9.jpg",
+                    "likes": "3"
+                },
+                {
+                    "id": "144640",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/for-those-about-to-rock-we-salute-you-5497f74aeded4.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "181813",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/for-those-about-to-rock-we-salute-you-562b850d46e76.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "211025",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/for-those-about-to-rock-we-salute-you-587ff06a41a44.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4394",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/for-those-about-to-rock-we-salute-you-4dec663b989a7.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "b755d9f1-e2c1-35d1-9244-a71d0d88cef2": {
+            "albumcover": [
+                {
+                    "id": "105834",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/high-voltage-5298a43255220.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "67774",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/high-voltage-50fb840826eab.jpg",
+                    "likes": "5"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "4397",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/high-voltage-4dec663b9c440.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207092",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/high-voltage-5831844a1485d.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210909",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/high-voltage-587d140b74a52.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "e01e5b5c-5ca6-3876-b6ff-b9ad88dd71ee": {
+            "albumcover": [
+                {
+                    "id": "111196",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/tnt-52e9814599252.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "179530",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/tnt-5605815f1f366.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131426",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/tnt-53dbcbb7d7fba.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4400",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/tnt-4dec663b9fed8.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "450"
+                }
+            ]
+        },
+        "c9673ff0-15b5-394d-a5ec-3d2a27dfce83": {
+            "albumcover": [
+                {
+                    "id": "117201",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/let-there-be-rock-5339df5f16b0e.jpg",
+                    "likes": "6"
+                },
+                {
+                    "id": "111192",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/let-there-be-rock-52e976ded08eb.jpg",
+                    "likes": "4"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "4398",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/let-there-be-rock-4dec663b9d7c8.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207095",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/let-there-be-rock-58318b3a5c209.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210911",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/let-there-be-rock-587d2c17eba7d.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "d3bc1a64-7561-3787-b680-0003aa50f8f1": {
+            "albumcover": [
+                {
+                    "id": "67760",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/back-in-black-50fb8236b8530.jpg",
+                    "likes": "5"
+                },
+                {
+                    "id": "111587",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/back-in-black-52f3aa7c64a28.jpg",
+                    "likes": "4"
+                },
+                {
+                    "id": "3671",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/back-in-black-4de2c08a61a5b.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "111591",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/back-in-black-52f3aa90c2b8b.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131425",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-53dbcb55950a5.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "149787",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-54cbfda16f1e0.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207624",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-583b2caf70542.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210932",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-587d8e9740cea.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "65289",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-50d7d79fca828.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "105849",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-5298d1dc1b657.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "105851",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/back-in-black-5298d659cb206.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "46fd6f83-e94a-3060-8457-13b8ea8e1262": {
+            "albumcover": [
+                {
+                    "id": "67761",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/ballbreaker-50fb8236b8a59.jpg",
+                    "likes": "5"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "207603",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/ballbreaker-583afbbf1c640.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "91a288b8-8404-3d1e-991c-cdc837cf915d": {
+            "albumcover": [
+                {
+                    "id": "67765",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/flick-of-the-switch-50fb8306012e4.jpg",
+                    "likes": "5"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "211024",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/flick-of-the-switch-587ff06a41450.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4395",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/flick-of-the-switch-4dec663b99d2f.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "af8a0f91-5326-3acb-b6e1-03a9b22d30e6": {
+            "albumcover": [
+                {
+                    "id": "67773",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/fly-on-the-wall-50fb840825e27.jpg",
+                    "likes": "5"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "211096",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/fly-on-the-wall-5881588cb434b.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207604",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/fly-on-the-wall-583b006556250.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "cab2e7ae-e042-31e2-b403-d93159e5907b": {
+            "albumcover": [
+                {
+                    "id": "67776",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/if-you-want-blood-youve-got-it-50fb84082827f.jpg",
+                    "likes": "5"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131427",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/if-you-want-blood-youve-got-it-53dbcc1b3ab75.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210934",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/if-you-want-blood-youve-got-it-587d8e974323c.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4404",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/if-you-want-blood-youve-got-it-4dec6770785dc.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "8bc8ca25-77ae-43a6-a242-038093dbcb08": {
+            "albumcover": [
+                {
+                    "id": "138871",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rock-or-bust-5440035d45cdb.jpg",
+                    "likes": "5"
+                },
+                {
+                    "id": "141386",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rock-or-bust-5467b7e01ed4a.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "143446",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/rock-or-bust-5489b768098c0.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "4e34b10b-ed62-37cc-9347-33a0bebfb058": {
+            "albumcover": [
+                {
+                    "id": "89923",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/who-made-who-51e860ee8e70b.jpg",
+                    "likes": "4"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "4406",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/who-made-who-4dec67ff6780d.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "211097",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/who-made-who-5881588cb82e2.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "f30734f4-333c-344c-98e9-71174cc5ebde": {
+            "albumcover": [
+                {
+                    "id": "117200",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/dirty-deeds-done-dirt-cheap-5339df5f0c15b.jpg",
+                    "likes": "4"
+                },
+                {
+                    "id": "213031",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/dirty-deeds-done-dirt-cheap-58a3ea3569f28.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "131455",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/dirty-deeds-done-dirt-cheap-53dc2a4c8aad1.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "207617",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/dirty-deeds-done-dirt-cheap-583b23a75ac34.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "210912",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/dirty-deeds-done-dirt-cheap-587d316cba18e.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "e09e4d07-0b4d-46f5-b987-26c12a7b0947": {
+            "albumcover": [
+                {
+                    "id": "144646",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/whole-lotta-rosie-5497fac688c64.jpg",
+                    "likes": "4"
+                }
+            ]
+        },
+        "1e481f99-f1c7-4624-a28c-ea88929d2f19": {
+            "albumcover": [
+                {
+                    "id": "34167",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/backtracks-4fcad2b53e38b.jpg",
+                    "likes": "3"
+                },
+                {
+                    "id": "194453",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/backtracks-571b96fc928f5.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "8600",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/backtracks-4e4843569cc1c.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                },
+                {
+                    "id": "207125",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/backtracks-5831af8c41310.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6b90494f-015e-4878-b18e-27b4766d2899": {
+            "albumcover": [
+                {
+                    "id": "62865",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-at-river-plate-50b4fce68a4c0.jpg",
+                    "likes": "3"
+                },
+                {
+                    "id": "140262",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-at-river-plate-545756c728ac8.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "140263",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-at-river-plate-545756d6e33d3.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "0608c865-89be-32df-9473-7acbe734f850": {
+            "albumcover": [
+                {
+                    "id": "67770",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-50fb839c4c251.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "4403",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/live-4dec67707763b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "4405",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/live-4dec67ff66861.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                }
+            ]
+        },
+        "e39dbe62-9fd1-3f94-a695-6cc275e07587": {
+            "albumcover": [
+                {
+                    "id": "83398",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/74-jailbreak-51a1f265d3214.jpg",
+                    "likes": "3"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "4914",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/74-jailbreak-4df2f1deafb7c.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                },
+                {
+                    "id": "211023",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/74-jailbreak-587ff06a3f9be.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6e931929-62d1-4b8d-af1a-8d309fffcf81": {
+            "albumcover": [
+                {
+                    "id": "144641",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/hells-bells--what-do-you-do-for-money-honey-5497f79cafae4.jpg",
+                    "likes": "3"
+                }
+            ]
+        },
+        "4e077fce-479e-3c9e-abb9-ce3de3aee356": {
+            "albumcover": [
+                {
+                    "id": "144642",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/moneytalks-5497f7e8356be.jpg",
+                    "likes": "3"
+                }
+            ]
+        },
+        "d5c33ab4-af05-43ac-8296-a3dafb34da94": {
+            "albumcover": [
+                {
+                    "id": "144644",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rock-n-roll-damnation--kicked-in-the-teeth-5497f97ae7c09.jpg",
+                    "likes": "3"
+                }
+            ]
+        },
+        "f3f98510-09cc-4cd8-945b-3837945c96ad": {
+            "albumcover": [
+                {
+                    "id": "144647",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/you-shook-me-all-night-long-5497faeb4044a.jpg",
+                    "likes": "3"
+                }
+            ]
+        },
+        "c915097c-9fcf-40fe-b808-51134ea79047": {
+            "cdart": [
+                {
+                    "id": "4407",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/iron-man-2-4dec67ff687a2.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "67767",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/iron-man-2-50fb830601e7d.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "88c75f68-839a-369f-ba1e-9a650017f447": {
+            "albumcover": [
+                {
+                    "id": "34168",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rare-rarer-rarities-4fcad2b53ebe1.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "1ff3e238-2ce9-3cfa-9617-d0a5c7116964": {
+            "albumcover": [
+                {
+                    "id": "89921",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/bonfire-51e85f53813fb.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "2748b46d-8996-4fa3-b8ea-d0690cf19619": {
+            "albumcover": [
+                {
+                    "id": "111588",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/let-there-be-rock-the-movie---live-in-paris-52f3aa7c6f476.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "85479",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/let-there-be-rock-the-movie---live-in-paris-51bc5646bbb04.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000"
+                },
+                {
+                    "id": "85480",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/let-there-be-rock-the-movie---live-in-paris-51bc58821d612.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "059e790c-f0ea-4a61-8731-c058692b6688": {
+            "albumcover": [
+                {
+                    "id": "126868",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/volts-539bac9beff1b.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "85483",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/volts-51bc5d3e2c12a.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "57d67bc1-ec2b-4ed9-96ea-01dcb01de05d": {
+            "albumcover": [
+                {
+                    "id": "138360",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/play-ball-543540b939d57.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "7e488d1d-3ad5-4a27-a546-55f2ae56cbb2": {
+            "albumcover": [
+                {
+                    "id": "144636",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/anything-goes-5497f33e55b26.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "144638",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/anything-goes-57c0d5311c97b.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "7ea84654-c110-3724-a99c-51d1a099e6a2": {
+            "albumcover": [
+                {
+                    "id": "144637",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/big-gun-5497f3bb6600a.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "e45e7c2b-d568-46cd-ac16-cb696f8eb643": {
+            "albumcover": [
+                {
+                    "id": "144643",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rock-and-roll-aint-noise-pollution-5497f8c09a988.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "76234002-5449-4980-906f-221a7f34f7ae": {
+            "albumcover": [
+                {
+                    "id": "144645",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/rock-n-roll-train-5497fa86df39f.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "5296181c-14fa-3dc7-bb1c-33369a524fde": {
+            "albumcover": [
+                {
+                    "id": "200847",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/plug-me-in-57c0dbaf19e09.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "37d78834-e97a-3c4c-90c2-d8f1c40251c3": {
+            "cdart": [
+                {
+                    "id": "86308",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/live-from-the-atlantic-studios-51c0b98839d98.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "111589",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-from-the-atlantic-studios-52f3aa7c87116.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7d74eee1-e083-38cf-a8cf-2302135c6941": {
+            "albumcover": [
+                {
+                    "id": "96584",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/live-at-donington-522418b1c70a5.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "b9e3c8d7-d3eb-3f7f-a517-edcef2b255d6": {
+            "albumcover": [
+                {
+                    "id": "209037",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/highway-to-hell-585a692237656.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "2cb5ab9d-91af-3d51-9620-dc591f2299be": {
+            "albumcover": [
+                {
+                    "id": "212892",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/back-in-melbourne-58a0dc2e0d385.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7613e329-d59f-47dd-b7aa-4a16bf15ef3c": {
+            "albumcover": [
+                {
+                    "id": "213774",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/transmission-impossible-legendary-broadcasts-from-the-1970s-58b64556a7820.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "2b81e645-4586-4456-843a-9bc19a217470": {
+            "albumcover": [
+                {
+                    "id": "214723",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/high-voltage-58cab4e8155ea.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "9219604d-8bc7-3de1-974f-d996d3747e5a": {
+            "cdart": [
+                {
+                    "id": "11884",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/cdart/the-very-best-4e838343235ea.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "6ae0fb5f-11e9-42b1-822a-916a7ec0098d": {
+            "albumcover": [
+                {
+                    "id": "185263",
+                    "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/albumcover/who-made-who-567d253834093.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "34169",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-4fcad35eb2643.jpg",
+            "likes": "8"
+        },
+        {
+            "id": "140258",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-54575601f3b26.jpg",
+            "likes": "6"
+        },
+        {
+            "id": "27726",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-4f8b179b59503.jpg",
+            "likes": "5"
+        },
+        {
+            "id": "63988",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-50c40989f2a76.jpg",
+            "likes": "5"
+        },
+        {
+            "id": "141381",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-5467b70af2ff0.jpg",
+            "likes": "5"
+        },
+        {
+            "id": "7269",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-4e19b4d51609c.jpg",
+            "likes": "4"
+        },
+        {
+            "id": "141380",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-5467b70af2aee.jpg",
+            "likes": "4"
+        },
+        {
+            "id": "27725",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-4f8b17900444c.jpg",
+            "likes": "3"
+        },
+        {
+            "id": "105711",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-5296727bf0463.jpg",
+            "likes": "3"
+        },
+        {
+            "id": "140259",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-54575601f4146.jpg",
+            "likes": "3"
+        },
+        {
+            "id": "141382",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-5467b70af3491.jpg",
+            "likes": "3"
+        },
+        {
+            "id": "139934",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-54534313d0712.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "141379",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-5467b70af24d9.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "195104",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-572cb09c11103.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "194463",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-571ba8371bf53.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "206125",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-581ce1ec36c37.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "206126",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistbackground/acdc-581ce31d82f51.jpg",
+            "likes": "1"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "34171",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistthumb/acdc-4fcad43e9fdbe.jpg",
+            "likes": "6"
+        },
+        {
+            "id": "34170",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistthumb/acdc-4fcad39ec998f.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "195113",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/artistthumb/acdc-572cb243d7c34.jpg",
+            "likes": "2"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "27128",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/musiclogo/acdc-4f85b7743393e.png",
+            "likes": "4"
+        },
+        {
+            "id": "19575",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/musiclogo/acdc-4f2320ea33553.png",
+            "likes": "3"
+        },
+        {
+            "id": "4880",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/musiclogo/acdc-4df24807a9d04.png",
+            "likes": "1"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "52165",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/musicbanner/acdc-50573b846a29d.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "219030",
+            "url": "http://assets.fanart.tv/fanart/music/66c662b6-6e2f-4930-8610-912e24c63ed1/musicbanner/acdc-591b2f5945fb4.jpg",
+            "likes": "0"
+        }
+    ]
+}

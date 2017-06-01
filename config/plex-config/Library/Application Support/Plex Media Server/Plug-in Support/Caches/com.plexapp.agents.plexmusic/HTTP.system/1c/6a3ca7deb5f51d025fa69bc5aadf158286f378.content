@@ -1,0 +1,224 @@
+{
+    "name": "Kenny Chesney",
+    "mbid_id": "5dca4d22-d6c8-4e70-8ca1-4543e43353c7",
+    "artistbackground": [
+        {
+            "id": "83285",
+            "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/artistbackground/chesney-kenny-519fe0e494f4a.jpg",
+            "likes": "2"
+        },
+        {
+            "id": "109097",
+            "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/artistbackground/chesney-kenny-52ca3674a5c57.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "38478",
+            "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/artistbackground/chesney-kenny-4fe3315ccf72a.jpg",
+            "likes": "0"
+        }
+    ],
+    "albums": {
+        "0488e5b0-c76d-3a93-b75b-00494aad9578": {
+            "albumcover": [
+                {
+                    "id": "95829",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/just-who-i-am-poets--pirates-521e58e27bab3.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "79825cd1-b7c7-41e1-9f75-b674406a5517": {
+            "albumcover": [
+                {
+                    "id": "95830",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/pirate-flag-521e5a9818029.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "d2acab03-348c-30c2-8b91-66b59dfa6f70": {
+            "albumcover": [
+                {
+                    "id": "132822",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/in-my-wildest-dreams-53ef931ba6bc1.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "461c5070-f5b9-3d02-ba09-537fa64cd987": {
+            "albumcover": [
+                {
+                    "id": "132826",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/greatest-hits-53ef987319088.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "6a56fa23-f927-4275-8505-164bb06e5214": {
+            "albumcover": [
+                {
+                    "id": "95807",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/hemingways-whiskey-521e29355aaf9.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "14c09438-1c41-3aa8-8ea1-98d36210bdcd": {
+            "albumcover": [
+                {
+                    "id": "95808",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/all-i-want-for-christmas-is-a-real-good-tan-521e2983cb4c2.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "9ba8bed3-ee36-4042-af43-80227da5e599": {
+            "albumcover": [
+                {
+                    "id": "95811",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/greatest-hits-ii-521e2b08d220b.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "5ba96723-cef3-3cc2-9f8e-2597149f7330": {
+            "albumcover": [
+                {
+                    "id": "95812",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/live-live-those-songs-again-521e2c5147f21.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "e7f3e717-057e-3d5a-8ed8-b25acadb33de": {
+            "albumcover": [
+                {
+                    "id": "95814",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/the-road-and-the-radio-521e400a008bc.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "541ba685-7f12-4dfb-8938-4108c11c39ca": {
+            "albumcover": [
+                {
+                    "id": "95816",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/welcome-to-the-fishbowl-521e45898b72f.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "af02d1e5-d9c7-3925-86e5-1e6175411fef": {
+            "albumcover": [
+                {
+                    "id": "95817",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/lucky-old-sun-521e46b041ee1.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "5c9bbe35-42fb-3dc7-bdf4-f1246313fb4d": {
+            "albumcover": [
+                {
+                    "id": "95818",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/no-shoes-no-shirt-no-problems-521e47e3d2dbd.JPG",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7e8c1a6e-b578-3380-b4c4-19ce7fa442f7": {
+            "albumcover": [
+                {
+                    "id": "95821",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/all-i-need-to-know-521e4b6c3d4fc.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "ff789a0e-1582-32b4-9397-4808fb9d4160": {
+            "albumcover": [
+                {
+                    "id": "95822",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/when-the-sun-goes-down-521e4c0f68822.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "d1054c8a-baee-3c87-a8df-e3c1ffa7e9c4": {
+            "albumcover": [
+                {
+                    "id": "95823",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/everywhere-we-go-521e4c62c2e70.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "ddf88aa1-c9b5-3ffe-a63a-59745e3bfbbc": {
+            "albumcover": [
+                {
+                    "id": "95824",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/i-will-stand-521e4d1b448f2.JPG",
+                    "likes": "1"
+                }
+            ]
+        },
+        "85e4ae22-c575-301c-87c9-4602abfbdd5e": {
+            "albumcover": [
+                {
+                    "id": "95825",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/me-and-you-521e4f04c3f29.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "f511bb25-6b86-42c6-971e-28aa87381523": {
+            "albumcover": [
+                {
+                    "id": "96481",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/life-on-a-rock-5223c644b9d67.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "136296",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/cdart/life-on-a-rock-541b60ceafc71.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "547e2c4b-8a58-39da-846d-f9067ccbbe56": {
+            "albumcover": [
+                {
+                    "id": "136294",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/be-as-you-are-541b52256d88f.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "7670de52-1842-4332-9736-fb78059e90da": {
+            "albumcover": [
+                {
+                    "id": "138479",
+                    "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/albumcover/the-big-revival-5438543bad46d.jpg",
+                    "likes": "1"
+                }
+            ]
+        }
+    },
+    "artistthumb": [
+        {
+            "id": "95835",
+            "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/artistthumb/chesney-kenny-521e681d560ca.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "95836",
+            "url": "http://assets.fanart.tv/fanart/music/5dca4d22-d6c8-4e70-8ca1-4543e43353c7/artistthumb/chesney-kenny-521e73973506a.jpg",
+            "likes": "1"
+        }
+    ]
+}

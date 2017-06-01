@@ -1,0 +1,52 @@
+{
+  "data": {
+    "id": 5579744,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 23,
+    "episodeName": "The Line Substitution Solution",
+    "firstAired": "2016-05-05",
+    "guestStars": [
+      "Christine Baranski",
+      "Kevin Sussman"
+    ],
+    "director": "Anthony Rich",
+    "directors": [
+      "Anthony Rich"
+    ],
+    "writers": [
+      "Steve Holland",
+      "Saladin K. Patterson",
+      "Tara Hernandez",
+      "Steven Molaro",
+      "Eric Kaplan",
+      "Maria Ferrari"
+    ],
+    "overview": "Sheldon hires Stuart to spend the day with Amy when he’d rather go to a movie screening. Also, Leonard’s mother, Beverly, comes to town and Penny struggles to make a connection with her.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7223",
+    "showUrl": "",
+    "lastUpdated": 1493594803,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 23,
+    "dvdChapter": null,
+    "absoluteNumber": 206,
+    "filename": "episodes/80379/5579744.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 447818,
+    "thumbAdded": "2016-04-29 04:56:41",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5597960",
+    "siteRating": 7.5,
+    "siteRatingCount": 28
+  }
+}

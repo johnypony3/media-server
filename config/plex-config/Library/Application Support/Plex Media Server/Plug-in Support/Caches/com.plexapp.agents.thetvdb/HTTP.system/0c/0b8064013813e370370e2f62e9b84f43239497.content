@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 5430589,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Pastor Tim",
+    "firstAired": "2016-03-23",
+    "guestStars": [
+      "Alison Wright"
+    ],
+    "director": "|Chris Long|",
+    "directors": [
+      "Chris Long"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Philip tries with increasing desperation to get rid of a sensitive and dangerous package as family tensions in the Jennings House reach a boiling point when Paige shares a secret of her own. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494362411,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5430589.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 429330,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 407166,
+    "thumbAdded": "2016-03-24 09:53:10",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5183578",
+    "siteRating": 7.7,
+    "siteRatingCount": 7
+  }
+}

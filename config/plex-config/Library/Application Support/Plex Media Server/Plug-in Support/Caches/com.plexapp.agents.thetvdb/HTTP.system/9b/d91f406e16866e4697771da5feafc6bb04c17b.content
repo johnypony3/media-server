@@ -1,0 +1,55 @@
+{
+  "data": {
+    "id": 4746711,
+    "airedSeason": 2,
+    "airedSeasonID": 567361,
+    "airedEpisodeNumber": 6,
+    "episodeName": "Behind the Red Door",
+    "firstAired": "2014-04-02",
+    "guestStars": [
+      "Richard Thomas",
+      "Lev Gorn",
+      "Costa Ronin",
+      "Aimee Carrero",
+      "Lee Tergesen",
+      "Nick Bailey",
+      "Wrenn Schmidt",
+      "Danny Flaherty",
+      "Luke Robertson",
+      "Margo Martindale"
+    ],
+    "director": "Charlotte Sieling",
+    "directors": [
+      "Charlotte Sieling"
+    ],
+    "writers": [
+      "Melissa James Gibson"
+    ],
+    "overview": "A dangerous Naval officer becomes the key to Philip and Elizabeth’s mission as well as a potential threat to their family's safety. Lucia, a Sandinista intelligence officer working with the Jennings, is tasked with getting Elizabeth access to Capitol Hill. Stan struggles with the potential costs of protecting Nina. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU206",
+    "showUrl": "",
+    "lastUpdated": 1465047911,
+    "dvdDiscid": "",
+    "dvdSeason": 2,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": 19,
+    "filename": "episodes/261690/4746711.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2014-03-27 22:49:30",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3459866",
+    "siteRating": 7.7,
+    "siteRatingCount": 28
+  }
+}

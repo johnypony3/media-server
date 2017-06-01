@@ -1,0 +1,199 @@
+{
+    "name": "Kendrick Lamar",
+    "mbid_id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+    "albums": {
+        "ceccd668-a928-4041-a3c3-99a5ce880de9": {
+            "albumcover": [
+                {
+                    "id": "57107",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/section80-507f66df94067.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "d9103c72-3807-4378-9ce7-b6f3e8fdd547": {
+            "albumcover": [
+                {
+                    "id": "174619",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/to-pimp-a-butterfly-55cd3cba2ef7a.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "158362",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/to-pimp-a-butterfly-552646d3ebbe4.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "179808",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/cdart/to-pimp-a-butterfly-56090f778dd7c.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "499c19c8-0dab-4824-884b-6191d145e95b": {
+            "albumcover": [
+                {
+                    "id": "175561",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/good-kid-maad-city-55d645e982c7b.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "57106",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/good-kid-maad-city-507f66df92d44.jpg",
+                    "likes": "1"
+                },
+                {
+                    "id": "57138",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/good-kid-maad-city-507fb0b9a1293.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "61327",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/cdart/good-kid-maad-city-50a1c56aedba4.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "4e44335c-3f2b-4874-a6c3-71b5e65f75d5": {
+            "albumcover": [
+                {
+                    "id": "195610",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/untitled-unmastered-573934d7ca318.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "194427",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/untitled-unmastered-571ab709c59d2.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "f6271826-9571-4a34-a0bc-ce37d711a9ed": {
+            "albumcover": [
+                {
+                    "id": "196778",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/the-blacker-the-berry-5755605d3e9f0.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "11b714d1-9a96-431e-ae54-13275dba70b3": {
+            "albumcover": [
+                {
+                    "id": "149333",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/i-54c8dddc29a2d.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "3d6b9a8d-0c8a-44f2-9519-42dbf6143fa0": {
+            "albumcover": [
+                {
+                    "id": "195606",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/3-minutes-of-watts-573934d7c7153.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "954426fb-0d24-43ca-8772-b0e73809eec4": {
+            "albumcover": [
+                {
+                    "id": "195609",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/untitled-07-l-levitate-573934d7c9b11.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "b88655ba-7469-48b8-a296-b9011ab73ef3": {
+            "albumcover": [
+                {
+                    "id": "217592",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/damn-5902c43fb3c10.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "6985c51b-7c0c-4339-8001-0cad8114aa58": {
+            "albumcover": [
+                {
+                    "id": "216983",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/humble-58f8276c042af.jpg",
+                    "likes": "0"
+                }
+            ]
+        },
+        "601dedeb-e8c3-456e-94bf-70234a242003": {
+            "albumcover": [
+                {
+                    "id": "217691",
+                    "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/albumcover/the-heart-part-4-59054b6c76c5b.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "39587",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-4fe945867be54.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "51946",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-5053b0b9f12b9.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "56804",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-507cdc1e1c76b.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "99312",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-5244e98857434.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "156213",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-550c7f0217e7b.JPG",
+            "likes": "1"
+        },
+        {
+            "id": "177489",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-55ea58d493d16.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "177490",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistbackground/lamar-kendrick-55ea58f96cb02.jpg",
+            "likes": "1"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "126011",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistthumb/lamar-kendrick-538e441607c02.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "56805",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/artistthumb/lamar-kendrick-507cdc7e1687b.jpg",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "61524",
+            "url": "http://assets.fanart.tv/fanart/music/381086ea-f511-4aba-bdf9-71c753dc5077/hdmusiclogo/lamar-kendrick-50a41c10eeab7.png",
+            "likes": "0"
+        }
+    ]
+}

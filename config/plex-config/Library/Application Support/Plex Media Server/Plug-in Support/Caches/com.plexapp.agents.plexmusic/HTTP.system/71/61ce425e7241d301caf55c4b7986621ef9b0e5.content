@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05F69FF31F8736EC?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/3EF2/6776/5B73/5BD1_xlarge_front.jpg?cid=4563968" parentTitle="Muse" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/B6F3/E936/4A3E/8788_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Warner Bros." type="album" title="Drones" summary="" index="1" ratingCount="0" year="2015" leafCount="0" viewedLeafCount="0">
+<Genre tag="Alternative" />
+<Genre tag="Alt-Rock" />
+<Genre tag="General Alternative Rock" />
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955118-1547B38A6DDD36DC1D90E7965DF785F1?lang=en" type="track" title="Dead Inside" summary="" index="1" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955119-CDE4F5D32F0871F29EFA7A27B501403A?lang=en" type="track" title="[Drill Sergeant]" summary="" index="2" ratingCount="0">
+<Mood tag="Other" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955120-514719BE361E77C5D1671DBD760A202E?lang=en" type="track" title="Psycho" summary="" index="3" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955117-FEC6DBD1F630AC22936A0FC708DBC448?lang=en" type="track" title="Mercy" summary="" index="4" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955121-44F5A2C14840156A8BBFB5613067EB02?lang=en" type="track" title="Reapers" summary="" index="5" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955122-394F469A4145DC2199BF0C0F80D584EE?lang=en" type="track" title="The Handler" summary="" index="6" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955123-E702D044EF8D2E8D4DE673460C3C06B1?lang=en" type="track" title="[JFK]" summary="" index="7" ratingCount="0">
+<Mood tag="Cheerful" />
+<Mood tag="Playful" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955124-F4D7AF199D225B078AC1E76B97840091?lang=en" type="track" title="Defector" summary="" index="8" ratingCount="0">
+<Mood tag="Aggressive Power" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955125-024A83D25C97591A35319F26C9C3CBD7?lang=en" type="track" title="Revolt" summary="" index="9" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955126-4A3A20C667FA230DE757334A43A4C8F6?lang=en" type="track" title="Aftermath" summary="" index="10" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955127-06B95407B716B3485C5E47FF2BE32D66?lang=en" type="track" title="The Globalist" summary="" index="11" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/528955116-F69FF304055C2C06A804279FC3F02D82/528955128-3A382F4DE20029ECA7908173A3CA2515?lang=en" type="track" title="Drones" summary="" index="12" ratingCount="0">
+<Mood tag="Dramatic" />
+<Mood tag="Romantic" />
+</Track>
+</Directory>
+</MediaContainer>

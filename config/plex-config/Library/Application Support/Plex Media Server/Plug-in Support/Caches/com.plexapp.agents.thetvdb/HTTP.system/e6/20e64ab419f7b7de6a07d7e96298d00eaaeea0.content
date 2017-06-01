@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 6051446,
+    "airedSeason": 1,
+    "airedSeasonID": 692363,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Birth Day",
+    "firstAired": "2017-04-26",
+    "guestStars": [],
+    "director": "Reed Morano",
+    "directors": [
+      "Reed Morano"
+    ],
+    "writers": [
+      "Bruce Miller"
+    ],
+    "overview": "Offred and her fellow Handmaids assist with the delivery of Janine’s baby, prompting Offred to recall her own daughter’s birth. Offred draws closer to Ofglen while dreading a secret meeting with the Commander. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494299732,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 2,
+    "filename": "episodes/321239/6051446.jpg",
+    "seriesId": 321239,
+    "lastUpdatedBy": 478343,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-04-21 11:46:49",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5931648",
+    "siteRating": 8.7,
+    "siteRatingCount": 3
+  }
+}

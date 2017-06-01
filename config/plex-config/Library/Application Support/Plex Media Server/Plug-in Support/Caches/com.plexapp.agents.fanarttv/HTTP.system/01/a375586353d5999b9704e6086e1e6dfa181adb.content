@@ -1,0 +1,206 @@
+{
+    "name": "Otis Redding",
+    "mbid_id": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+    "albums": {
+        "dbf9393e-6d37-3d09-8d15-463e869abd48": {
+            "albumcover": [
+                {
+                    "id": "168417",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-dock-of-the-bay-5593adb019fe3.jpg",
+                    "likes": "3"
+                },
+                {
+                    "id": "168415",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-dock-of-the-bay-5593ad5a9d265.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "094d1198-a06e-3264-93be-e6e713341a4f": {
+            "albumcover": [
+                {
+                    "id": "7104",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-definitive-collection-the-dock-of-the-bay-4e15b54810ab6.jpg",
+                    "likes": "2"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "208946",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/cdart/the-definitive-collection-the-dock-of-the-bay-58586b521eab1.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "2c8fd4f3-1523-3604-97dd-18ba222e2f3b": {
+            "albumcover": [
+                {
+                    "id": "96435",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/otis-blue-otis-redding-sings-soul-52239682e342d.jpg",
+                    "likes": "2"
+                },
+                {
+                    "id": "60686",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/otis-blue-otis-redding-sings-soul-509a6b8beb4ea.jpg",
+                    "likes": "1"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "60691",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/cdart/otis-blue-otis-redding-sings-soul-509a79edf25be.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000"
+                }
+            ]
+        },
+        "833d6e15-6d36-4545-81d3-be7081d9dd44": {
+            "albumcover": [
+                {
+                    "id": "102750",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/live-on-the-sunset-strip-526e8192aca0a.JPG",
+                    "likes": "2"
+                }
+            ]
+        },
+        "4a748cdc-c1b3-40f8-9597-54322c2500a8": {
+            "albumcover": [
+                {
+                    "id": "170999",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-king-of-soul-55ad63326ef18.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "b7998522-2870-3116-a1d4-307832e55df7": {
+            "albumcover": [
+                {
+                    "id": "179877",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/pain-in-my-heart-5609d48ccf6f5.jpg",
+                    "likes": "2"
+                }
+            ]
+        },
+        "832b69dd-bfd8-4e93-ae0f-55b437beae34": {
+            "albumcover": [
+                {
+                    "id": "153709",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/original-album-series-volume-2-54f0f5b51eae9.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "fdb2005c-78ac-38c8-951d-696e44b6e29c": {
+            "albumcover": [
+                {
+                    "id": "168416",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-soul-album-5593ad5a9e4ba.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "0373476c-4dc3-454d-96e3-783c5d6bd360": {
+            "albumcover": [
+                {
+                    "id": "169887",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-very-best-of-aretha-franklin--otis-redding-together-55a473ceafaa6.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "b92d8a29-c7ee-3849-8adf-487fc1f97684": {
+            "albumcover": [
+                {
+                    "id": "171000",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-very-best-of-otis-redding-55ad633270849.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "31330889-a8cf-3467-ba1d-955e6e0ac4e1": {
+            "albumcover": [
+                {
+                    "id": "213534",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/king--queen-58b23968c9919.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "0b453129-4ad4-30be-811b-6672710820c2": {
+            "albumcover": [
+                {
+                    "id": "213535",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/live-in-london--paris-58b23a020eec9.jpg",
+                    "likes": "1"
+                }
+            ]
+        },
+        "4755338f-280c-37fc-85f8-76c922aef89f": {
+            "albumcover": [
+                {
+                    "id": "190367",
+                    "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/albumcover/the-very-best-of-otis-redding-56d0a572c5d94.jpg",
+                    "likes": "0"
+                }
+            ]
+        }
+    },
+    "artistbackground": [
+        {
+            "id": "7103",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/artistbackground/otis-redding-4e15b3f0581e6.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "7102",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/artistbackground/otis-redding-4e15b3d11a7a0.jpg",
+            "likes": "0"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "78212",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/artistthumb/redding-otis-5162b26e0ab23.jpg",
+            "likes": "1"
+        },
+        {
+            "id": "84381",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/artistthumb/redding-otis-51ae32ad697ec.jpg",
+            "likes": "1"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "10552",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/musiclogo/otis-redding-4e6a1cb601d98.png",
+            "likes": "0"
+        },
+        {
+            "id": "36798",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/musiclogo/redding-otis-4fdaffd4b528c.png",
+            "likes": "0"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "181243",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/hdmusiclogo/redding-otis-561ab11f30c2f.png",
+            "likes": "0"
+        },
+        {
+            "id": "208893",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/hdmusiclogo/redding-otis-585700b1c950d.png",
+            "likes": "0"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "206510",
+            "url": "http://assets.fanart.tv/fanart/music/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751/musicbanner/redding-otis-58246e98874d7.jpg",
+            "likes": "0"
+        }
+    ]
+}

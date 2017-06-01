@@ -1,0 +1,40 @@
+{
+  "data": {
+    "id": 6030279,
+    "airedSeason": 8,
+    "airedSeasonID": 695974,
+    "airedEpisodeNumber": 5,
+    "episodeName": "Archer Dreamland: Sleepers Wake",
+    "firstAired": "2017-05-03",
+    "guestStars": [],
+    "director": "",
+    "directors": [],
+    "writers": [],
+    "overview": "Dutch becomes a new man while Archer's ransom exchange goes up in smoke.\r\n",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1493672138,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/6030279.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 435638,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 402083,
+    "thumbAdded": "2017-04-22 00:11:04",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6745212",
+    "siteRating": 6.3,
+    "siteRatingCount": 3
+  }
+}

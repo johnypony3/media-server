@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 5748837,
+    "airedSeason": 1,
+    "airedSeasonID": 668343,
+    "airedEpisodeNumber": 4,
+    "episodeName": "Dissonance Theory",
+    "firstAired": "2016-10-23",
+    "guestStars": [
+      "Chris Browning",
+      "Demetrius Grosse",
+      "James Landry Hébert",
+      "Sherman Augustus"
+    ],
+    "director": "Vincenzo Natali",
+    "directors": [
+      "Vincenzo Natali"
+    ],
+    "writers": [
+      "Ed Brubaker",
+      "Jonathan Nolan"
+    ],
+    "overview": "Dolores joins William and Logan on a bounty hunt in the badlands. The Man in Black, with Lawrence in tow, finds a critical clue in his search to unlock the maze. Dr. Ford and Theresa discuss the future of the park. Maeve is troubled by a recurring vision.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1483887203,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 4,
+    "dvdChapter": null,
+    "absoluteNumber": 4,
+    "filename": "episodes/296762/5748837.jpg",
+    "seriesId": 296762,
+    "lastUpdatedBy": 235,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 439540,
+    "thumbAdded": "2016-10-17 10:09:47",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4625862",
+    "siteRating": 7.8,
+    "siteRatingCount": 45
+  }
+}

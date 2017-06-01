@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05DED80D1A0152D2?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/3F48/1ED6/03BC/0202_xlarge_front.jpg?cid=4563968" parentTitle="Bastille" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/01AD/5019/C710/B44F_xlarge_front.jpg?cid=4563968" totalInSet="2" studio="Virgin Records Ltd." type="album" title="All This Bad Blood" summary="" index="2" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Pop" />
+<Genre tag="General Indie Pop" />
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294355-D787E17692DC91199992F73308FAD7D6?lang=en" type="track" title="Poet" summary="" index="1" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294356-51940D93825AA8139D0BC45DB323F3C0?lang=en" type="track" title="The Silence" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294357-932C4C5BD9D39116525E66B0F096765D?lang=en" type="track" title="Haunt (Demo)" summary="" index="3" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294358-B694F292A8FAE6B699BEFC15CC1F95D5?lang=en" type="track" title="Weight Of Living, Pt. I" summary="" index="4" ratingCount="0">
+<Mood tag="Sweet" />
+<Mood tag="Sincere" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294359-C6462F20BDADA443E325BB47E28CC3A8?lang=en" type="track" title="Sleepsong" summary="" index="5" ratingCount="0">
+<Mood tag="Edgy" />
+<Mood tag="Sexy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294360-0FEBBCB2921C51BDD58D015C6067E702?lang=en" type="track" title="Durban Skies" summary="" index="6" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294361-10A937B3865DEBED3CF6D9E7635CBB78?lang=en" type="track" title="Laughter Lines" summary="" index="7" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294362-C3C3EF4D200936E4A785EFEFF301FC6F?lang=en" type="track" title="Previously On Other People&#39;s Heartache..." summary="" index="8" ratingCount="0">
+<Mood tag="Jubilant" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294363-DA332EFA8267CBCC8CB33D3A5064DAB8?lang=en" type="track" title="Of The Night" summary="" index="9" ratingCount="0">
+<Mood tag="Dark Pop" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294364-72A4C8596CE121675FB79A4F0353D547?lang=en" type="track" title="The Draw" summary="" index="10" ratingCount="0">
+<Mood tag="Enigmatic" />
+<Mood tag="Mysterious" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294365-1677003F73D02AE0580DD904784B0DAA?lang=en" type="track" title="What Would You Do" summary="" index="11" ratingCount="0">
+<Mood tag="Passionate Rhythm" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294366-6B2DC29953D19E69648CB5223207977A?lang=en" type="track" title="Skulls" summary="" index="12" ratingCount="0">
+<Mood tag="Attitude" />
+<Mood tag="Defiant" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294367-97B2A58745A71F5D89A7F9014231B4BA?lang=en" type="track" title="Tuning Out..." summary="" index="13" ratingCount="0">
+<Mood tag="Evocative" />
+<Mood tag="Intriguing" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294368-7FD03039F7A25C73F3EA252136878EE0?lang=en" type="track" title="Laura Palmer (Abbey Road Sessions)" summary="" index="14" ratingCount="0">
+<Mood tag="Heartfelt Passion" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294369-A0317F85997058D3373F95A4DAB3F82F?lang=en" type="track" title="Things We Lost In The Fire (Abbey Road Sessions)" summary="" index="15" ratingCount="0">
+<Mood tag="Dramatic" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294370-BE73BDD365D9481648B27FCF739447F7?lang=en" type="track" title="Oblivion (Live From Capitol Studios)" summary="" index="16" ratingCount="0">
+<Mood tag="Dramatic" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294371-14AC8A0D2E646533D49C5D5457AF7E46?lang=en" type="track" title="Pompeii (Live From Capitol Studios)" summary="" index="17" ratingCount="0">
+<Mood tag="Heartfelt Passion" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/436294354-DED80D97503E24022F62DB01BE02F95E/436294372-3CCAC985BA34F830955C25E636438437?lang=en" type="track" title="Bad Blood (Live Piano Version)" summary="" index="18" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+</Directory>
+</MediaContainer>

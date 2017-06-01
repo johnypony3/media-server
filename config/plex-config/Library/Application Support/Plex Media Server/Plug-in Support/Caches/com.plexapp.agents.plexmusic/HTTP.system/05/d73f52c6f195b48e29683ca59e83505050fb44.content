@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="Iceland" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/052DB5C40FA55FB6?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/8FBA/6ECF/2BE8/95F9_xlarge_front.jpg?cid=4563968" parentTitle="Of Monsters And Men" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/295B/8D8E/4418/C7D2_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Republic" type="album" title="My Head Is An Animal" summary="" index="1" ratingCount="0" year="2012" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Alternative Folk" />
+<Genre tag="Alternative Folk" />
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496183-9011732896AC851C8E98ED1FF1EB394D?lang=en" type="track" title="Dirty Paws" summary="" index="1" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496184-67B3B2BCF98D69958A81FF1AC1B2A19E?lang=en" type="track" title="King And Lionheart" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496185-1C7723DC259A51A50D2C17FFD2D7B7C3?lang=en" type="track" title="Mountain Sound" summary="" index="3" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496186-7E1C636A0EA0AD6021E0B138DAF39BFC?lang=en" type="track" title="Slow And Steady" summary="" index="4" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496187-26882FAB2C09C0586A7868485AEF96B8?lang=en" type="track" title="From Finner" summary="" index="5" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496188-E4D1C00EB63C32D510BCA4C6A73AACE1?lang=en" type="track" title="Little Talks" summary="" index="6" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496189-621EDE9E12B3B60180E878D5984453F6?lang=en" type="track" title="Six Weeks" summary="" index="7" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496190-8C9090377874E5C4BA022A17982C38E0?lang=en" type="track" title="Love Love Love" summary="" index="8" ratingCount="0">
+<Mood tag="Light Melancholy" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496191-0C3B1C53AB331A763F99B610C564C8D5?lang=en" type="track" title="Your Bones" summary="" index="9" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496192-C3B6114EA3099E9F9B284F7738343517?lang=en" type="track" title="Sloom" summary="" index="10" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496193-4C0AC2298E094D6E2BAA4EE02BD543AD?lang=en" type="track" title="Lakehouse" summary="" index="11" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/262496182-2DB5C462B019A012DB797231C1ABC66C/262496194-3A9D0F47C24BDCAFCA48BCB1CE2FE150?lang=en" type="track" title="Yellow Light" summary="" index="12" ratingCount="0">
+<Mood tag="Dreamy Brooding" />
+</Track>
+</Directory>
+</MediaContainer>

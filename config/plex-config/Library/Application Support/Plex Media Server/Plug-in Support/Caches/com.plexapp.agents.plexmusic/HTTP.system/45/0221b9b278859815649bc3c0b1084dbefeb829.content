@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="Australia" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/0517B7A3006FAC40?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/93C2/28D7/2C7D/B97D_xlarge_front.jpg?cid=4563968" parentTitle="AC/DC" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FCBA/FCB8/A360/ACE4_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Albert/Atlantic" type="album" title="Back In Black" summary="" index="1" ratingCount="0" year="1980" leafCount="0" viewedLeafCount="0">
+<Genre tag="Rock" />
+<Genre tag="Hard Rock" />
+<Genre tag="Classic Hard Rock" />
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318593-0AACBCC84BD2C1EF5091AA04D640D961?lang=en" type="track" title="Hells Bells" summary="" index="1" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318594-101F0C3B7086BB58A7B2FBC2C3DFBC9F?lang=en" type="track" title="Shoot To Thrill" summary="" index="2" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318595-55E05F2249C042659EFF863822F73C85?lang=en" type="track" title="What Do You Do For Money Honey" summary="" index="3" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318596-D67E35D1E24F0F8832CB366AF468F355?lang=en" type="track" title="Given The Dog A Bone" summary="" index="4" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318597-FA52720103F8EE0C312777F71E145387?lang=en" type="track" title="Let Me Put My Love Into You" summary="" index="5" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318598-56C048C8A9456605265ED8E47FBAF96A?lang=en" type="track" title="Back In Black" summary="" index="6" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318599-C56E5ADD1E0FB55C7235D13821A8ABE7?lang=en" type="track" title="You Shook Me All Night Long" summary="" index="7" ratingCount="0">
+<Mood tag="Happy Excitement" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318600-741AEC781FC8101A9EFF9364582AFBB0?lang=en" type="track" title="Have A Drink On Me" summary="" index="8" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318601-6AF91BDB229103B1E4C0E6B19B538FBA?lang=en" type="track" title="Shake A Leg" summary="" index="9" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/7318592-17B7A39C6BA373E8FB329C3D964F8A8D/7318602-F806ED661E8427510F71268580ECD1D3?lang=en" type="track" title="Rock And Roll Ain&#39;t Noise Pollution" summary="" index="10" ratingCount="0">
+<Mood tag="Confident" />
+<Mood tag="Tough" />
+</Track>
+</Directory>
+</MediaContainer>

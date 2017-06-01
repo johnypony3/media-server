@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05AE9E000E1CEDE1?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/0415/CC1F/4E28/C8DA_xlarge_front.jpg?cid=4563968" parentTitle="The Strokes" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/42D5/E418/0188/73C9_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="RCA" type="album" title="Angles" summary="" index="1" ratingCount="0" year="2011" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Garage Rock Revival" />
+<Genre tag="Garage Rock Revival" />
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776930-DC7325B5F5B63B74B6DBB84802A1897E?lang=en" type="track" title="Machu Picchu" summary="" index="1" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776931-34416EEF189E6ACB3A36CA9FCD423F82?lang=en" type="track" title="Under Cover Of Darkness" summary="" index="2" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776932-E65471D2ED2089F03984CABAFA536142?lang=en" type="track" title="Two Kinds Of Happiness" summary="" index="3" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776933-78C667C4B6E8493E034039B093743280?lang=en" type="track" title="You&#39;re So Right" summary="" index="4" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776934-9B519B0C7994018AD5887846AEE9C673?lang=en" type="track" title="Taken For A Fool" summary="" index="5" ratingCount="0">
+<Mood tag="Energetic Anxious" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776935-5E396D1D778B54B5C0D7C8D4F5526FFE?lang=en" type="track" title="Games" summary="" index="6" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776936-421001BFA7FA0046179E37373FC69AD1?lang=en" type="track" title="Call Me Back" summary="" index="7" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776937-1334F8D2A8A94A3D9812221B5C2D1E6A?lang=en" type="track" title="Gratisfaction" summary="" index="8" ratingCount="0">
+<Mood tag="Dark Pop Intensity" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776938-8995C1849D1091BF17E9304B401E6954?lang=en" type="track" title="Metabolism" summary="" index="9" ratingCount="0">
+<Mood tag="Hard Dark Excitement" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/236776929-AE9E00717A80660675096D5A9E6DB6E6/236776939-091A52FCBBF2EEF85263590D3B2E227E?lang=en" type="track" title="Life Is Simple In The Moonlight" summary="" index="10" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+</Directory>
+</MediaContainer>

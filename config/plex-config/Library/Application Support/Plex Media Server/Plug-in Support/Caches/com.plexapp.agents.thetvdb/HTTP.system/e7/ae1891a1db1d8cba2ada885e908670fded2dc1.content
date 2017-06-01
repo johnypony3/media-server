@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 5824993,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Pests",
+    "firstAired": "2017-03-14",
+    "guestStars": [],
+    "director": "Chris Long",
+    "directors": [
+      "Chris Long"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Stan and Oleg wrestle with the harsh consequences of their complicated history. Philip and Elizabeth face a new mission with devastating implications for their country.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU502",
+    "showUrl": "",
+    "lastUpdated": 1494727622,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5824993.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 390926,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 438962,
+    "thumbAdded": "2017-03-14 20:49:01",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6261578",
+    "siteRating": 8.4,
+    "siteRatingCount": 5
+  }
+}

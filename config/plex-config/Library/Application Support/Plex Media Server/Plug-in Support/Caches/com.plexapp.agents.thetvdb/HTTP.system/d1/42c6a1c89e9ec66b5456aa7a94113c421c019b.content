@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5925301,
+    "airedSeason": 5,
+    "airedSeasonID": 687164,
+    "airedEpisodeNumber": 7,
+    "episodeName": "The Committee on Human Rights",
+    "firstAired": "2017-04-18",
+    "guestStars": [],
+    "director": "Matthew Rhys",
+    "directors": [
+      "Matthew Rhys"
+    ],
+    "writers": [
+      "Hilary Bettis"
+    ],
+    "overview": "As Paige becomes even more enmeshed in her parents’ world, tensions with Matthew Beeman come to a head, Philip and Elizabeth’s honeytraps take surprising turns, and Stan faces the consequences of overplaying his hand at the FBI. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU507",
+    "showUrl": "",
+    "lastUpdated": 1495010632,
+    "dvdDiscid": "",
+    "dvdSeason": 5,
+    "dvdEpisodeNumber": 7,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5925301.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 479317,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2017-04-17 05:32:06",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6263000",
+    "siteRating": 8.8,
+    "siteRatingCount": 5
+  }
+}

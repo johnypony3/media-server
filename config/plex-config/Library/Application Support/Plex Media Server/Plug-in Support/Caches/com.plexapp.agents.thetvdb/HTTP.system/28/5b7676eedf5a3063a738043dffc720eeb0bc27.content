@@ -1,0 +1,55 @@
+{
+  "data": {
+    "id": 5106955,
+    "airedSeason": 10,
+    "airedSeasonID": 604055,
+    "airedEpisodeNumber": 6,
+    "episodeName": "The Gang Misses the Boat",
+    "firstAired": "2015-02-18",
+    "guestStars": [
+      "Andrew Leeds",
+      "Allison Munn",
+      "D'Anthony Palms",
+      "Brady Smith",
+      "Maria Zyrianova",
+      "Kasey Dailey",
+      "David Douglas",
+      "Travis Guba"
+    ],
+    "director": "Richie Keen",
+    "directors": [
+      "Richie Keen"
+    ],
+    "writers": [
+      "Charlie Day",
+      "Glenn Howerton",
+      "Rob McElhenney"
+    ],
+    "overview": "After another failed venture, the Gang wonders if their group dynamic is bringing them down as individuals, causing them to separate from one another and find out who they really are.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491644076,
+    "dvdDiscid": "",
+    "dvdSeason": 10,
+    "dvdEpisodeNumber": 6,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/75805/5106955.jpg",
+    "seriesId": 75805,
+    "lastUpdatedBy": 390213,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2015-02-27 06:19:25",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3878568",
+    "siteRating": 8.2,
+    "siteRatingCount": 12
+  }
+}

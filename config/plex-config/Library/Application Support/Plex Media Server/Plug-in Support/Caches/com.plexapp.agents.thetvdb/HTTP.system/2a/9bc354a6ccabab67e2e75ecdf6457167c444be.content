@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": 5605522,
+    "airedSeason": 7,
+    "airedSeasonID": 652814,
+    "airedEpisodeNumber": 9,
+    "episodeName": "Deadly Velvet: Part I",
+    "firstAired": "2016-05-26",
+    "guestStars": [
+      "Keegan-Michael Key",
+      "John O'Hurley",
+      "Patton Oswalt",
+      "J.K. Simmons"
+    ],
+    "director": "",
+    "directors": [],
+    "writers": [
+      "Adam Reed"
+    ],
+    "overview": "Archer and the gang are hired by renowned director, Ellis Crane, to investigate suspicious activity on the set of his new movie, Deadly Velvet. ",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "XAR07009",
+    "showUrl": "",
+    "lastUpdated": 1492386035,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/110381/5605522.jpg",
+    "seriesId": 110381,
+    "lastUpdatedBy": 469668,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 345634,
+    "thumbAdded": "2016-05-26 23:12:59",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4537954",
+    "siteRating": 8.2,
+    "siteRatingCount": 6
+  }
+}

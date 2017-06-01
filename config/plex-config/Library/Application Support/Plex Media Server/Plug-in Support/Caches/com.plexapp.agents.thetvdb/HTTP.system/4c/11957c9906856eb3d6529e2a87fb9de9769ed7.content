@@ -1,0 +1,50 @@
+{
+  "data": {
+    "id": 5464840,
+    "airedSeason": 4,
+    "airedSeasonID": 647085,
+    "airedEpisodeNumber": 5,
+    "episodeName": "Clark's Place",
+    "firstAired": "2016-04-13",
+    "guestStars": [
+      "Suzy Jane Hunt",
+      "Polly Lee",
+      "Frank Langella",
+      "Irina Abraham",
+      "Ronald Reagan"
+    ],
+    "director": "|Noah Emmerich|",
+    "directors": [
+      "Noah Emmerich"
+    ],
+    "writers": [
+      "Peter Ackerman"
+    ],
+    "overview": "Philip must consider his life with Martha and make a crushing choice from which there is no coming back.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1482062040,
+    "dvdDiscid": "",
+    "dvdSeason": 4,
+    "dvdEpisodeNumber": 5,
+    "dvdChapter": null,
+    "absoluteNumber": null,
+    "filename": "episodes/261690/5464840.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 382038,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 368086,
+    "thumbAdded": "2016-04-14 04:36:14",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5253620",
+    "siteRating": 7.6,
+    "siteRatingCount": 8
+  }
+}

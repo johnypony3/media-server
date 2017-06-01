@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5579002,
+    "airedSeason": 6,
+    "airedSeasonID": 651357,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Home",
+    "firstAired": "2016-05-01",
+    "guestStars": [],
+    "director": "Jeremy Podeswa",
+    "directors": [
+      "Jeremy Podeswa"
+    ],
+    "writers": [
+      "Dave Hill"
+    ],
+    "overview": "Bran trains with the Three-Eyed Raven. In King’s Landing, Jaime advises Tommen. Tyrion demands good news, but has to make his own. At Castle Black, the Night’s Watch stands behind Thorne. Ramsay Bolton  proposes a plan, and Balon Greyjoy entertains other proposals.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491003565,
+    "dvdDiscid": "",
+    "dvdSeason": 6,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": 52,
+    "filename": "episodes/121361/5579002.jpg",
+    "seriesId": 121361,
+    "lastUpdatedBy": 410201,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 235,
+    "thumbAdded": "2016-06-06 10:04:13",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4077554",
+    "siteRating": 8.1,
+    "siteRatingCount": 72
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "id": 1094214,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.4,
+        "count": 9
+      },
+      "thumbnail": "_cache/graphical/296762-g.jpg"
+    },
+    {
+      "id": 1156511,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g2.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.6,
+        "count": 10
+      },
+      "thumbnail": "_cache/graphical/296762-g2.jpg"
+    },
+    {
+      "id": 1157060,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g3.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6.6,
+        "count": 14
+      },
+      "thumbnail": "_cache/graphical/296762-g3.jpg"
+    },
+    {
+      "id": 1163952,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g5.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6,
+        "count": 6
+      },
+      "thumbnail": "_cache/graphical/296762-g5.jpg"
+    },
+    {
+      "id": 1163953,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g6.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.3,
+        "count": 3
+      },
+      "thumbnail": "_cache/graphical/296762-g6.jpg"
+    },
+    {
+      "id": 1163954,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g7.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/graphical/296762-g7.jpg"
+    },
+    {
+      "id": 1166259,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g4.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 5.7,
+        "count": 3
+      },
+      "thumbnail": "_cache/graphical/296762-g4.jpg"
+    },
+    {
+      "id": 1166260,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g8.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 3.5,
+        "count": 2
+      },
+      "thumbnail": "_cache/graphical/296762-g8.jpg"
+    },
+    {
+      "id": 1169039,
+      "keyType": "series",
+      "subKey": "graphical",
+      "fileName": "graphical/296762-g9.jpg",
+      "resolution": "",
+      "ratingsInfo": {
+        "average": 6,
+        "count": 1
+      },
+      "thumbnail": "_cache/graphical/296762-g9.jpg"
+    }
+  ],
+  "errors": {
+    "invalidQueryParams": [
+      "lang"
+    ]
+  }
+}

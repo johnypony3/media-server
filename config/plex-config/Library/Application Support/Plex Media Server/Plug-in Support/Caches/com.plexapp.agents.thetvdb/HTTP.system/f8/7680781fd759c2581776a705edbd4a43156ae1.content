@@ -1,0 +1,42 @@
+{
+  "data": {
+    "id": 5624261,
+    "airedSeason": 6,
+    "airedSeasonID": 651357,
+    "airedEpisodeNumber": 10,
+    "episodeName": "The Winds of Winter",
+    "firstAired": "2016-06-26",
+    "guestStars": [],
+    "director": "Miguel Sapochnik",
+    "directors": [
+      "Miguel Sapochnik"
+    ],
+    "writers": [],
+    "overview": "Cercei and Loras are about to face their trial. In Winterfell Davos confronts Melisandre. Bran has another glimpse into the past. Daenery makes a decicion before leaving Mereen. \r\n\r\nAnd winter has come.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1491003619,
+    "dvdDiscid": "",
+    "dvdSeason": 6,
+    "dvdEpisodeNumber": 10,
+    "dvdChapter": null,
+    "absoluteNumber": 60,
+    "filename": "episodes/121361/5624261.jpg",
+    "seriesId": 121361,
+    "lastUpdatedBy": 410201,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 369062,
+    "thumbAdded": "2016-06-19 22:20:42",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt4283094",
+    "siteRating": 8.9,
+    "siteRatingCount": 76
+  }
+}

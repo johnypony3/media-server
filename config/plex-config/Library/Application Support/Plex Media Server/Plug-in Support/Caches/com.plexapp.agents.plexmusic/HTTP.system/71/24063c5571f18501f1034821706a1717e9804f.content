@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05CA28941A52B43C?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/A919/4284/DFA8/9D59_xlarge_front.jpg?cid=4563968" parentTitle="Tim McGraw" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/8B23/24B4/A01F/C2D1_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Big Machine" type="album" title="Sundown Heaven Town [Deluxe Edition]" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Country &amp; Western" />
+<Genre tag="Contemporary Country" />
+<Genre tag="General Contemporary Country" />
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627709-F9D88AB4D3A7B171C39965584DCDC542?lang=en" type="track" title="Overrated" summary="" index="1" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="150" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627710-4AE9762F3C9E83F52BFBF241218E56FB?lang=en" type="track" title="City Lights" summary="" index="2" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627711-EB4558A1AE868E464E60DAF3263BBA5C?lang=en" type="track" title="Shotgun Rider" summary="" index="3" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627712-8A7FF5365B293EC82B912AA114D22531?lang=en" type="track" title="Dust" summary="" index="4" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="Tim McGraw Feat. Catherine Dunn" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627713-F44C82201AE6656A9617482466864AAF?lang=en" type="track" title="Diamond Rings And Old Barstools" summary="" index="5" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627726-448E2F4F4CE03C0D96AF261F6E4D9EEB?lang=en" type="track" title="Words Are Medicine" summary="" index="6" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627714-B2FB2345D1339A552DE7CE62A8D31A30?lang=en" type="track" title="Sick Of Me" summary="" index="7" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="Tim McGraw &amp; Faith Hill" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627715-2FD48C821B63C3BFFE5C28C55E836ECE?lang=en" type="track" title="Meanwhile Back At Mama&#39;s" summary="" index="8" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627716-A3F6B562034543B8A6DF0EA501E01965?lang=en" type="track" title="Keep On Truckin&#39;" summary="" index="9" ratingCount="0">
+<Mood tag="Sensitive" />
+<Mood tag="Exploring" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627717-0C69430020D1F9C64420C1FB07135DA7?lang=en" type="track" title="Last Turn Home" summary="" index="10" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627718-3D8AAE13F1D0169D8D0ADDD1F6EE9B3A?lang=en" type="track" title="Portland, Maine" summary="" index="11" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627719-4D6C05250F95DAFBBE3013CBFDCE8C9B?lang=en" type="track" title="Lookin&#39; For That Girl" summary="" index="12" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627720-F8B947D1CCDCB4A3D1571D1330B5F304?lang=en" type="track" title="Still On The Line" summary="" index="13" ratingCount="0">
+<Mood tag="Strong" />
+<Mood tag="Stable" />
+</Track>
+<Track artist="Tim McGraw Feat. Kid Rock" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627721-1AE045E6085B85B4140E25C4BC6A770F?lang=en" type="track" title="Lincoln Continentals And Cadillacs" summary="" index="14" ratingCount="0">
+<Mood tag="Ramshackle" />
+<Mood tag="Rollicking" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627722-7708304FF7C34ABD50777962579F7DB2?lang=en" type="track" title="Kids Today" summary="" index="15" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627723-4EB65BE8AA8EB5B3FD2820C6B415944B?lang=en" type="track" title="I&#39;m Feelin&#39; You" summary="" index="16" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627724-1386B464AC9C44901C2F9A389B86A271?lang=en" type="track" title="The View" summary="" index="17" ratingCount="0">
+<Mood tag="Happy" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/441627708-CA289437F9F54A1C00D0FE5FD9CC8F28/441627725-96F6355F213F61B8F557BE1F35E62B98?lang=en" type="track" title="Black Jacket" summary="" index="18" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+</Directory>
+</MediaContainer>

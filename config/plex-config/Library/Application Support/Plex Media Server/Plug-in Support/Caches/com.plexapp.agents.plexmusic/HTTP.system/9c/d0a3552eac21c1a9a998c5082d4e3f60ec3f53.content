@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="-1" parentCountry="United Kingdom" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05D1EF43286A377A?lang=en" parentThumb="" parentTitle="Bastille" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/FCF7/FF45/DAF8/AE9A_xlarge_front.jpg?cid=4563968" totalInSet="2" type="album" title="All This Bad Blood" summary="" index="1" ratingCount="0" year="2014" leafCount="0" viewedLeafCount="0">
+<Genre tag="Indie" />
+<Genre tag="Indie Pop" />
+<Genre tag="General Indie Pop" />
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049659-817D17A23D6E86A17B58E36BABCC0927?lang=en" type="track" title="Pompeii" summary="" index="1" ratingCount="0">
+<Mood tag="Heavy Brooding" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049660-3DCB1B1BD74EF150666D0999550BF634?lang=en" type="track" title="Things We Lost In The Fire" summary="" index="2" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049661-9B51827F4B4EAF0C5976C15167CDF277?lang=en" type="track" title="Bad Blood" summary="" index="3" ratingCount="0">
+<Mood tag="Euphoric Energy" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049662-B55A589E7CBF74C512A633ED69D3ECF4?lang=en" type="track" title="Overjoyed" summary="" index="4" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049663-59802215698AB3470A719869EC3C1EFC?lang=en" type="track" title="These Streets" summary="" index="5" ratingCount="0">
+<Mood tag="Strumming Yearning" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049664-FBBDE5E72C31459ECACED59FAE4966A8?lang=en" type="track" title="Weight Of Living, Pt. II" summary="" index="6" ratingCount="0">
+<Mood tag="Energetic Melancholy" />
+</Track>
+<Track artist="" bpm="130" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049665-75FAEEC7C5C4A7F02A6ECF03E24D7FD5?lang=en" type="track" title="Icarus" summary="" index="7" ratingCount="0">
+<Mood tag="Passionate Rhythm" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049666-44F270DA77EF88342F088FF746D046E8?lang=en" type="track" title="Oblivion" summary="" index="8" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="70" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049667-96ABD3AE5A9729E466F51EBDFC192E58?lang=en" type="track" title="Flaws" summary="" index="9" ratingCount="0">
+<Mood tag="Energetic Yearning" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049668-2FF2372281464CA0E3A445B220A3D27D?lang=en" type="track" title="Daniel In The Den" summary="" index="10" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049669-174853572412918C5C8A6B0CAC9EFA2F?lang=en" type="track" title="Laura Palmer" summary="" index="11" ratingCount="0">
+<Mood tag="Powerful" />
+<Mood tag="Heroic" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/678049658-D1EF4353D873EBFAC70E9EF4524B2BF8/678049670-72D9BA9AC0783C94C41AD5D956626C01?lang=en" type="track" title="Get Home" summary="" index="12" ratingCount="0">
+<Mood tag="Smoky" />
+<Mood tag="Romantic" />
+</Track>
+</Directory>
+</MediaContainer>

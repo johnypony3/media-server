@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 4794505,
+    "airedSeason": 1,
+    "airedSeasonID": 572784,
+    "airedEpisodeNumber": 3,
+    "episodeName": "Articles of Incorporation",
+    "firstAired": "2014-04-20",
+    "guestStars": [],
+    "director": "Tricia Brock",
+    "directors": [
+      "Tricia Brock"
+    ],
+    "writers": [
+      "Matteo Borghese",
+      "Rob Turbovsk"
+    ],
+    "overview": "While Gavin Belson begins to hype Nucleus, a competing compression platform, Richard learns that the name Pied Piper is already registered to a sprinkler company, forcing him to negotiate. Meanwhile, Erlich goes on a vision quest for a new company name, and Peter Gregory proves elusive when one of his companies asks for money.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1450996916,
+    "dvdDiscid": "",
+    "dvdSeason": 1,
+    "dvdEpisodeNumber": 3,
+    "dvdChapter": null,
+    "absoluteNumber": 3,
+    "filename": "episodes/277165/4794505.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 178951,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2014-04-29 12:18:31",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3380250",
+    "siteRating": 7.6,
+    "siteRatingCount": 39
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "id": 4712475,
+    "airedSeason": 2,
+    "airedSeasonID": 567361,
+    "airedEpisodeNumber": 1,
+    "episodeName": "Comrades",
+    "firstAired": "2014-02-26",
+    "guestStars": [
+      "Richard Thomas",
+      "Lev Gorn",
+      "Jeremy Davidson",
+      "Natalie Gold",
+      "Tim Hopper",
+      "John Carroll Lynch",
+      "Victor Slezak",
+      "Costa Ronin",
+      "Daniel London",
+      "Luke Robertson",
+      "Anthony Arkin"
+    ],
+    "director": "Thomas Schlamme",
+    "directors": [
+      "Thomas Schlamme"
+    ],
+    "writers": [
+      "Joel Fields",
+      "Joe Weisberg"
+    ],
+    "overview": "Elizabeth comes back from her injury and straight into what should have been a routine mission – but it goes awry, leaving her and Philip in fear not only for themselves but for their whole network… and family. Paige's suspicions have only grown in her mother's absence. Meanwhile, Stan continues to fall for the Russian agent who has started to play him.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "BDU201",
+    "showUrl": "",
+    "lastUpdated": 1465047792,
+    "dvdDiscid": "",
+    "dvdSeason": 2,
+    "dvdEpisodeNumber": 1,
+    "dvdChapter": null,
+    "absoluteNumber": 14,
+    "filename": "episodes/261690/4712475.jpg",
+    "seriesId": 261690,
+    "lastUpdatedBy": 426260,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2014-02-05 15:30:09",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt2726822",
+    "siteRating": 7.8,
+    "siteRatingCount": 36
+  }
+}

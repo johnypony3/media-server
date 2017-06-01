@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5195801,
+    "airedSeason": 2,
+    "airedSeasonID": 608408,
+    "airedEpisodeNumber": 8,
+    "episodeName": "White Hat/Black Hat",
+    "firstAired": "2015-05-31",
+    "guestStars": [],
+    "director": "Alec Berg",
+    "directors": [
+      "Alec Berg"
+    ],
+    "writers": [
+      "Dan Lyons"
+    ],
+    "overview": "When Richard takes pity on a competitor, he accidentally sparks a feud that finds him paranoid about security. Jared exaggerates Pied Piper’s size to get results. Facing pressure from board members, Gavin looks to place responsibility elsewhere.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1466123073,
+    "dvdDiscid": "",
+    "dvdSeason": 2,
+    "dvdEpisodeNumber": 8,
+    "dvdChapter": null,
+    "absoluteNumber": 16,
+    "filename": "episodes/277165/5195801.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 434142,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 353805,
+    "thumbAdded": "2015-05-30 18:17:21",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3682604",
+    "siteRating": 7.7,
+    "siteRatingCount": 17
+  }
+}

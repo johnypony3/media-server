@@ -1,0 +1,49 @@
+{
+  "data": {
+    "id": 5499997,
+    "airedSeason": 9,
+    "airedSeasonID": 625567,
+    "airedEpisodeNumber": 16,
+    "episodeName": "The Positive Negative Reaction",
+    "firstAired": "2016-02-18",
+    "guestStars": [],
+    "director": "Mark Cendrowski",
+    "directors": [
+      "Mark Cendrowski"
+    ],
+    "writers": [
+      "Eric Kaplan",
+      "Jim Reynolds",
+      "Saladin K. Patterson",
+      "Steven Molaro",
+      "Steve Holland",
+      "Maria Ferrari"
+    ],
+    "overview": "When the gang finds out about Bernadette's pregnancy, they celebrate by singing karaoke.  Also, Bernadette is concerned when Wolowitz freaks out over her pregnancy announcement, and Wolowitz is convinced he must make more money to provide for a baby.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "4X7216",
+    "showUrl": "",
+    "lastUpdated": 1493594708,
+    "dvdDiscid": "",
+    "dvdSeason": 9,
+    "dvdEpisodeNumber": 16,
+    "dvdChapter": null,
+    "absoluteNumber": 199,
+    "filename": "episodes/80379/5499997.jpg",
+    "seriesId": 80379,
+    "lastUpdatedBy": 479081,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 403468,
+    "thumbAdded": "2016-02-18 22:03:27",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt5376678",
+    "siteRating": 7.8,
+    "siteRatingCount": 35
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "id": 5148405,
+    "airedSeason": 2,
+    "airedSeasonID": 608408,
+    "airedEpisodeNumber": 2,
+    "episodeName": "Runaway Devaluation",
+    "firstAired": "2015-04-19",
+    "guestStars": [],
+    "director": "Mike Judge",
+    "directors": [
+      "Mike Judge"
+    ],
+    "writers": [
+      "Ron Weiner"
+    ],
+    "overview": "In the wake of Hooli’s bombshell, Richard and the guys struggle to find a backer as they face legal and financial woes. Monica attempts to balance her interest in Pied Piper with her job. A cash-strapped Dinesh tries to put an end to the Kickstarter campaign for his cousin’s new app, Bro. Richard gets a surprising offer.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1484317102,
+    "dvdDiscid": "",
+    "dvdSeason": 2,
+    "dvdEpisodeNumber": 2,
+    "dvdChapter": null,
+    "absoluteNumber": 10,
+    "filename": "episodes/277165/5148405.jpg",
+    "seriesId": 277165,
+    "lastUpdatedBy": 370917,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 345634,
+    "thumbAdded": "2015-04-19 21:02:02",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt3682600",
+    "siteRating": 7.9,
+    "siteRatingCount": 17
+  }
+}

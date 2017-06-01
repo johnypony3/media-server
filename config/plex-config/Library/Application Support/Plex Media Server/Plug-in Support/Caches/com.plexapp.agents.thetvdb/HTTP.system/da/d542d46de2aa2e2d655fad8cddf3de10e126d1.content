@@ -1,0 +1,45 @@
+{
+  "data": {
+    "id": 5831007,
+    "airedSeason": 12,
+    "airedSeasonID": 671550,
+    "airedEpisodeNumber": 13,
+    "episodeName": "Spencer",
+    "firstAired": "2017-02-15",
+    "guestStars": [],
+    "director": "Glenn Kershaw",
+    "directors": [
+      "Glenn Kershaw"
+    ],
+    "writers": [
+      "Erica Messer",
+      "Kirsten Vangsness"
+    ],
+    "overview": "When a BAU member gets in trouble in Mexico, the team enlists the services of the International Response Team for their help.",
+    "language": {
+      "episodeName": "en",
+      "overview": "en"
+    },
+    "productionCode": "",
+    "showUrl": "",
+    "lastUpdated": 1494172884,
+    "dvdDiscid": "",
+    "dvdSeason": null,
+    "dvdEpisodeNumber": null,
+    "dvdChapter": null,
+    "absoluteNumber": 268,
+    "filename": "episodes/75710/5831007.jpg",
+    "seriesId": 75710,
+    "lastUpdatedBy": 479590,
+    "airsAfterSeason": null,
+    "airsBeforeSeason": null,
+    "airsBeforeEpisode": null,
+    "thumbAuthor": 1811,
+    "thumbAdded": "2017-02-17 07:42:18",
+    "thumbWidth": "400",
+    "thumbHeight": "225",
+    "imdbId": "tt6241338",
+    "siteRating": 0,
+    "siteRatingCount": 0
+  }
+}

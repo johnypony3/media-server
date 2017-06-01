@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Directory classical="1" compilation="0" parentCountry="United States" parentGUID="com.plexapp.agents.plexmusic://gracenote/artist/05449705002C51F8?lang=en" parentThumb="http://akamai-b.cdn.cddbp.net/cds/2.0/image-artist/4F31/8FC4/3522/FCB9_xlarge_front.jpg?cid=4563968" parentTitle="Otis Redding" parentTitleSort="" sortTitle="" thumb="http://akamai-b.cdn.cddbp.net/cds/2.0/cover/DF5F/C604/42C1/B4C0_xlarge_front.jpg?cid=4563968" totalInSet="1" studio="Rhino Records" type="album" title="The Very Best Of Otis Redding" summary="" index="1" ratingCount="0" year="1992" leafCount="0" viewedLeafCount="0">
+<Genre tag="Soul/R&amp;B" />
+<Genre tag="Classic Soul/R&amp;B" />
+<Genre tag="Deep Soul" />
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904569-28897E4053D937E7021B553C29DAC820?lang=en" type="track" title="These Arms Of Mine" summary="" index="1" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="80" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904570-2BCEAE35051DBBD2E44BC7B2A58E719B?lang=en" type="track" title="Pain In My Heart" summary="" index="2" ratingCount="0">
+<Mood tag="Idealistic" />
+<Mood tag="Stirring" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904571-0F2A1127CCFE55C6F785634C6012D1A3?lang=en" type="track" title="That&#39;s How Strong My Love Is" summary="" index="3" ratingCount="0">
+<Mood tag="Suave" />
+<Mood tag="Sultry" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904572-CB7E4298B20C935068BAB95FEAA87B89?lang=en" type="track" title="Mr. Pitiful" summary="" index="4" ratingCount="0">
+<Mood tag="Gritty" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="30" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904573-83523467BF4F1FFBF753234ED76A0F90?lang=en" type="track" title="I&#39;ve Been Loving You Too Long" summary="" index="5" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+<Track artist="" bpm="110" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904574-39D621C95B49987BB46CC0C39A637956?lang=en" type="track" title="Respect" summary="" index="6" ratingCount="0">
+<Mood tag="Party" />
+<Mood tag="Fun" />
+</Track>
+<Track artist="" bpm="120" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904575-543F4E5F28C1BAFB6E8A1F43AFE37B85?lang=en" type="track" title="I Can&#39;t Turn You Loose" summary="" index="7" ratingCount="0">
+<Mood tag="Party" />
+<Mood tag="Fun" />
+</Track>
+<Track artist="" bpm="140" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904576-E4821F4EB2B2DD45FDE9C9B53B435BD8?lang=en" type="track" title="Satisfaction" summary="" index="8" ratingCount="0">
+<Mood tag="Party" />
+<Mood tag="Fun" />
+</Track>
+<Track artist="" bpm="60" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904577-F04960805F27D4C2B9C9D5EA87FAB57E?lang=en" type="track" title="My Lover&#39;s Prayer" summary="" index="9" ratingCount="0">
+<Mood tag="Gentle Bittersweet" />
+</Track>
+<Track artist="" bpm="90" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904578-0D3D2326C16FA22F6C7FAEB93BE6AD66?lang=en" type="track" title="Fa-Fa-Fa-Fa-Fa (Sad Song)" summary="" index="10" ratingCount="0">
+<Mood tag="Charming" />
+<Mood tag="Easygoing" />
+</Track>
+<Track artist="" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904579-9FF7D3E9F04F872EBEC431FE5E29245E?lang=en" type="track" title="Try A Little Tenderness" summary="" index="11" ratingCount="0">
+<Mood tag="Sad" />
+<Mood tag="Soulful" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904580-379C08CA67BE8F3C7EA583340AA553EC?lang=en" type="track" title="Shake" summary="" index="12" ratingCount="0">
+<Mood tag="Loud Celebratory" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904581-5C8EBDC1C52C7C7349651F92871B6FA0?lang=en" type="track" title="The Happy Song (Dum-Dum)" summary="" index="13" ratingCount="0">
+<Mood tag="Charming" />
+<Mood tag="Easygoing" />
+</Track>
+<Track artist="Otis Redding &amp; Carla Thomas" bpm="50" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904582-A4D6CCC0336DCBEEA1508D016DAD24A5?lang=en" type="track" title="Tramp" summary="" index="14" ratingCount="0">
+<Mood tag="Casual Groove" />
+</Track>
+<Track artist="" bpm="100" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904583-51255408CF1B5AE1FFE1322B30DDE2A0?lang=en" type="track" title="(Sittin&#39; On) The Dock Of The Bay" summary="" index="15" ratingCount="0">
+<Mood tag="Charming" />
+<Mood tag="Easygoing" />
+</Track>
+<Track artist="" bpm="40" guid="com.plexapp.agents.plexmusic://gracenote/track/2904568-449705A14DCB9EF956F7BA2260D88496/2904584-227EEDDF443C0C17D7FB0A7C843E87AB?lang=en" type="track" title="I&#39;ve Got Dreams To Remember" summary="" index="16" ratingCount="0">
+<Mood tag="Dramatic Emotion" />
+</Track>
+</Directory>
+</MediaContainer>
