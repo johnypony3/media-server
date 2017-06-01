@@ -3,6 +3,12 @@ version: '2'
 services:
   plex:
     image: plexinc/pms-docker:latest
+
+    restart: on-failure
+    cpu_shares: 73
+    cpu_quota: 50000
+    cpuset: 0,1
+
     networks:
       - web
     ports:
